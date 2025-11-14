@@ -52,7 +52,10 @@
     "ar": "अरबी",
     "hi": "हिंदी",
     "ko": "कोरियाई"
-  }
+  },
+  "detailedInfo": "विस्तृत जानकारी",
+  "dietRecommendations": "आहार सिफारिशें",
+  "consumptionTiming": "सर्वोत्तम उपभोग समय",
+  "allergyInfo": "एलर्जी जानकारी",
+  "dailyIntake": "दैनिक अनुशंसित सेवन"
 }
-
-

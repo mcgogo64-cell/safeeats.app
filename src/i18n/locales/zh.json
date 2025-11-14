@@ -52,7 +52,10 @@
     "ar": "阿拉伯语",
     "hi": "印地语",
     "ko": "韩语"
-  }
+  },
+  "detailedInfo": "详细信息",
+  "dietRecommendations": "饮食建议",
+  "consumptionTiming": "最佳食用时间",
+  "allergyInfo": "过敏信息",
+  "dailyIntake": "每日推荐摄入量"
 }
-
-

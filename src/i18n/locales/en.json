@@ -42,6 +42,11 @@
   "removeFavorite": "Remove from Favorites",
   "portion": "Portion Size",
   "clear": "Clear",
+  "detailedInfo": "Detailed Information",
+  "dietRecommendations": "Diet Recommendations",
+  "consumptionTiming": "Best Time to Consume",
+  "allergyInfo": "Allergy Information",
+  "dailyIntake": "Daily Recommended Intake",
   "seo": {
     "title": "SafeEats - Sugar Content Analyzer for Fruits & Vegetables",
     "description": "Find out how much sugar is in different fruits and vegetables. Analyze sugar content and make informed dietary choices.",
@@ -63,4 +68,3 @@
     "ko": "Korean"
   }
 }
-

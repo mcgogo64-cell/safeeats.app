@@ -434,6 +434,61 @@ function App() {
                       {searchResults.sugarContent >= 10 && searchResults.sugarContent < 15 && t('sugarComment.medium')}
                       {searchResults.sugarContent >= 15 && t('sugarComment.high')}
                     </div>
+
+                    {/* Detailed Information */}
+                    {searchResults.comments && (
+                      <div className="detailed-info-section">
+                        <h3 className="detailed-info-title">{t('detailedInfo')}</h3>
+
+                        {/* Diet Recommendations */}
+                        {searchResults.comments.dietRecommendations && searchResults.comments.dietRecommendations[currentLang] && searchResults.comments.dietRecommendations[currentLang].length > 0 && (
+                          <div className="info-block">
+                            <div className="info-block-header">
+                              <span className="info-icon">🥗</span>
+                              <h4 className="info-block-title">{t('dietRecommendations')}</h4>
+                            </div>
+                            <ul className="info-list">
+                              {searchResults.comments.dietRecommendations[currentLang].map((rec, idx) => (
+                                <li key={idx} className="info-list-item">{rec}</li>
+                              ))}
+                            </ul>
+                          </div>
+                        )}
+
+                        {/* Consumption Timing */}
+                        {searchResults.comments.consumptionTiming && searchResults.comments.consumptionTiming[currentLang] && (
+                          <div className="info-block">
+                            <div className="info-block-header">
+                              <span className="info-icon">⏰</span>
+                              <h4 className="info-block-title">{t('consumptionTiming')}</h4>
+                            </div>
+                            <p className="info-text">{searchResults.comments.consumptionTiming[currentLang]}</p>
+                          </div>
+                        )}
+
+                        {/* Allergy Info */}
+                        {searchResults.comments.allergyInfo && searchResults.comments.allergyInfo[currentLang] && (
+                          <div className="info-block">
+                            <div className="info-block-header">
+                              <span className="info-icon">⚠️</span>
+                              <h4 className="info-block-title">{t('allergyInfo')}</h4>
+                            </div>
+                            <p className="info-text">{searchResults.comments.allergyInfo[currentLang]}</p>
+                          </div>
+                        )}
+
+                        {/* Daily Intake */}
+                        {searchResults.comments.dailyIntake && searchResults.comments.dailyIntake[currentLang] && (
+                          <div className="info-block">
+                            <div className="info-block-header">
+                              <span className="info-icon">📊</span>
+                              <h4 className="info-block-title">{t('dailyIntake')}</h4>
+                            </div>
+                            <p className="info-text daily-intake-text">{searchResults.comments.dailyIntake[currentLang]}</p>
+                          </div>
+                        )}
+                      </div>
+                    )}
                   </>
                 ) : (
                   <div className="no-sugar-data">

@@ -61,6 +61,10 @@
     "ar": "Arapça",
     "hi": "Hintçe",
     "ko": "Korece"
-  }
+  },
+  "detailedInfo": "Detaylı Bilgiler",
+  "dietRecommendations": "Diyet Önerileri",
+  "consumptionTiming": "Tüketim Zamanı",
+  "allergyInfo": "Alerji Bilgileri",
+  "dailyIntake": "Günlük Önerilen Tüketim"
 }
-

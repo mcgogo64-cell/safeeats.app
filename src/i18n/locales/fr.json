@@ -52,7 +52,10 @@
     "ar": "Arabe",
     "hi": "Hindi",
     "ko": "Coréen"
-  }
+  },
+  "detailedInfo": "Informations Détaillées",
+  "dietRecommendations": "Recommandations Diététiques",
+  "consumptionTiming": "Meilleur Moment pour Consommer",
+  "allergyInfo": "Informations sur les Allergies",
+  "dailyIntake": "Apport Journalier Recommandé"
 }
-
-

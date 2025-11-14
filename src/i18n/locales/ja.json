@@ -52,7 +52,10 @@
     "ar": "アラビア語",
     "hi": "ヒンディー語",
     "ko": "韓国語"
-  }
+  },
+  "detailedInfo": "詳細情報",
+  "dietRecommendations": "食事推奨事項",
+  "consumptionTiming": "最適な摂取時間",
+  "allergyInfo": "アレルギー情報",
+  "dailyIntake": "1日の推奨摂取量"
 }
-
-

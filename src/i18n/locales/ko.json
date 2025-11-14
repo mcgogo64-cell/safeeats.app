@@ -52,7 +52,10 @@
     "ar": "아랍어",
     "hi": "힌디어",
     "ko": "한국어"
-  }
+  },
+  "detailedInfo": "상세 정보",
+  "dietRecommendations": "식이 권장사항",
+  "consumptionTiming": "최적 섭취 시간",
+  "allergyInfo": "알레르기 정보",
+  "dailyIntake": "일일 권장 섭취량"
 }
-
-
