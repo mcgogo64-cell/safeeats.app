@@ -1,31 +1,22 @@
 {
-  "welcome": "SafeEats - Diet Restriction Filter",
-  "subtitle": "Find safe fruits and vegetables for your dietary restrictions",
+  "welcome": "SafeEats - Sugar Content Analyzer",
+  "subtitle": "Find out how much sugar is in your fruits and vegetables",
   "selectLanguage": "Select Language",
-  "myRestrictions": "My Restrictions:",
-  "filters": {
-    "lowSugar": "Low Sugar (Keto)",
-    "lowHistamine": "Low Histamine",
-    "lowFODMAP": "Low FODMAP (IBS)",
-    "lowAcid": "Low Acid (GERD)"
-  },
-  "filter": "Filter",
-  "clear": "Clear",
-  "safe": "Safe to Eat",
-  "caution": "Eat with Caution",
-  "avoid": "Avoid",
-  "noResults": "No foods match your selected restrictions.",
-  "selectFilters": "Please select at least one restriction filter.",
-  "disclaimer": {
-    "title": "IMPORTANT SAFETY DISCLAIMER",
-    "text": "This tool is NOT designed for life-threatening food allergies (e.g., peanuts, wheat, shellfish) or Celiac disease. This tool does NOT track cross-contact risks. The tool only filters known intolerance profiles (e.g., FODMAP, Histamine) of foods in their generic (unprocessed) states. If you have a serious allergy, DO NOT USE this app.",
-    "accept": "I Understand and Accept",
-    "medicalDisclaimer": "The information provided is for informational purposes only and does not constitute professional medical advice, diagnosis, or treatment."
+  "searchPlaceholder": "Search for a fruit or vegetable...",
+  "searchInstructions": "Type the name of a fruit or vegetable to see its sugar content",
+  "sugarContent": "Sugar Content",
+  "noSugarData": "Sugar content information not available for this item",
+  "foodNotFound": "Food not found. Please try another name.",
+  "sugarComment": {
+    "low": "Low sugar content - Good choice!",
+    "moderate": "Moderate sugar content",
+    "medium": "Medium-high sugar content",
+    "high": "High sugar content - Consume in moderation"
   },
   "seo": {
-    "title": "SafeEats - Find Safe Fruits & Vegetables for Diet Restrictions | Keto, Histamine, FODMAP, GERD Filter",
-    "description": "Filter safe fruits and vegetables for your dietary restrictions. Find foods suitable for Keto, low Histamine, low FODMAP (IBS), and low Acid (GERD) diets. Free diet restriction filter tool.",
-    "keywords": "fruit sugar diet, low sugar fruits, keto fruits, histamine intolerance foods, low histamine fruits, FODMAP foods, IBS diet, GERD diet foods, low acid fruits, diet restriction filter, safe foods for allergies, fruit vegetable filter, dietary restrictions, keto vegetables, low sugar vegetables"
+    "title": "SafeEats - Sugar Content Analyzer for Fruits & Vegetables",
+    "description": "Find out how much sugar is in different fruits and vegetables. Analyze sugar content and make informed dietary choices.",
+    "keywords": "fruit sugar content, vegetable sugar content, sugar in fruits, sugar analyzer, fruit sugar calculator, low sugar fruits, sugar amount in fruits"
   },
   "languages": {
     "en": "English",
