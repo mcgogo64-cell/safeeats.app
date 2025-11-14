@@ -1,7 +1,18 @@
 {
-  "welcome": "SafeEats - 식이 제한 필터",
-  "subtitle": "식이 제한에 맞는 안전한 과일과 채소 찾기",
+  "welcome": "SafeEats - 당 함량 분석기",
+  "subtitle": "과일과 채소의 당 함량 알아보기",
   "selectLanguage": "언어 선택",
+  "searchPlaceholder": "과일 또는 채소 검색...",
+  "searchInstructions": "과일 또는 채소 이름을 입력하여 당 함량 확인",
+  "sugarContent": "당 함량",
+  "noSugarData": "이 항목에 대한 당 함량 정보를 사용할 수 없습니다",
+  "foodNotFound": "음식을 찾을 수 없습니다. 다른 이름을 시도해 보세요.",
+  "sugarComment": {
+    "low": "낮은 당 함량 - 좋은 선택입니다!",
+    "moderate": "보통 당 함량",
+    "medium": "중-높은 당 함량",
+    "high": "높은 당 함량 - 적당히 섭취하세요"
+  },
   "myRestrictions": "내 제한사항:",
   "filters": {
     "lowSugar": "저당 (케토)",

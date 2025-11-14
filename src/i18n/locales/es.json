@@ -1,7 +1,18 @@
 {
-  "welcome": "SafeEats - Filtro de Restricciones Dietéticas",
-  "subtitle": "Encuentra frutas y verduras seguras para tus restricciones dietéticas",
+  "welcome": "SafeEats - Analizador de Contenido de Azúcar",
+  "subtitle": "Descubre cuánta azúcar contienen tus frutas y verduras",
   "selectLanguage": "Seleccionar Idioma",
+  "searchPlaceholder": "Busca una fruta o verdura...",
+  "searchInstructions": "Escribe el nombre de una fruta o verdura para ver su contenido de azúcar",
+  "sugarContent": "Contenido de Azúcar",
+  "noSugarData": "Información de contenido de azúcar no disponible para este artículo",
+  "foodNotFound": "Alimento no encontrado. Por favor intenta con otro nombre.",
+  "sugarComment": {
+    "low": "Bajo contenido de azúcar - ¡Buena elección!",
+    "moderate": "Contenido moderado de azúcar",
+    "medium": "Contenido medio-alto de azúcar",
+    "high": "Alto contenido de azúcar - Consume con moderación"
+  },
   "myRestrictions": "Mis Restricciones:",
   "filters": {
     "lowSugar": "Bajo en Azúcar (Keto)",
@@ -23,9 +34,9 @@
     "medicalDisclaimer": "La información proporcionada es solo para fines informativos y no constituye asesoramiento médico profesional, diagnóstico o tratamiento."
   },
   "seo": {
-    "title": "SafeEats - Filtro de Frutas y Verduras Seguras para Restricciones Dietéticas | Keto, Histamina, FODMAP, GERD",
-    "description": "Filtra frutas y verduras seguras para tus restricciones dietéticas. Encuentra alimentos adecuados para dietas Keto, bajas en Histamina, bajas en FODMAP (IBS) y bajas en Ácido (GERD). Herramienta gratuita de filtro de restricciones dietéticas.",
-    "keywords": "dieta frutas azúcar, frutas bajas en azúcar, frutas keto, alimentos intolerancia histamina, frutas bajas en histamina, alimentos FODMAP, dieta IBS, alimentos dieta GERD, frutas bajas en ácido, filtro restricciones dietéticas, alimentos seguros alergias, filtro frutas verduras, restricciones dietéticas, verduras keto, verduras bajas en azúcar"
+    "title": "SafeEats - Analizador de Contenido de Azúcar para Frutas y Verduras",
+    "description": "Descubre cuánta azúcar contienen diferentes frutas y verduras. Analiza el contenido de azúcar y toma decisiones dietéticas informadas.",
+    "keywords": "contenido de azúcar en frutas, contenido de azúcar en verduras, azúcar en frutas, analizador de azúcar, calculadora de azúcar en frutas, frutas bajas en azúcar, cantidad de azúcar en frutas"
   },
   "languages": {
     "en": "Inglés",

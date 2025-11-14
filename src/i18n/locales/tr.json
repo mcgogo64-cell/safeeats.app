@@ -1,31 +1,51 @@
 {
-  "welcome": "SafeEats - Diyet Kısıtlama Filtresi",
-  "subtitle": "Diyet kısıtlamalarınıza uygun güvenli meyve ve sebzeleri bulun",
+  "welcome": "SafeEats - Şeker İçeriği Analizcisi",
+  "subtitle": "Meyve ve sebzelerinizde ne kadar şeker olduğunu öğrenin",
   "selectLanguage": "Dil Seçin",
-  "myRestrictions": "Kısıtlamalarım:",
-  "filters": {
-    "lowSugar": "Düşük Şeker (Keto)",
-    "lowHistamine": "Düşük Histamin",
-    "lowFODMAP": "Düşük FODMAP (IBS)",
-    "lowAcid": "Düşük Asit (GERD)"
+  "searchPlaceholder": "Bir meyve veya sebze arayın...",
+  "searchInstructions": "Şeker içeriğini görmek için bir meyve veya sebze adı yazın",
+  "sugarContent": "Şeker İçeriği",
+  "noSugarData": "Bu ürün için şeker içeriği bilgisi mevcut değil",
+  "foodNotFound": "Gıda bulunamadı. Lütfen başka bir isim deneyin.",
+  "sugarComment": {
+    "low": "Düşük şeker içeriği - İyi seçim!",
+    "moderate": "Orta seviye şeker içeriği",
+    "medium": "Orta-yüksek şeker içeriği",
+    "high": "Yüksek şeker içeriği - Ölçülü tüketin"
   },
-  "filter": "Filtrele",
+  "sugarLevel": {
+    "low": "Düşük",
+    "medium": "Orta",
+    "high": "Yüksek"
+  },
+  "dietFilter": {
+    "general": "Genel",
+    "diabetes": "Diyabet",
+    "keto": "Keto",
+    "lowcarb": "Düşük Karbonhidrat",
+    "kids": "Çocuk"
+  },
+  "dietAdvice": {
+    "ketoSuitable": "Keto diyeti için uygundur",
+    "ketoNotSuitable": "Keto diyeti için uygun değil - Yüksek karbonhidrat",
+    "diabetesCaution": "Diyabet için dikkatli tüketilebilir",
+    "diabetesNotSuitable": "Diyabet için önerilmez - Yüksek şeker",
+    "lowcarbSuitable": "Düşük karbonhidrat diyeti için uygundur",
+    "lowcarbNotSuitable": "Düşük karbonhidrat diyeti için uygun değil",
+    "kidsSuitable": "Çocuklar için uygundur",
+    "kidsModerate": "Çocuklar için ölçülü tüketim önerilir"
+  },
+  "popularFoods": "Popüler Gıdalar",
+  "recentSearches": "Son Aramalar",
+  "favorites": "Favoriler",
+  "addFavorite": "Favorilere Ekle",
+  "removeFavorite": "Favorilerden Çıkar",
+  "portion": "Porsiyon Boyutu",
   "clear": "Temizle",
-  "safe": "Güvenle Yiyebilirsiniz",
-  "caution": "Dikkatli Yiyin",
-  "avoid": "Kaçının",
-  "noResults": "Seçtiğiniz kısıtlamalara uygun gıda bulunamadı.",
-  "selectFilters": "Lütfen en az bir kısıtlama filtresi seçin.",
-  "disclaimer": {
-    "title": "ÖNEMLİ GÜVENLİK UYARISI",
-    "text": "Bu araç, hayatı tehdit eden gıda alerjileri (örn. fıstık, buğday, kabuklu deniz ürünleri) veya Çölyak hastalığı için tasarlanmamıştır. Bu araç çapraz temas risklerini takip ETMEZ. Araç yalnızca gıdaların jenerik (işlenmemiş) hallerindeki bilinen intolerans profillerini (örn. FODMAP, Histamin) filtreler. Ciddi bir alerjiniz varsa, bu uygulamayı KULLANMAYIN.",
-    "accept": "Anladım ve Kabul Ediyorum",
-    "medicalDisclaimer": "Sağlanan bilgiler yalnızca bilgilendirme amaçlıdır ve profesyonel tıbbi tavsiye, teşhis veya tedavi yerine geçmez."
-  },
   "seo": {
-    "title": "SafeEats - Diyet Kısıtlamaları İçin Güvenli Meyve ve Sebze Filtresi | Keto, Histamin, FODMAP, GERD",
-    "description": "Diyet kısıtlamalarınıza uygun güvenli meyve ve sebzeleri filtreleyin. Keto, düşük Histamin, düşük FODMAP (IBS) ve düşük Asit (GERD) diyetleri için uygun gıdaları bulun. Ücretsiz diyet kısıtlama filtresi.",
-    "keywords": "meyve şeker diyet, düşük şekerli meyveler, keto meyveler, histamin intoleransı gıdalar, düşük histaminli meyveler, FODMAP gıdalar, IBS diyeti, GERD diyet gıdalar, düşük asitli meyveler, diyet kısıtlama filtresi, alerji için güvenli gıdalar, meyve sebze filtresi, diyet kısıtlamaları, keto sebzeler, düşük şekerli sebzeler"
+    "title": "SafeEats - Meyve ve Sebzeler için Şeker İçeriği Analizcisi",
+    "description": "Farklı meyve ve sebzelerde ne kadar şeker olduğunu öğrenin. Şeker içeriğini analiz edin ve bilinçli beslenme tercihleri yapın.",
+    "keywords": "meyve şeker içeriği, sebze şeker içeriği, meyvelerde şeker, şeker analizcisi, meyve şeker hesaplayıcı, düşük şekerli meyveler, meyvelerde şeker miktarı"
   },
   "languages": {
     "en": "İngilizce",

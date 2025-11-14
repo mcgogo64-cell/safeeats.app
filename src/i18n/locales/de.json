@@ -1,7 +1,18 @@
 {
-  "welcome": "SafeEats - Diät-Einschränkungsfilter",
-  "subtitle": "Finden Sie sichere Obst- und Gemüsesorten für Ihre Diät-Einschränkungen",
+  "welcome": "SafeEats - Zuckergehalts-Analysator",
+  "subtitle": "Finden Sie heraus, wie viel Zucker in Ihrem Obst und Gemüse enthalten ist",
   "selectLanguage": "Sprache auswählen",
+  "searchPlaceholder": "Suchen Sie nach einer Frucht oder einem Gemüse...",
+  "searchInstructions": "Geben Sie den Namen einer Frucht oder eines Gemüses ein, um den Zuckergehalt zu sehen",
+  "sugarContent": "Zuckergehalt",
+  "noSugarData": "Zuckergehaltsinformationen für diesen Artikel nicht verfügbar",
+  "foodNotFound": "Lebensmittel nicht gefunden. Bitte versuchen Sie einen anderen Namen.",
+  "sugarComment": {
+    "low": "Niedriger Zuckergehalt - Gute Wahl!",
+    "moderate": "Moderate Zuckergehalt",
+    "medium": "Mittel-hoher Zuckergehalt",
+    "high": "Hoher Zuckergehalt - In Maßen konsumieren"
+  },
   "myRestrictions": "Meine Einschränkungen:",
   "filters": {
     "lowSugar": "Niedrige Zuckermenge (Keto)",
@@ -23,9 +34,9 @@
     "medicalDisclaimer": "Die bereitgestellten Informationen dienen nur zu Informationszwecken und stellen keine professionelle medizinische Beratung, Diagnose oder Behandlung dar."
   },
   "seo": {
-    "title": "SafeEats - Filter für sichere Obst- und Gemüsesorten bei Diät-Einschränkungen | Keto, Histamin, FODMAP, GERD",
-    "description": "Filtern Sie sichere Obst- und Gemüsesorten für Ihre Diät-Einschränkungen. Finden Sie Lebensmittel für Keto-, niedrige Histamin-, niedrige FODMAP- (IBS) und niedrige Säure- (GERD) Diäten. Kostenloses Diät-Einschränkungsfilter-Tool.",
-    "keywords": "Obst Zucker Diät, niedrige Zucker Früchte, Keto Früchte, Histaminunverträglichkeit Lebensmittel, niedrige Histamin Früchte, FODMAP Lebensmittel, IBS Diät, GERD Diät Lebensmittel, niedrige Säure Früchte, Diät Einschränkung Filter, sichere Lebensmittel Allergien, Obst Gemüse Filter, Diät Einschränkungen, Keto Gemüse, niedrige Zucker Gemüse"
+    "title": "SafeEats - Zuckergehalts-Analysator für Obst und Gemüse",
+    "description": "Finden Sie heraus, wie viel Zucker in verschiedenen Obst- und Gemüsesorten enthalten ist. Analysieren Sie den Zuckergehalt und treffen Sie fundierte Ernährungsentscheidungen.",
+    "keywords": "Zuckergehalt Obst, Zuckergehalt Gemüse, Zucker in Früchten, Zuckergehalts-Analysator, Fruchtzucker-Rechner, niedrige Zucker Früchte, Zuckermenge in Früchten"
   },
   "languages": {
     "en": "Englisch",

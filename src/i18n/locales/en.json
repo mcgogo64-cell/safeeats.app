@@ -13,6 +13,35 @@
     "medium": "Medium-high sugar content",
     "high": "High sugar content - Consume in moderation"
   },
+  "sugarLevel": {
+    "low": "Low",
+    "medium": "Medium",
+    "high": "High"
+  },
+  "dietFilter": {
+    "general": "General",
+    "diabetes": "Diabetes",
+    "keto": "Keto",
+    "lowcarb": "Low-Carb",
+    "kids": "Kids"
+  },
+  "dietAdvice": {
+    "ketoSuitable": "Suitable for Keto diet",
+    "ketoNotSuitable": "Not suitable for Keto diet - High carbs",
+    "diabetesCaution": "Suitable with caution for diabetes",
+    "diabetesNotSuitable": "Not recommended for diabetes - High sugar",
+    "lowcarbSuitable": "Suitable for Low-Carb diet",
+    "lowcarbNotSuitable": "Not suitable for Low-Carb diet",
+    "kidsSuitable": "Suitable for children",
+    "kidsModerate": "Moderate consumption recommended for children"
+  },
+  "popularFoods": "Popular Foods",
+  "recentSearches": "Recent Searches",
+  "favorites": "Favorites",
+  "addFavorite": "Add to Favorites",
+  "removeFavorite": "Remove from Favorites",
+  "portion": "Portion Size",
+  "clear": "Clear",
   "seo": {
     "title": "SafeEats - Sugar Content Analyzer for Fruits & Vegetables",
     "description": "Find out how much sugar is in different fruits and vegetables. Analyze sugar content and make informed dietary choices.",

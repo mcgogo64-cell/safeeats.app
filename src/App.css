@@ -77,9 +77,49 @@
   margin: 0;
 }
 
+/* Diet Filter Buttons */
+.diet-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.diet-filter-btn {
+  padding: 10px 18px;
+  font-size: 14px;
+  font-weight: 400;
+  border: 1.5px solid rgba(38, 166, 154, 0.3);
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 0.9);
+  color: #26a69a;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+.diet-filter-btn:hover {
+  background-color: rgba(38, 166, 154, 0.1);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08);
+}
+
+.diet-filter-btn.active {
+  background-color: #26a69a;
+  color: white;
+  border-color: #26a69a;
+  box-shadow: 0 4px 12px rgba(38, 166, 154, 0.3);
+}
+
 .search-container {
   width: 100%;
   margin-top: 10px;
+  position: relative;
+}
+
+.search-input-wrapper {
+  position: relative;
+  width: 100%;
 }
 
 .food-search-input {
@@ -105,6 +145,115 @@
 .food-search-input::placeholder {
   color: #a0aec0;
   font-weight: 300;
+}
+
+/* Autocomplete Dropdown */
+.autocomplete-dropdown {
+  position: absolute;
+  top: calc(100% + 8px);
+  left: 0;
+  right: 0;
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+  z-index: 1000;
+  max-height: 250px;
+  overflow-y: auto;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.autocomplete-item {
+  padding: 12px 20px;
+  font-size: 15px;
+  color: #2d3748;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.autocomplete-item:last-child {
+  border-bottom: none;
+}
+
+.autocomplete-item:hover {
+  background-color: rgba(38, 166, 154, 0.08);
+}
+
+/* Food Chips */
+.food-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 12px;
+}
+
+.food-chip {
+  padding: 8px 16px;
+  font-size: 14px;
+  font-weight: 400;
+  border: 1px solid rgba(38, 166, 154, 0.2);
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 0.9);
+  color: #26a69a;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+.food-chip:hover {
+  background-color: rgba(38, 166, 154, 0.1);
+  transform: translateY(-2px) scale(1.02);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-color: #26a69a;
+}
+
+.food-chip.favorite {
+  border-color: #e91e63;
+  color: #e91e63;
+}
+
+.food-chip.favorite:hover {
+  background-color: rgba(233, 30, 99, 0.1);
+}
+
+/* Popular Foods & Recent Searches */
+.popular-foods,
+.recent-searches,
+.favorites-section {
+  margin-top: 20px;
+}
+
+.section-label {
+  font-size: 14px;
+  font-weight: 500;
+  color: #4a5568;
+  margin: 0 0 8px 0;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.clear-btn-small {
+  padding: 4px 12px;
+  font-size: 12px;
+  font-weight: 400;
+  border: none;
+  border-radius: 12px;
+  background-color: transparent;
+  color: #718096;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.clear-btn-small:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+  color: #2d3748;
 }
 
 .search-instructions {
@@ -143,8 +292,145 @@
 }
 
 .food-result-card:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.12);
+  transform: translateY(-4px);
+  box-shadow: 0 16px 48px rgba(0, 0, 0, 0.12);
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 24px;
+}
+
+.favorite-btn {
+  background: none;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+  padding: 8px;
+  border-radius: 50%;
+  transition: all 0.3s ease;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.favorite-btn:hover {
+  background-color: rgba(233, 30, 99, 0.1);
+  transform: scale(1.1);
+}
+
+.favorite-btn.active {
+  animation: heartBeat 0.5s ease;
+}
+
+@keyframes heartBeat {
+  0%, 100% { transform: scale(1); }
+  25% { transform: scale(1.2); }
+  50% { transform: scale(1.1); }
+}
+
+/* Sugar Level Indicator */
+.sugar-level-indicator {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 16px;
+  border-radius: 12px;
+  border: 2px solid;
+  margin-bottom: 24px;
+}
+
+.sugar-level-dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+}
+
+.sugar-level-label {
+  font-size: 14px;
+  font-weight: 500;
+  color: #2d3748;
+}
+
+/* Portion Selector */
+.portion-selector {
+  margin-bottom: 24px;
+}
+
+.portion-selector label {
+  display: block;
+  font-size: 14px;
+  font-weight: 500;
+  color: #4a5568;
+  margin-bottom: 12px;
+}
+
+.portion-buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.portion-btn {
+  flex: 1;
+  padding: 10px 16px;
+  font-size: 14px;
+  font-weight: 400;
+  border: 1.5px solid rgba(38, 166, 154, 0.3);
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 0.9);
+  color: #26a69a;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.portion-btn:hover {
+  background-color: rgba(38, 166, 154, 0.1);
+  transform: translateY(-1px);
+}
+
+.portion-btn.active {
+  background-color: #26a69a;
+  color: white;
+  border-color: #26a69a;
+  box-shadow: 0 4px 12px rgba(38, 166, 154, 0.3);
+}
+
+/* Diet Advice */
+.diet-advice {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 16px;
+  border-radius: 12px;
+  margin-bottom: 20px;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.diet-advice.suitable {
+  background-color: rgba(76, 175, 80, 0.1);
+  border: 1px solid rgba(76, 175, 80, 0.3);
+  color: #2e7d32;
+}
+
+.diet-advice.not-suitable {
+  background-color: rgba(244, 67, 54, 0.1);
+  border: 1px solid rgba(244, 67, 54, 0.3);
+  color: #c62828;
+}
+
+.diet-advice-icon {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.diet-advice-text {
+  line-height: 1.5;
 }
 
 .food-name {
@@ -280,6 +566,15 @@
     font-size: 16px;
   }
 
+  .diet-filters {
+    gap: 8px;
+  }
+
+  .diet-filter-btn {
+    padding: 8px 14px;
+    font-size: 13px;
+  }
+
   .food-result-card {
     padding: 30px 24px;
   }
@@ -295,6 +590,19 @@
   .food-search-input {
     padding: 14px 18px;
     font-size: 15px;
+  }
+
+  .portion-buttons {
+    flex-direction: column;
+  }
+
+  .food-chips {
+    gap: 8px;
+  }
+
+  .food-chip {
+    padding: 6px 14px;
+    font-size: 13px;
   }
 }
 

@@ -1,7 +1,18 @@
 {
-  "welcome": "SafeEats - Filtro Restrizioni Dietetiche",
-  "subtitle": "Trova frutta e verdura sicure per le tue restrizioni dietetiche",
+  "welcome": "SafeEats - Analizzatore di Contenuto di Zucchero",
+  "subtitle": "Scopri quanta zucchero contengono i tuoi frutti e verdure",
   "selectLanguage": "Seleziona Lingua",
+  "searchPlaceholder": "Cerca un frutto o una verdura...",
+  "searchInstructions": "Digita il nome di un frutto o verdura per vedere il contenuto di zucchero",
+  "sugarContent": "Contenuto di Zucchero",
+  "noSugarData": "Informazioni sul contenuto di zucchero non disponibili per questo articolo",
+  "foodNotFound": "Alimento non trovato. Prova con un altro nome.",
+  "sugarComment": {
+    "low": "Basso contenuto di zucchero - Buona scelta!",
+    "moderate": "Contenuto moderato di zucchero",
+    "medium": "Contenuto medio-alto di zucchero",
+    "high": "Alto contenuto di zucchero - Consumare con moderazione"
+  },
   "myRestrictions": "Le Mie Restrizioni:",
   "filters": {
     "lowSugar": "Basso Zucchero (Keto)",
@@ -23,9 +34,9 @@
     "medicalDisclaimer": "Le informazioni fornite sono solo a scopo informativo e non costituiscono consulenza medica professionale, diagnosi o trattamento."
   },
   "seo": {
-    "title": "SafeEats - Filtro Frutta e Verdura Sicure per Restrizioni Dietetiche | Keto, Istamina, FODMAP, GERD",
-    "description": "Filtra frutta e verdura sicure per le tue restrizioni dietetiche. Trova alimenti adatti per diete Keto, basse Istamina, basse FODMAP (IBS) e basse Acido (GERD). Strumento gratuito di filtro restrizioni dietetiche.",
-    "keywords": "dieta frutta zucchero, frutta basso zucchero, frutta keto, alimenti intolleranza istamina, frutta bassa istamina, alimenti FODMAP, dieta IBS, alimenti dieta GERD, frutta basso acido, filtro restrizioni dietetiche, alimenti sicuri allergie, filtro frutta verdura, restrizioni dietetiche, verdura keto, verdura basso zucchero"
+    "title": "SafeEats - Analizzatore di Contenuto di Zucchero per Frutti e Verdure",
+    "description": "Scopri quanta zucchero contengono diversi frutti e verdure. Analizza il contenuto di zucchero e fai scelte alimentari informate.",
+    "keywords": "contenuto zucchero frutta, contenuto zucchero verdura, zucchero nei frutti, analizzatore zucchero, calcolatore zucchero frutta, frutta basso zucchero, quantità zucchero frutta"
   },
   "languages": {
     "en": "Inglese",

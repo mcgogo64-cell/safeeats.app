@@ -20,6 +20,21 @@
         "status": 1,
         "note": "Alkali gıdadır."
       }
+    },
+    "names": {
+      "tr": "Avokado",
+      "en": "Avocado",
+      "es": "Aguacate",
+      "fr": "Avocat",
+      "de": "Avocado",
+      "it": "Avocado",
+      "pt": "Abacate",
+      "ru": "Авокадо",
+      "zh": "鳄梨",
+      "ja": "アボカド",
+      "ar": "أفوكادو",
+      "hi": "एवोकाडो",
+      "ko": "아보카도"
     }
   },
   {
@@ -43,6 +58,21 @@
         "status": 1,
         "note": "Düşük asit içerir."
       }
+    },
+    "names": {
+      "tr": "Ahududu",
+      "en": "Raspberry",
+      "es": "Frambuesa",
+      "fr": "Framboise",
+      "de": "Himbeere",
+      "it": "Lampone",
+      "pt": "Framboesa",
+      "ru": "Малина",
+      "zh": "覆盆子",
+      "ja": "ラズベリー",
+      "ar": "توت العليق",
+      "hi": "रसभरी",
+      "ko": "라즈베리"
     }
   },
   {
@@ -66,6 +96,21 @@
         "status": 2,
         "note": "Bazı türleri alkali olabilir."
       }
+    },
+    "names": {
+      "tr": "Elma",
+      "en": "Apple",
+      "es": "Manzana",
+      "fr": "Pomme",
+      "de": "Apfel",
+      "it": "Mela",
+      "pt": "Maçã",
+      "ru": "Яблоко",
+      "zh": "苹果",
+      "ja": "りんご",
+      "ar": "تفاح",
+      "hi": "सेब",
+      "ko": "사과"
     }
   },
   {
@@ -89,6 +134,21 @@
         "status": 1,
         "note": "Düşük asit içerir."
       }
+    },
+    "names": {
+      "tr": "Çilek",
+      "en": "Strawberry",
+      "es": "Fresa",
+      "fr": "Fraise",
+      "de": "Erdbeere",
+      "it": "Fragola",
+      "pt": "Morango",
+      "ru": "Клубника",
+      "zh": "草莓",
+      "ja": "いちご",
+      "ar": "فراولة",
+      "hi": "स्ट्रॉबेरी",
+      "ko": "딸기"
     }
   },
   {
@@ -112,6 +172,21 @@
         "status": 1,
         "note": "Alkali (düşük asit) gıdadır."
       }
+    },
+    "names": {
+      "tr": "Muz",
+      "en": "Banana",
+      "es": "Plátano",
+      "fr": "Banane",
+      "de": "Banane",
+      "it": "Banana",
+      "pt": "Banana",
+      "ru": "Банан",
+      "zh": "香蕉",
+      "ja": "バナナ",
+      "ar": "موز",
+      "hi": "केला",
+      "ko": "바나나"
     }
   },
   {
@@ -135,6 +210,21 @@
         "status": 1,
         "note": "Alkali, yüksek lifli ve yatıştırıcı gıdalar."
       }
+    },
+    "names": {
+      "tr": "Salatalık",
+      "en": "Cucumber",
+      "es": "Pepino",
+      "fr": "Concombre",
+      "de": "Gurke",
+      "it": "Cetriolo",
+      "pt": "Pepino",
+      "ru": "Огурец",
+      "zh": "黄瓜",
+      "ja": "きゅうり",
+      "ar": "خيار",
+      "hi": "खीरा",
+      "ko": "오이"
     }
   },
   {
@@ -158,6 +248,21 @@
         "status": 3,
         "note": "Yüksek asidiktirler, yemek borusunu tahriş ederler."
       }
+    },
+    "names": {
+      "tr": "Domates",
+      "en": "Tomato",
+      "es": "Tomate",
+      "fr": "Tomate",
+      "de": "Tomate",
+      "it": "Pomodoro",
+      "pt": "Tomate",
+      "ru": "Помидор",
+      "zh": "番茄",
+      "ja": "トマト",
+      "ar": "طماطم",
+      "hi": "टमाटर",
+      "ko": "토마토"
     }
   },
   {
@@ -181,6 +286,21 @@
         "status": 1,
         "note": "Alkali gıdadır."
       }
+    },
+    "names": {
+      "tr": "Ispanak",
+      "en": "Spinach",
+      "es": "Espinaca",
+      "fr": "Épinard",
+      "de": "Spinat",
+      "it": "Spinacio",
+      "pt": "Espinafre",
+      "ru": "Шпинат",
+      "zh": "菠菜",
+      "ja": "ほうれん草",
+      "ar": "سبانخ",
+      "hi": "पालक",
+      "ko": "시금치"
     }
   },
   {
@@ -204,6 +324,21 @@
         "status": 1,
         "note": "Alkali, yüksek lifli ve yatıştırıcı gıdalar."
       }
+    },
+    "names": {
+      "tr": "Brokoli",
+      "en": "Broccoli",
+      "es": "Brócoli",
+      "fr": "Brocoli",
+      "de": "Brokkoli",
+      "it": "Broccolo",
+      "pt": "Brócolis",
+      "ru": "Брокколи",
+      "zh": "西兰花",
+      "ja": "ブロッコリー",
+      "ar": "بروكلي",
+      "hi": "ब्रोकोली",
+      "ko": "브로콜리"
     }
   },
   {
@@ -227,8 +362,7241 @@
         "status": 3,
         "note": "LES kapağını gevşetirler."
       }
+    },
+    "names": {
+      "tr": "Soğan",
+      "en": "Onion",
+      "es": "Cebolla",
+      "fr": "Oignon",
+      "de": "Zwiebel",
+      "it": "Cipolla",
+      "pt": "Cebola",
+      "ru": "Лук",
+      "zh": "洋葱",
+      "ja": "玉ねぎ",
+      "ar": "بصل",
+      "hi": "प्याज",
+      "ko": "양파"
+    }
+  },
+  {
+    "foodName": "Armut",
+    "category": "Meyve",
+    "sugarContent": 9.8,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Armut",
+      "en": "Pear",
+      "es": "Pera",
+      "fr": "Poire",
+      "de": "Birne",
+      "it": "Pera",
+      "pt": "Pêra",
+      "ru": "Груша",
+      "zh": "梨",
+      "ja": "なし",
+      "ar": "كمثرى",
+      "hi": "नाशपाती",
+      "ko": "배"
+    }
+  },
+  {
+    "foodName": "Şeftali",
+    "category": "Meyve",
+    "sugarContent": 8.4,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Şeftali",
+      "en": "Peach",
+      "es": "Durazno",
+      "fr": "Pêche",
+      "de": "Pfirsich",
+      "it": "Pesca",
+      "pt": "Pêssego",
+      "ru": "Персик",
+      "zh": "桃子",
+      "ja": "もも",
+      "ar": "خوخ",
+      "hi": "आड़ू",
+      "ko": "복숭아"
+    }
+  },
+  {
+    "foodName": "Kiraz",
+    "category": "Meyve",
+    "sugarContent": 12.8,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 3,
+        "note": "Yüksek histamin içerir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Kiraz",
+      "en": "Cherry",
+      "es": "Cereza",
+      "fr": "Cerise",
+      "de": "Kirsche",
+      "it": "Ciliegia",
+      "pt": "Cereja",
+      "ru": "Вишня",
+      "zh": "樱桃",
+      "ja": "さくらんぼ",
+      "ar": "كرز",
+      "hi": "चेरी",
+      "ko": "체리"
+    }
+  },
+  {
+    "foodName": "Kayısı",
+    "category": "Meyve",
+    "sugarContent": 9.2,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Kayısı",
+      "en": "Apricot",
+      "es": "Albaricoque",
+      "fr": "Abricot",
+      "de": "Aprikose",
+      "it": "Albicocca",
+      "pt": "Damasco",
+      "ru": "Абрикос",
+      "zh": "杏",
+      "ja": "あんず",
+      "ar": "مشمش",
+      "hi": "खुबानी",
+      "ko": "살구"
+    }
+  },
+  {
+    "foodName": "Üzüm",
+    "category": "Meyve",
+    "sugarContent": 16.3,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 3,
+        "note": "Yüksek histamin içerir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Üzüm",
+      "en": "Grape",
+      "es": "Uva",
+      "fr": "Raisin",
+      "de": "Traube",
+      "it": "Uva",
+      "pt": "Uva",
+      "ru": "Виноград",
+      "zh": "葡萄",
+      "ja": "ぶどう",
+      "ar": "عنب",
+      "hi": "अंगूर",
+      "ko": "포도"
+    }
+  },
+  {
+    "foodName": "Portakal",
+    "category": "Meyve",
+    "sugarContent": 9.4,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 3,
+        "note": "Yüksek asidiktir."
+      }
+    },
+    "names": {
+      "tr": "Portakal",
+      "en": "Orange",
+      "es": "Naranja",
+      "fr": "Orange",
+      "de": "Orange",
+      "it": "Arancia",
+      "pt": "Laranja",
+      "ru": "Апельсин",
+      "zh": "橙子",
+      "ja": "オレンジ",
+      "ar": "برتقال",
+      "hi": "संतरा",
+      "ko": "오렌지"
+    }
+  },
+  {
+    "foodName": "Limon",
+    "category": "Meyve",
+    "sugarContent": 2.5,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 3,
+        "note": "Yüksek asidiktir."
+      }
+    },
+    "names": {
+      "tr": "Limon",
+      "en": "Lemon",
+      "es": "Limón",
+      "fr": "Citron",
+      "de": "Zitrone",
+      "it": "Limone",
+      "pt": "Limão",
+      "ru": "Лимон",
+      "zh": "柠檬",
+      "ja": "レモン",
+      "ar": "ليمون",
+      "hi": "नींबू",
+      "ko": "레몬"
+    }
+  },
+  {
+    "foodName": "Mandalina",
+    "category": "Meyve",
+    "sugarContent": 10.6,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 3,
+        "note": "Yüksek asidiktir."
+      }
+    },
+    "names": {
+      "tr": "Mandalina",
+      "en": "Tangerine",
+      "es": "Mandarina",
+      "fr": "Mandarine",
+      "de": "Mandarine",
+      "it": "Mandarino",
+      "pt": "Tangerina",
+      "ru": "Мандарин",
+      "zh": "橘子",
+      "ja": "みかん",
+      "ar": "يوسفي",
+      "hi": "संतरा",
+      "ko": "귤"
+    }
+  },
+  {
+    "foodName": "Greyfurt",
+    "category": "Meyve",
+    "sugarContent": 6.9,
+    "restrictions": {
+      "lowSugar": {
+        "status": 2,
+        "note": "Orta seviye karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 3,
+        "note": "Yüksek asidiktir."
+      }
+    },
+    "names": {
+      "tr": "Greyfurt",
+      "en": "Grapefruit",
+      "es": "Pomelo",
+      "fr": "Pamplemousse",
+      "de": "Grapefruit",
+      "it": "Pompelmo",
+      "pt": "Toranja",
+      "ru": "Грейпфрут",
+      "zh": "西柚",
+      "ja": "グレープフルーツ",
+      "ar": "جريب فروت",
+      "hi": "अंगूर",
+      "ko": "자몽"
+    }
+  },
+  {
+    "foodName": "Ananas",
+    "category": "Meyve",
+    "sugarContent": 9.9,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 3,
+        "note": "Yüksek histamin içerir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Ananas",
+      "en": "Pineapple",
+      "es": "Piña",
+      "fr": "Ananas",
+      "de": "Ananas",
+      "it": "Ananas",
+      "pt": "Abacaxi",
+      "ru": "Ананас",
+      "zh": "菠萝",
+      "ja": "パイナップル",
+      "ar": "أناناس",
+      "hi": "अनानास",
+      "ko": "파인애플"
+    }
+  },
+  {
+    "foodName": "Karpuz",
+    "category": "Meyve",
+    "sugarContent": 6.2,
+    "restrictions": {
+      "lowSugar": {
+        "status": 2,
+        "note": "Orta seviye karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Karpuz",
+      "en": "Watermelon",
+      "es": "Sandía",
+      "fr": "Pastèque",
+      "de": "Wassermelone",
+      "it": "Anguria",
+      "pt": "Melancia",
+      "ru": "Арбуз",
+      "zh": "西瓜",
+      "ja": "すいか",
+      "ar": "بطيخ",
+      "hi": "तरबूज",
+      "ko": "수박"
+    }
+  },
+  {
+    "foodName": "Kavun",
+    "category": "Meyve",
+    "sugarContent": 8.1,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Kavun",
+      "en": "Melon",
+      "es": "Melón",
+      "fr": "Melon",
+      "de": "Melone",
+      "it": "Melone",
+      "pt": "Melão",
+      "ru": "Дыня",
+      "zh": "甜瓜",
+      "ja": "メロン",
+      "ar": "شمام",
+      "hi": "खरबूजा",
+      "ko": "멜론"
+    }
+  },
+  {
+    "foodName": "Böğürtlen",
+    "category": "Meyve",
+    "sugarContent": 4.9,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 3,
+        "note": "Yüksek histamin içerir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Böğürtlen",
+      "en": "Blackberry",
+      "es": "Mora",
+      "fr": "Mûre",
+      "de": "Brombeere",
+      "it": "Mora",
+      "pt": "Amora",
+      "ru": "Ежевика",
+      "zh": "黑莓",
+      "ja": "ブラックベリー",
+      "ar": "عليق",
+      "hi": "काले अंगूर",
+      "ko": "블랙베리"
+    }
+  },
+  {
+    "foodName": "Yaban Mersini",
+    "category": "Meyve",
+    "sugarContent": 10,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Yaban Mersini",
+      "en": "Blueberry",
+      "es": "Arándano",
+      "fr": "Myrtille",
+      "de": "Heidelbeere",
+      "it": "Mirtillo",
+      "pt": "Mirtilo",
+      "ru": "Черника",
+      "zh": "蓝莓",
+      "ja": "ブルーベリー",
+      "ar": "عنب بري",
+      "hi": "ब्लूबेरी",
+      "ko": "블루베리"
+    }
+  },
+  {
+    "foodName": "Bektaşi Üzümü",
+    "category": "Meyve",
+    "sugarContent": 9,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Bektaşi Üzümü",
+      "en": "Gooseberry",
+      "es": "Grosella",
+      "fr": "Groseille",
+      "de": "Stachelbeere",
+      "it": "Uva spina",
+      "pt": "Groselha",
+      "ru": "Крыжовник",
+      "zh": "醋栗",
+      "ja": "スグリ",
+      "ar": "كشمش",
+      "hi": "आंवला",
+      "ko": "구스베리"
+    }
+  },
+  {
+    "foodName": "İncir",
+    "category": "Meyve",
+    "sugarContent": 16.3,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 3,
+        "note": "Yüksek histamin içerir."
+      },
+      "lowFODMAP": {
+        "status": 3,
+        "note": "Yüksek FODMAP içerir."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "İncir",
+      "en": "Fig",
+      "es": "Higo",
+      "fr": "Figue",
+      "de": "Feige",
+      "it": "Fico",
+      "pt": "Figo",
+      "ru": "Инжир",
+      "zh": "无花果",
+      "ja": "いちじく",
+      "ar": "تين",
+      "hi": "अंजीर",
+      "ko": "무화과"
+    }
+  },
+  {
+    "foodName": "Hurma",
+    "category": "Meyve",
+    "sugarContent": 66.5,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 3,
+        "note": "Yüksek histamin içerir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Hurma",
+      "en": "Date",
+      "es": "Dátil",
+      "fr": "Datte",
+      "de": "Dattel",
+      "it": "Dattero",
+      "pt": "Tâmara",
+      "ru": "Финик",
+      "zh": "枣",
+      "ja": "ナツメヤシ",
+      "ar": "تمر",
+      "hi": "खजूर",
+      "ko": "대추"
+    }
+  },
+  {
+    "foodName": "Nar",
+    "category": "Meyve",
+    "sugarContent": 13.7,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Nar",
+      "en": "Pomegranate",
+      "es": "Granada",
+      "fr": "Grenade",
+      "de": "Granatapfel",
+      "it": "Melagrana",
+      "pt": "Romã",
+      "ru": "Гранат",
+      "zh": "石榴",
+      "ja": "ざくろ",
+      "ar": "رمان",
+      "hi": "अनार",
+      "ko": "석류"
+    }
+  },
+  {
+    "foodName": "Papaya",
+    "category": "Meyve",
+    "sugarContent": 7.8,
+    "restrictions": {
+      "lowSugar": {
+        "status": 2,
+        "note": "Orta seviye karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Papaya",
+      "en": "Papaya",
+      "es": "Papaya",
+      "fr": "Papaye",
+      "de": "Papaya",
+      "it": "Papaya",
+      "pt": "Mamão",
+      "ru": "Папайя",
+      "zh": "木瓜",
+      "ja": "パパイア",
+      "ar": "بابايا",
+      "hi": "पपीता",
+      "ko": "파파야"
+    }
+  },
+  {
+    "foodName": "Mango",
+    "category": "Meyve",
+    "sugarContent": 13.7,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 3,
+        "note": "Yüksek histamin içerir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Mango",
+      "en": "Mango",
+      "es": "Mango",
+      "fr": "Mangue",
+      "de": "Mango",
+      "it": "Mango",
+      "pt": "Manga",
+      "ru": "Манго",
+      "zh": "芒果",
+      "ja": "マンゴー",
+      "ar": "مانجو",
+      "hi": "आम",
+      "ko": "망고"
+    }
+  },
+  {
+    "foodName": "Kivi",
+    "category": "Meyve",
+    "sugarContent": 9,
+    "restrictions": {
+      "lowSugar": {
+        "status": 2,
+        "note": "Orta seviye karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 3,
+        "note": "Yüksek histamin içerir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 3,
+        "note": "Yüksek asidiktir."
+      }
+    },
+    "names": {
+      "tr": "Kivi",
+      "en": "Kiwi",
+      "es": "Kiwi",
+      "fr": "Kiwi",
+      "de": "Kiwi",
+      "it": "Kiwi",
+      "pt": "Kiwi",
+      "ru": "Киви",
+      "zh": "猕猴桃",
+      "ja": "キウイ",
+      "ar": "كيوي",
+      "hi": "कीवी",
+      "ko": "키위"
+    }
+  },
+  {
+    "foodName": "Erik",
+    "category": "Meyve",
+    "sugarContent": 9.9,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 3,
+        "note": "Yüksek FODMAP içerir."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Erik",
+      "en": "Plum",
+      "es": "Ciruela",
+      "fr": "Prune",
+      "de": "Pflaume",
+      "it": "Susina",
+      "pt": "Ameixa",
+      "ru": "Слива",
+      "zh": "李子",
+      "ja": "すもも",
+      "ar": "برقوق",
+      "hi": "आलू बुखारा",
+      "ko": "자두"
+    }
+  },
+  {
+    "foodName": "Dut",
+    "category": "Meyve",
+    "sugarContent": 8.1,
+    "restrictions": {
+      "lowSugar": {
+        "status": 2,
+        "note": "Orta seviye karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Dut",
+      "en": "Mulberry",
+      "es": "Mora",
+      "fr": "Mûre",
+      "de": "Maulbeere",
+      "it": "Gelso",
+      "pt": "Amora",
+      "ru": "Шелковица",
+      "zh": "桑葚",
+      "ja": "クワの実",
+      "ar": "توت",
+      "hi": "शहतूत",
+      "ko": "뽕나무열매"
+    }
+  },
+  {
+    "foodName": "Böğürtlen",
+    "category": "Meyve",
+    "sugarContent": 4.9,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 3,
+        "note": "Yüksek histamin içerir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Böğürtlen",
+      "en": "Blackberry",
+      "es": "Mora",
+      "fr": "Mûre",
+      "de": "Brombeere",
+      "it": "Mora",
+      "pt": "Amora",
+      "ru": "Ежевика",
+      "zh": "黑莓",
+      "ja": "ブラックベリー",
+      "ar": "عليق",
+      "hi": "काले अंगूर",
+      "ko": "블랙베리"
+    }
+  },
+  {
+    "foodName": "Limon",
+    "category": "Meyve",
+    "sugarContent": 2.5,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 3,
+        "note": "Yüksek asidiktir."
+      }
+    },
+    "names": {
+      "tr": "Limon",
+      "en": "Lemon",
+      "es": "Limón",
+      "fr": "Citron",
+      "de": "Zitrone",
+      "it": "Limone",
+      "pt": "Limão",
+      "ru": "Лимон",
+      "zh": "柠檬",
+      "ja": "レモン",
+      "ar": "ليمون",
+      "hi": "नींबू",
+      "ko": "레몬"
+    }
+  },
+  {
+    "foodName": "Portakal",
+    "category": "Meyve",
+    "sugarContent": 9.4,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 3,
+        "note": "Yüksek asidiktir."
+      }
+    },
+    "names": {
+      "tr": "Portakal",
+      "en": "Orange",
+      "es": "Naranja",
+      "fr": "Orange",
+      "de": "Orange",
+      "it": "Arancia",
+      "pt": "Laranja",
+      "ru": "Апельсин",
+      "zh": "橙子",
+      "ja": "オレンジ",
+      "ar": "برتقال",
+      "hi": "संतरा",
+      "ko": "오렌지"
+    }
+  },
+  {
+    "foodName": "Ayva",
+    "category": "Meyve",
+    "sugarContent": 7.4,
+    "restrictions": {
+      "lowSugar": {
+        "status": 2,
+        "note": "Orta seviye karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Ayva",
+      "en": "Quince",
+      "es": "Membrillo",
+      "fr": "Coing",
+      "de": "Quitte",
+      "it": "Mela cotogna",
+      "pt": "Marmelo",
+      "ru": "Айва",
+      "zh": "木瓜",
+      "ja": "マルメロ",
+      "ar": "سفرجل",
+      "hi": "बिही",
+      "ko": "모과"
+    }
+  },
+  {
+    "foodName": "Kırmızı Erik",
+    "category": "Meyve",
+    "sugarContent": 7.5,
+    "restrictions": {
+      "lowSugar": {
+        "status": 2,
+        "note": "Orta seviye karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Kırmızı Erik",
+      "en": "Kirmizi Erik",
+      "es": "Kirmizi Erik",
+      "fr": "Kirmizi Erik",
+      "de": "Kirmizi Erik",
+      "it": "Kirmizi Erik",
+      "pt": "Kirmizi Erik",
+      "ru": "Kirmizi Erik",
+      "zh": "Kirmizi Erik",
+      "ja": "Kirmizi Erik",
+      "ar": "Kirmizi Erik",
+      "hi": "Kirmizi Erik",
+      "ko": "Kirmizi Erik"
+    }
+  },
+  {
+    "foodName": "Sarı Erik",
+    "category": "Meyve",
+    "sugarContent": 8.5,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Sarı Erik",
+      "en": "Sari Erik",
+      "es": "Sari Erik",
+      "fr": "Sari Erik",
+      "de": "Sari Erik",
+      "it": "Sari Erik",
+      "pt": "Sari Erik",
+      "ru": "Sari Erik",
+      "zh": "Sari Erik",
+      "ja": "Sari Erik",
+      "ar": "Sari Erik",
+      "hi": "Sari Erik",
+      "ko": "Sari Erik"
+    }
+  },
+  {
+    "foodName": "Alıç",
+    "category": "Meyve",
+    "sugarContent": 5.8,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Alıç",
+      "en": "Hawthorn",
+      "es": "Espino",
+      "fr": "Aubépine",
+      "de": "Weißdorn",
+      "it": "Biancospino",
+      "pt": "Espinheiro",
+      "ru": "Боярышник",
+      "zh": "山楂",
+      "ja": "サンザシ",
+      "ar": "زعرور",
+      "hi": "हॉथॉर्न",
+      "ko": "산사나무"
+    }
+  },
+  {
+    "foodName": "Kuşburnu",
+    "category": "Meyve",
+    "sugarContent": 38.2,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Kuşburnu",
+      "en": "Rose Hip",
+      "es": "Escaramujo",
+      "fr": "Cynorrhodon",
+      "de": "Hagebutte",
+      "it": "Rosa canina",
+      "pt": "Rosa canina",
+      "ru": "Шиповник",
+      "zh": "玫瑰果",
+      "ja": "ローズヒップ",
+      "ar": "ورد بري",
+      "hi": "गुलाब का फल",
+      "ko": "로즈힙"
+    }
+  },
+  {
+    "foodName": "Çağla",
+    "category": "Meyve",
+    "sugarContent": 4.6,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Çağla",
+      "en": "Green Almond",
+      "es": "Almendra Verde",
+      "fr": "Amande Verte",
+      "de": "Grüne Mandel",
+      "it": "Mandorla Verde",
+      "pt": "Amêndoa Verde",
+      "ru": "Зеленый Миндаль",
+      "zh": "青杏仁",
+      "ja": "青アーモンド",
+      "ar": "لوز أخضر",
+      "hi": "हरा बादाम",
+      "ko": "청아몬드"
+    }
+  },
+  {
+    "foodName": "Yeni Dünya",
+    "category": "Meyve",
+    "sugarContent": 6.2,
+    "restrictions": {
+      "lowSugar": {
+        "status": 2,
+        "note": "Orta seviye karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Yeni Dünya",
+      "en": "Loquat",
+      "es": "Níspero",
+      "fr": "Nèfle du Japon",
+      "de": "Japanische Mispel",
+      "it": "Nespola",
+      "pt": "Ameixa japonesa",
+      "ru": "Мушмула",
+      "zh": "枇杷",
+      "ja": "ビワ",
+      "ar": "أكي دنيا",
+      "hi": "लोकाट",
+      "ko": "비파"
+    }
+  },
+  {
+    "foodName": "İğde",
+    "category": "Meyve",
+    "sugarContent": 11.3,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "İğde",
+      "en": "Oleaster",
+      "es": "Aceituno",
+      "fr": "Oléastre",
+      "de": "Ölweide",
+      "it": "Olivagno",
+      "pt": "Oleastro",
+      "ru": "Лох",
+      "zh": "沙枣",
+      "ja": "グミ",
+      "ar": "زيتون بري",
+      "hi": "ओलेस्टर",
+      "ko": "보리수"
+    }
+  },
+  {
+    "foodName": "Muşmula",
+    "category": "Meyve",
+    "sugarContent": 12.8,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Muşmula",
+      "en": "Medlar",
+      "es": "Níspero Europeo",
+      "fr": "Nèfle",
+      "de": "Mispel",
+      "it": "Nespola",
+      "pt": "Nespera",
+      "ru": "Мушмула",
+      "zh": "欧楂",
+      "ja": "セイヨウビワ",
+      "ar": "مشمش بري",
+      "hi": "मेडलर",
+      "ko": "서양모과"
+    }
+  },
+  {
+    "foodName": "Trabzon Hurması",
+    "category": "Meyve",
+    "sugarContent": 18.6,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Trabzon Hurması",
+      "en": "Persimmon",
+      "es": "Caqui",
+      "fr": "Kaki",
+      "de": "Kaki",
+      "it": "Caco",
+      "pt": "Caqui",
+      "ru": "Хурма",
+      "zh": "柿子",
+      "ja": "柿",
+      "ar": "كاكي",
+      "hi": "अमरूद",
+      "ko": "감"
+    }
+  },
+  {
+    "foodName": "Ankara Armudu",
+    "category": "Meyve",
+    "sugarContent": 10.2,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Ankara Armudu",
+      "en": "Ankara Pear",
+      "es": "Pera de Ankara",
+      "fr": "Poire d'Ankara",
+      "de": "Ankara-Birne",
+      "it": "Pera di Ankara",
+      "pt": "Pêra de Ancara",
+      "ru": "Анкарская Груша",
+      "zh": "安卡拉梨",
+      "ja": "アンカラ梨",
+      "ar": "كمثرى أنقرة",
+      "hi": "अंकारा नाशपाती",
+      "ko": "앙카라 배"
+    }
+  },
+  {
+    "foodName": "Deveci Armudu",
+    "category": "Meyve",
+    "sugarContent": 9.6,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Deveci Armudu",
+      "en": "Deveci Pear",
+      "es": "Pera Deveci",
+      "fr": "Poire Deveci",
+      "de": "Deveci-Birne",
+      "it": "Pera Deveci",
+      "pt": "Pêra Deveci",
+      "ru": "Груша Деведжи",
+      "zh": "德韦奇梨",
+      "ja": "デベジ梨",
+      "ar": "كمثرى ديفيجي",
+      "hi": "देवेसी नाशपाती",
+      "ko": "데베지 배"
+    }
+  },
+  {
+    "foodName": "İncir Kurusu",
+    "category": "Meyve",
+    "sugarContent": 48.5,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 3,
+        "note": "Yüksek histamin içerir."
+      },
+      "lowFODMAP": {
+        "status": 3,
+        "note": "Yüksek FODMAP içerir."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "İncir Kurusu",
+      "en": "Dried Fig",
+      "es": "Higo Seco",
+      "fr": "Figue Séchée",
+      "de": "Getrocknete Feige",
+      "it": "Fico Secco",
+      "pt": "Figo Seco",
+      "ru": "Сушеный Инжир",
+      "zh": "无花果干",
+      "ja": "いちじく干し",
+      "ar": "تين مجفف",
+      "hi": "सूखे अंजीर",
+      "ko": "말린 무화과"
+    }
+  },
+  {
+    "foodName": "Kayısı Kurusu",
+    "category": "Meyve",
+    "sugarContent": 39.5,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 3,
+        "note": "Yüksek histamin içerir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Kayısı Kurusu",
+      "en": "Dried Apricot",
+      "es": "Albaricoque Seco",
+      "fr": "Abricot Séché",
+      "de": "Getrocknete Aprikose",
+      "it": "Albicocca Secca",
+      "pt": "Damasco Seco",
+      "ru": "Курага",
+      "zh": "杏干",
+      "ja": "あんず干し",
+      "ar": "مشمش مجفف",
+      "hi": "सूखे खुबानी",
+      "ko": "말린 살구"
+    }
+  },
+  {
+    "foodName": "Üzüm Kurusu",
+    "category": "Meyve",
+    "sugarContent": 59.2,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 3,
+        "note": "Yüksek histamin içerir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Üzüm Kurusu",
+      "en": "Raisin",
+      "es": "Pasa",
+      "fr": "Raisin Sec",
+      "de": "Rosine",
+      "it": "Uvetta",
+      "pt": "Passa",
+      "ru": "Изюм",
+      "zh": "葡萄干",
+      "ja": "レーズン",
+      "ar": "زبيب",
+      "hi": "किशमिश",
+      "ko": "건포도"
+    }
+  },
+  {
+    "foodName": "Elma Kurusu",
+    "category": "Meyve",
+    "sugarContent": 49.1,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 3,
+        "note": "Yüksek FODMAP içerir."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Elma Kurusu",
+      "en": "Dried Apple",
+      "es": "Manzana Seca",
+      "fr": "Pomme Séchée",
+      "de": "Getrockneter Apfel",
+      "it": "Mela Secca",
+      "pt": "Maçã Seca",
+      "ru": "Сушеное Яблоко",
+      "zh": "苹果干",
+      "ja": "りんご干し",
+      "ar": "تفاح مجفف",
+      "hi": "सूखा सेब",
+      "ko": "말린 사과"
+    }
+  },
+  {
+    "foodName": "Kivi",
+    "category": "Meyve",
+    "sugarContent": 9,
+    "restrictions": {
+      "lowSugar": {
+        "status": 2,
+        "note": "Orta seviye karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 3,
+        "note": "Yüksek histamin içerir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 3,
+        "note": "Yüksek asidiktir."
+      }
+    },
+    "names": {
+      "tr": "Kivi",
+      "en": "Kiwi",
+      "es": "Kiwi",
+      "fr": "Kiwi",
+      "de": "Kiwi",
+      "it": "Kiwi",
+      "pt": "Kiwi",
+      "ru": "Киви",
+      "zh": "猕猴桃",
+      "ja": "キウイ",
+      "ar": "كيوي",
+      "hi": "कीवी",
+      "ko": "키위"
+    }
+  },
+  {
+    "foodName": "Guava",
+    "category": "Meyve",
+    "sugarContent": 8.9,
+    "restrictions": {
+      "lowSugar": {
+        "status": 2,
+        "note": "Orta seviye karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Guava",
+      "en": "Guava",
+      "es": "Guayaba",
+      "fr": "Goyave",
+      "de": "Guave",
+      "it": "Guava",
+      "pt": "Goiaba",
+      "ru": "Гуава",
+      "zh": "番石榴",
+      "ja": "グアバ",
+      "ar": "جوافة",
+      "hi": "अमरूद",
+      "ko": "구아바"
+    }
+  },
+  {
+    "foodName": "Lychee",
+    "category": "Meyve",
+    "sugarContent": 15.2,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Liçi",
+      "en": "Lychee",
+      "es": "Lichi",
+      "fr": "Litchi",
+      "de": "Litschi",
+      "it": "Litchi",
+      "pt": "Lichia",
+      "ru": "Личи",
+      "zh": "荔枝",
+      "ja": "ライチ",
+      "ar": "ليتشي",
+      "hi": "लीची",
+      "ko": "리치"
+    }
+  },
+  {
+    "foodName": "Rambutan",
+    "category": "Meyve",
+    "sugarContent": 11.4,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Rambutan",
+      "en": "Rambutan",
+      "es": "Rambután",
+      "fr": "Ramboutan",
+      "de": "Rambutan",
+      "it": "Rambutan",
+      "pt": "Rambutão",
+      "ru": "Рамбутан",
+      "zh": "红毛丹",
+      "ja": "ランブータン",
+      "ar": "رامبوتان",
+      "hi": "रामबुतान",
+      "ko": "람부탄"
+    }
+  },
+  {
+    "foodName": "Longan",
+    "category": "Meyve",
+    "sugarContent": 15.1,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Longan",
+      "en": "Longan",
+      "es": "Longán",
+      "fr": "Longane",
+      "de": "Longan",
+      "it": "Longan",
+      "pt": "Longan",
+      "ru": "Лонган",
+      "zh": "龙眼",
+      "ja": "ロンガン",
+      "ar": "لونغان",
+      "hi": "लोंगन",
+      "ko": "롱안"
+    }
+  },
+  {
+    "foodName": "Star Fruit",
+    "category": "Meyve",
+    "sugarContent": 4,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Yıldız Meyvesi",
+      "en": "Star Fruit",
+      "es": "Carambola",
+      "fr": "Carambole",
+      "de": "Sternfrucht",
+      "it": "Carambola",
+      "pt": "Carambola",
+      "ru": "Карамбола",
+      "zh": "杨桃",
+      "ja": "スターフルーツ",
+      "ar": "كارامبولا",
+      "hi": "स्टार फ्रूट",
+      "ko": "스타프루트"
+    }
+  },
+  {
+    "foodName": "Dragon Fruit",
+    "category": "Meyve",
+    "sugarContent": 7.7,
+    "restrictions": {
+      "lowSugar": {
+        "status": 2,
+        "note": "Orta seviye karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Ejder Meyvesi",
+      "en": "Dragon Fruit",
+      "es": "Pitahaya",
+      "fr": "Fruit du Dragon",
+      "de": "Drachenfrucht",
+      "it": "Frutto del Drago",
+      "pt": "Pitaia",
+      "ru": "Питайя",
+      "zh": "火龙果",
+      "ja": "ドラゴンフルーツ",
+      "ar": "فاكهة التنين",
+      "hi": "ड्रैगन फ्रूट",
+      "ko": "용과"
+    }
+  },
+  {
+    "foodName": "Passion Fruit",
+    "category": "Meyve",
+    "sugarContent": 11.2,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Çarkıfelek Meyvesi",
+      "en": "Passion Fruit",
+      "es": "Maracuyá",
+      "fr": "Fruit de la Passion",
+      "de": "Maracuja",
+      "it": "Frutto della Passione",
+      "pt": "Maracujá",
+      "ru": "Маракуйя",
+      "zh": "百香果",
+      "ja": "パッションフルーツ",
+      "ar": "فاكهة العاطفة",
+      "hi": "पैशन फ्रूट",
+      "ko": "패션후르츠"
+    }
+  },
+  {
+    "foodName": "Pomelo",
+    "category": "Meyve",
+    "sugarContent": 8.4,
+    "restrictions": {
+      "lowSugar": {
+        "status": 2,
+        "note": "Orta seviye karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 3,
+        "note": "Yüksek asidiktir."
+      }
+    },
+    "names": {
+      "tr": "Pomelo",
+      "en": "Pomelo",
+      "es": "Pomelo",
+      "fr": "Pamplemousse",
+      "de": "Pomelo",
+      "it": "Pomelo",
+      "pt": "Pomelo",
+      "ru": "Помело",
+      "zh": "柚子",
+      "ja": "ポメロ",
+      "ar": "بوميلو",
+      "hi": "पोमेलो",
+      "ko": "자몽"
+    }
+  },
+  {
+    "foodName": "Clementine",
+    "category": "Meyve",
+    "sugarContent": 10.5,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 3,
+        "note": "Yüksek asidiktir."
+      }
+    },
+    "names": {
+      "tr": "Klementin",
+      "en": "Clementine",
+      "es": "Clementina",
+      "fr": "Clémentine",
+      "de": "Clementine",
+      "it": "Clementina",
+      "pt": "Clementina",
+      "ru": "Клементин",
+      "zh": "克莱门氏小柑橘",
+      "ja": "クレメンタイン",
+      "ar": "كليمنتين",
+      "hi": "क्लेमेंटाइन",
+      "ko": "클레멘타인"
+    }
+  },
+  {
+    "foodName": "Tangerine",
+    "category": "Meyve",
+    "sugarContent": 10.6,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 3,
+        "note": "Yüksek asidiktir."
+      }
+    },
+    "names": {
+      "tr": "Mandalina",
+      "en": "Tangerine",
+      "es": "Mandarina",
+      "fr": "Mandarine",
+      "de": "Mandarine",
+      "it": "Mandarino",
+      "pt": "Tangerina",
+      "ru": "Мандарин",
+      "zh": "橘子",
+      "ja": "みかん",
+      "ar": "يوسفي",
+      "hi": "संतरा",
+      "ko": "귤"
+    }
+  },
+  {
+    "foodName": "Blood Orange",
+    "category": "Meyve",
+    "sugarContent": 9.3,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 3,
+        "note": "Yüksek asidiktir."
+      }
+    },
+    "names": {
+      "tr": "Kan Portakalı",
+      "en": "Blood Orange",
+      "es": "Naranja Sanguina",
+      "fr": "Orange Sanguine",
+      "de": "Blutorange",
+      "it": "Arancia Rossa",
+      "pt": "Laranja Sanguínea",
+      "ru": "Кровавый Апельсин",
+      "zh": "血橙",
+      "ja": "ブラッドオレンジ",
+      "ar": "برتقال أحمر",
+      "hi": "ब्लड ऑरेंज",
+      "ko": "블러드 오렌지"
+    }
+  },
+  {
+    "foodName": "Lime",
+    "category": "Meyve",
+    "sugarContent": 1.7,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 3,
+        "note": "Yüksek asidiktir."
+      }
+    },
+    "names": {
+      "tr": "Limon",
+      "en": "Lime",
+      "es": "Lima",
+      "fr": "Citron Vert",
+      "de": "Limette",
+      "it": "Lime",
+      "pt": "Limão",
+      "ru": "Лайм",
+      "zh": "青柠",
+      "ja": "ライム",
+      "ar": "ليمون",
+      "hi": "नींबू",
+      "ko": "라임"
+    }
+  },
+  {
+    "foodName": "Kumquat",
+    "category": "Meyve",
+    "sugarContent": 9.4,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 3,
+        "note": "Yüksek asidiktir."
+      }
+    },
+    "names": {
+      "tr": "Kumkuat",
+      "en": "Kumquat",
+      "es": "Kumquat",
+      "fr": "Kumquat",
+      "de": "Kumquat",
+      "it": "Kumquat",
+      "pt": "Kumquat",
+      "ru": "Кумкват",
+      "zh": "金橘",
+      "ja": "キンカン",
+      "ar": "كمكوات",
+      "hi": "कुमक्वाट",
+      "ko": "금귤"
+    }
+  },
+  {
+    "foodName": "Cantaloupe",
+    "category": "Meyve",
+    "sugarContent": 7.9,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Kavun",
+      "en": "Cantaloupe",
+      "es": "Melón",
+      "fr": "Melon",
+      "de": "Cantaloupe",
+      "it": "Melone",
+      "pt": "Melão",
+      "ru": "Дыня",
+      "zh": "哈密瓜",
+      "ja": "カンタロープ",
+      "ar": "شمام",
+      "hi": "कैंटालूप",
+      "ko": "멜론"
+    }
+  },
+  {
+    "foodName": "Honeydew",
+    "category": "Meyve",
+    "sugarContent": 8.1,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Bal Kabağı",
+      "en": "Honeydew",
+      "es": "Melón Verde",
+      "fr": "Melon Vert",
+      "de": "Honigmelone",
+      "it": "Melone Giallo",
+      "pt": "Melão Amarelo",
+      "ru": "Медовая Дыня",
+      "zh": "白兰瓜",
+      "ja": "ハニーデュー",
+      "ar": "شمام عسلي",
+      "hi": "हनीड्यू",
+      "ko": "허니듀"
+    }
+  },
+  {
+    "foodName": "Watermelon",
+    "category": "Meyve",
+    "sugarContent": 6.2,
+    "restrictions": {
+      "lowSugar": {
+        "status": 2,
+        "note": "Orta seviye karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Karpuz",
+      "en": "Watermelon",
+      "es": "Sandía",
+      "fr": "Pastèque",
+      "de": "Wassermelone",
+      "it": "Anguria",
+      "pt": "Melancia",
+      "ru": "Арбуз",
+      "zh": "西瓜",
+      "ja": "すいか",
+      "ar": "بطيخ",
+      "hi": "तरबूज",
+      "ko": "수박"
+    }
+  },
+  {
+    "foodName": "Blackberry",
+    "category": "Meyve",
+    "sugarContent": 4.9,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 3,
+        "note": "Yüksek histamin içerir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Böğürtlen",
+      "en": "Blackberry",
+      "es": "Mora",
+      "fr": "Mûre",
+      "de": "Brombeere",
+      "it": "Mora",
+      "pt": "Amora",
+      "ru": "Ежевика",
+      "zh": "黑莓",
+      "ja": "ブラックベリー",
+      "ar": "عليق",
+      "hi": "काले अंगूर",
+      "ko": "블랙베리"
+    }
+  },
+  {
+    "foodName": "Cranberry",
+    "category": "Meyve",
+    "sugarContent": 4,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 3,
+        "note": "Yüksek asidiktir."
+      }
+    },
+    "names": {
+      "tr": "Kızılcık",
+      "en": "Cranberry",
+      "es": "Arándano Rojo",
+      "fr": "Canneberge",
+      "de": "Preiselbeere",
+      "it": "Mirtillo Rosso",
+      "pt": "Oxicoco",
+      "ru": "Клюква",
+      "zh": "蔓越莓",
+      "ja": "クランベリー",
+      "ar": "توت بري",
+      "hi": "क्रैनबेरी",
+      "ko": "크랜베리"
+    }
+  },
+  {
+    "foodName": "Gooseberry",
+    "category": "Meyve",
+    "sugarContent": 10,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Bektaşi Üzümü",
+      "en": "Gooseberry",
+      "es": "Grosella",
+      "fr": "Groseille",
+      "de": "Stachelbeere",
+      "it": "Uva Spina",
+      "pt": "Groselha",
+      "ru": "Крыжовник",
+      "zh": "醋栗",
+      "ja": "スグリ",
+      "ar": "كشمش",
+      "hi": "आंवला",
+      "ko": "구스베리"
+    }
+  },
+  {
+    "foodName": "Currant",
+    "category": "Meyve",
+    "sugarContent": 7.4,
+    "restrictions": {
+      "lowSugar": {
+        "status": 2,
+        "note": "Orta seviye karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Kuş Üzümü",
+      "en": "Currant",
+      "es": "Grosella",
+      "fr": "Groseille",
+      "de": "Johannisbeere",
+      "it": "Ribes",
+      "pt": "Groselha",
+      "ru": "Смородина",
+      "zh": "醋栗",
+      "ja": "カシス",
+      "ar": "كشمش",
+      "hi": "करंट",
+      "ko": "건포도"
+    }
+  },
+  {
+    "foodName": "Strawberry",
+    "category": "Meyve",
+    "sugarContent": 4.9,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 3,
+        "note": "Yüksek histamin içerir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Çilek",
+      "en": "Strawberry",
+      "es": "Fresa",
+      "fr": "Fraise",
+      "de": "Erdbeere",
+      "it": "Fragola",
+      "pt": "Morango",
+      "ru": "Клубника",
+      "zh": "草莓",
+      "ja": "いちご",
+      "ar": "فراولة",
+      "hi": "स्ट्रॉबेरी",
+      "ko": "딸기"
+    }
+  },
+  {
+    "foodName": "Raspberry",
+    "category": "Meyve",
+    "sugarContent": 4.4,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Ahududu",
+      "en": "Raspberry",
+      "es": "Frambuesa",
+      "fr": "Framboise",
+      "de": "Himbeere",
+      "it": "Lampone",
+      "pt": "Framboesa",
+      "ru": "Малина",
+      "zh": "覆盆子",
+      "ja": "ラズベリー",
+      "ar": "توت العليق",
+      "hi": "रसभरी",
+      "ko": "라즈베리"
+    }
+  },
+  {
+    "foodName": "Elderberry",
+    "category": "Meyve",
+    "sugarContent": 7,
+    "restrictions": {
+      "lowSugar": {
+        "status": 2,
+        "note": "Orta seviye karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Mürver",
+      "en": "Elderberry",
+      "es": "Sauco",
+      "fr": "Sureau",
+      "de": "Holunder",
+      "it": "Sambuco",
+      "pt": "Sabugueiro",
+      "ru": "Бузина",
+      "zh": "接骨木果",
+      "ja": "エルダーベリー",
+      "ar": "بيلسان",
+      "hi": "एल्डरबेरी",
+      "ko": "엘더베리"
+    }
+  },
+  {
+    "foodName": "Mulberry",
+    "category": "Meyve",
+    "sugarContent": 8.1,
+    "restrictions": {
+      "lowSugar": {
+        "status": 2,
+        "note": "Orta seviye karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Dut",
+      "en": "Mulberry",
+      "es": "Mora",
+      "fr": "Mûre",
+      "de": "Maulbeere",
+      "it": "Gelso",
+      "pt": "Amora",
+      "ru": "Шелковица",
+      "zh": "桑葚",
+      "ja": "クワの実",
+      "ar": "توت",
+      "hi": "शहतूत",
+      "ko": "뽕나무열매"
+    }
+  },
+  {
+    "foodName": "Huckleberry",
+    "category": "Meyve",
+    "sugarContent": 8.7,
+    "restrictions": {
+      "lowSugar": {
+        "status": 2,
+        "note": "Orta seviye karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Yaban Mersini",
+      "en": "Huckleberry",
+      "es": "Arándano",
+      "fr": "Myrtille",
+      "de": "Heidelbeere",
+      "it": "Mirtillo",
+      "pt": "Mirtilo",
+      "ru": "Черника",
+      "zh": "越橘",
+      "ja": "ハックルベリー",
+      "ar": "عنب بري",
+      "hi": "हकलबेरी",
+      "ko": "허클베리"
+    }
+  },
+  {
+    "foodName": "Boysenberry",
+    "category": "Meyve",
+    "sugarContent": 4.9,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 3,
+        "note": "Yüksek histamin içerir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Boysen Çileği",
+      "en": "Boysenberry",
+      "es": "Boysenberry",
+      "fr": "Boysenberry",
+      "de": "Boysenbeere",
+      "it": "Boysenberry",
+      "pt": "Boysenberry",
+      "ru": "Бойзенберри",
+      "zh": "博伊森莓",
+      "ja": "ボイセンベリー",
+      "ar": "بويزنبيري",
+      "hi": "बोयसनबेरी",
+      "ko": "보이젠베리"
+    }
+  },
+  {
+    "foodName": "Cloudberry",
+    "category": "Meyve",
+    "sugarContent": 4.5,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Ağaç Çileği",
+      "en": "Cloudberry",
+      "es": "Morera de los Pantanos",
+      "fr": "Mûre des Marais",
+      "de": "Molkebeere",
+      "it": "Camemoro",
+      "pt": "Amora-Branca",
+      "ru": "Морошка",
+      "zh": "云莓",
+      "ja": "クラウドベリー",
+      "ar": "توت الغيوم",
+      "hi": "क्लाउडबेरी",
+      "ko": "클라우드베리"
+    }
+  },
+  {
+    "foodName": "Lingonberry",
+    "category": "Meyve",
+    "sugarContent": 5,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Kırmızı Yaban Mersini",
+      "en": "Lingonberry",
+      "es": "Arándano Rojo",
+      "fr": "Airelle",
+      "de": "Preiselbeere",
+      "it": "Mirtillo Rosso",
+      "pt": "Oxicoco",
+      "ru": "Брусника",
+      "zh": "越橘",
+      "ja": "リンゴンベリー",
+      "ar": "توت بري",
+      "hi": "लिंगोनबेरी",
+      "ko": "링곤베리"
+    }
+  },
+  {
+    "foodName": "Bilberry",
+    "category": "Meyve",
+    "sugarContent": 10,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Yaban Mersini",
+      "en": "Bilberry",
+      "es": "Arándano",
+      "fr": "Myrtille",
+      "de": "Heidelbeere",
+      "it": "Mirtillo",
+      "pt": "Mirtilo",
+      "ru": "Черника",
+      "zh": "越橘",
+      "ja": "ビルベリー",
+      "ar": "عنب بري",
+      "hi": "बिलबेरी",
+      "ko": "빌베리"
+    }
+  },
+  {
+    "foodName": "Açai",
+    "category": "Meyve",
+    "sugarContent": 0.5,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Açai",
+      "en": "Acai",
+      "es": "Acai",
+      "fr": "Acai",
+      "de": "Acai",
+      "it": "Acai",
+      "pt": "Acai",
+      "ru": "Acai",
+      "zh": "Acai",
+      "ja": "Acai",
+      "ar": "Acai",
+      "hi": "Acai",
+      "ko": "Acai"
+    }
+  },
+  {
+    "foodName": "Acerola",
+    "category": "Meyve",
+    "sugarContent": 7.7,
+    "restrictions": {
+      "lowSugar": {
+        "status": 2,
+        "note": "Orta seviye karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Acerola",
+      "en": "Acerola",
+      "es": "Acerola",
+      "fr": "Acerola",
+      "de": "Acerola",
+      "it": "Acerola",
+      "pt": "Acerola",
+      "ru": "Ацерола",
+      "zh": "针叶樱桃",
+      "ja": "アセロラ",
+      "ar": "أسرولا",
+      "hi": "एसरोला",
+      "ko": "아세롤라"
+    }
+  },
+  {
+    "foodName": "Jabuticaba",
+    "category": "Meyve",
+    "sugarContent": 12.5,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Jabuticaba",
+      "en": "Jabuticaba",
+      "es": "Jabuticaba",
+      "fr": "Jaboticaba",
+      "de": "Jaboticaba",
+      "it": "Jaboticaba",
+      "pt": "Jabuticaba",
+      "ru": "Жабутикаба",
+      "zh": "嘉宝果",
+      "ja": "ジャブチカバ",
+      "ar": "جابوتيكابا",
+      "hi": "जबुतिकाबा",
+      "ko": "자부티카바"
+    }
+  },
+  {
+    "foodName": "Cupuacu",
+    "category": "Meyve",
+    "sugarContent": 10,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Kupuasu",
+      "en": "Cupuacu",
+      "es": "Cupuaçu",
+      "fr": "Cupuaçu",
+      "de": "Cupuacu",
+      "it": "Cupuacu",
+      "pt": "Cupuaçu",
+      "ru": "Купуасу",
+      "zh": "古布阿苏",
+      "ja": "クプアス",
+      "ar": "كوبواسو",
+      "hi": "कूपुआसू",
+      "ko": "쿠푸아수"
+    }
+  },
+  {
+    "foodName": "Soursop",
+    "category": "Meyve",
+    "sugarContent": 13.5,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Guanabana",
+      "en": "Soursop",
+      "es": "Guanábana",
+      "fr": "Corossol",
+      "de": "Sauersack",
+      "it": "Guanabana",
+      "pt": "Graviola",
+      "ru": "Сметанное Яблоко",
+      "zh": "刺果番荔枝",
+      "ja": "サワーソップ",
+      "ar": "سورسوب",
+      "hi": "सोरसोप",
+      "ko": "사워솝"
+    }
+  },
+  {
+    "foodName": "Cherimoya",
+    "category": "Meyve",
+    "sugarContent": 17.7,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Çerimoya",
+      "en": "Cherimoya",
+      "es": "Chirimoya",
+      "fr": "Chérimole",
+      "de": "Cherimoya",
+      "it": "Cherimoya",
+      "pt": "Chirimoya",
+      "ru": "Черимойя",
+      "zh": "番荔枝",
+      "ja": "チェリモヤ",
+      "ar": "شيريمويا",
+      "hi": "चेरिमोया",
+      "ko": "체리모야"
+    }
+  },
+  {
+    "foodName": "Custard Apple",
+    "category": "Meyve",
+    "sugarContent": 18.5,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Tatlı Elma",
+      "en": "Custard Apple",
+      "es": "Anona",
+      "fr": "Pomme Cannelle",
+      "de": "Rahmapfel",
+      "it": "Mela Cremosa",
+      "pt": "Fruta do Conde",
+      "ru": "Кремовое Яблоко",
+      "zh": "释迦",
+      "ja": "カスタードアップル",
+      "ar": "تفاح كاسترد",
+      "hi": "कस्टर्ड एप्पल",
+      "ko": "커스터드 애플"
+    }
+  },
+  {
+    "foodName": "Sugar Apple",
+    "category": "Meyve",
+    "sugarContent": 18.2,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Şeker Elması",
+      "en": "Sugar Apple",
+      "es": "Anón",
+      "fr": "Pomme Cannelle",
+      "de": "Zuckerapfel",
+      "it": "Mela Zuccherina",
+      "pt": "Fruta do Conde",
+      "ru": "Сахарное Яблоко",
+      "zh": "释迦",
+      "ja": "シュガーアップル",
+      "ar": "تفاح السكر",
+      "hi": "शुगर एप्पल",
+      "ko": "슈거 애플"
+    }
+  },
+  {
+    "foodName": "Sapodilla",
+    "category": "Meyve",
+    "sugarContent": 14.5,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Sapodilla",
+      "en": "Sapodilla",
+      "es": "Chicozapote",
+      "fr": "Sapotille",
+      "de": "Sapodilla",
+      "it": "Sapodilla",
+      "pt": "Sapoti",
+      "ru": "Саподилла",
+      "zh": "人心果",
+      "ja": "サポジラ",
+      "ar": "سابوديلا",
+      "hi": "सपोडिला",
+      "ko": "사포딜라"
+    }
+  },
+  {
+    "foodName": "Loquat",
+    "category": "Meyve",
+    "sugarContent": 6.2,
+    "restrictions": {
+      "lowSugar": {
+        "status": 2,
+        "note": "Orta seviye karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Yeni Dünya",
+      "en": "Loquat",
+      "es": "Níspero",
+      "fr": "Nèfle du Japon",
+      "de": "Japanische Mispel",
+      "it": "Nespola",
+      "pt": "Ameixa Japonesa",
+      "ru": "Мушмула",
+      "zh": "枇杷",
+      "ja": "ビワ",
+      "ar": "أكي دنيا",
+      "hi": "लोकाट",
+      "ko": "비파"
+    }
+  },
+  {
+    "foodName": "Persimmon",
+    "category": "Meyve",
+    "sugarContent": 18.6,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Trabzon Hurması",
+      "en": "Persimmon",
+      "es": "Caqui",
+      "fr": "Kaki",
+      "de": "Kaki",
+      "it": "Caco",
+      "pt": "Caqui",
+      "ru": "Хурма",
+      "zh": "柿子",
+      "ja": "柿",
+      "ar": "كاكي",
+      "hi": "अमरूद",
+      "ko": "감"
+    }
+  },
+  {
+    "foodName": "Feijoa",
+    "category": "Meyve",
+    "sugarContent": 8.2,
+    "restrictions": {
+      "lowSugar": {
+        "status": 2,
+        "note": "Orta seviye karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Feijoa",
+      "en": "Feijoa",
+      "es": "Feijoa",
+      "fr": "Feijoa",
+      "de": "Feijoa",
+      "it": "Feijoa",
+      "pt": "Feijoa",
+      "ru": "Фейхоа",
+      "zh": "费约果",
+      "ja": "フェイジョア",
+      "ar": "فيجوآ",
+      "hi": "फेजोआ",
+      "ko": "페지오아"
+    }
+  },
+  {
+    "foodName": "Tamarind",
+    "category": "Meyve",
+    "sugarContent": 38.8,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Demirhindi",
+      "en": "Tamarind",
+      "es": "Tamarindo",
+      "fr": "Tamarinde",
+      "de": "Tamarinde",
+      "it": "Tamarindo",
+      "pt": "Tamarindo",
+      "ru": "Тамаринд",
+      "zh": "罗望子",
+      "ja": "タマリンド",
+      "ar": "تمر هندي",
+      "hi": "इमली",
+      "ko": "타마린드"
+    }
+  },
+  {
+    "foodName": "Date",
+    "category": "Meyve",
+    "sugarContent": 66.5,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 3,
+        "note": "Yüksek histamin içerir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Hurma",
+      "en": "Date",
+      "es": "Dátil",
+      "fr": "Datte",
+      "de": "Dattel",
+      "it": "Dattero",
+      "pt": "Tâmara",
+      "ru": "Финик",
+      "zh": "枣",
+      "ja": "ナツメヤシ",
+      "ar": "تمر",
+      "hi": "खजूर",
+      "ko": "대추"
+    }
+  },
+  {
+    "foodName": "Coconut",
+    "category": "Meyve",
+    "sugarContent": 6.2,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Hindistan Cevizi",
+      "en": "Coconut",
+      "es": "Coco",
+      "fr": "Noix de Coco",
+      "de": "Kokosnuss",
+      "it": "Noce di Cocco",
+      "pt": "Coco",
+      "ru": "Кокос",
+      "zh": "椰子",
+      "ja": "ココナッツ",
+      "ar": "جوز الهند",
+      "hi": "नारियल",
+      "ko": "코코넛"
+    }
+  },
+  {
+    "foodName": "Coconut Water",
+    "category": "Meyve",
+    "sugarContent": 6,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Hindistan Cevizi Suyu",
+      "en": "Coconut Water",
+      "es": "Agua de Coco",
+      "fr": "Eau de Coco",
+      "de": "Kokoswasser",
+      "it": "Acqua di Cocco",
+      "pt": "Água de Coco",
+      "ru": "Кокосовая Вода",
+      "zh": "椰子水",
+      "ja": "ココナッツウォーター",
+      "ar": "ماء جوز الهند",
+      "hi": "नारियल का पानी",
+      "ko": "코코넛 워터"
+    }
+  },
+  {
+    "foodName": "Havuç",
+    "category": "Sebze",
+    "sugarContent": 4.7,
+    "restrictions": {
+      "lowSugar": {
+        "status": 2,
+        "note": "Orta seviye karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Havuç",
+      "en": "Carrot",
+      "es": "Zanahoria",
+      "fr": "Carotte",
+      "de": "Karotte",
+      "it": "Carota",
+      "pt": "Cenoura",
+      "ru": "Морковь",
+      "zh": "胡萝卜",
+      "ja": "にんじん",
+      "ar": "جزر",
+      "hi": "गाजर",
+      "ko": "당근"
+    }
+  },
+  {
+    "foodName": "Patates",
+    "category": "Sebze",
+    "sugarContent": 0.8,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Patates",
+      "en": "Potato",
+      "es": "Papa",
+      "fr": "Pomme de terre",
+      "de": "Kartoffel",
+      "it": "Patata",
+      "pt": "Batata",
+      "ru": "Картофель",
+      "zh": "土豆",
+      "ja": "じゃがいも",
+      "ar": "بطاطس",
+      "hi": "आलू",
+      "ko": "감자"
+    }
+  },
+  {
+    "foodName": "Tatlı Patates",
+    "category": "Sebze",
+    "sugarContent": 4.2,
+    "restrictions": {
+      "lowSugar": {
+        "status": 2,
+        "note": "Orta seviye karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Tatlı Patates",
+      "en": "Tatli Patates",
+      "es": "Tatli Patates",
+      "fr": "Tatli Patates",
+      "de": "Tatli Patates",
+      "it": "Tatli Patates",
+      "pt": "Tatli Patates",
+      "ru": "Tatli Patates",
+      "zh": "Tatli Patates",
+      "ja": "Tatli Patates",
+      "ar": "Tatli Patates",
+      "hi": "Tatli Patates",
+      "ko": "Tatli Patates"
+    }
+  },
+  {
+    "foodName": "Kırmızı Biber",
+    "category": "Sebze",
+    "sugarContent": 2.4,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Kırmızı Biber",
+      "en": "Red Pepper",
+      "es": "Pimiento Rojo",
+      "fr": "Poivron Rouge",
+      "de": "Roter Paprika",
+      "it": "Peperone Rosso",
+      "pt": "Pimentão Vermelho",
+      "ru": "Красный Перец",
+      "zh": "红椒",
+      "ja": "赤ピーマン",
+      "ar": "فلفل أحمر",
+      "hi": "लाल मिर्च",
+      "ko": "빨간 고추"
+    }
+  },
+  {
+    "foodName": "Yeşil Biber",
+    "category": "Sebze",
+    "sugarContent": 2.4,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Yeşil Biber",
+      "en": "Green Pepper",
+      "es": "Pimiento Verde",
+      "fr": "Poivron Vert",
+      "de": "Grüner Paprika",
+      "it": "Peperone Verde",
+      "pt": "Pimentão Verde",
+      "ru": "Зеленый Перец",
+      "zh": "青椒",
+      "ja": "青ピーマン",
+      "ar": "فلفل أخضر",
+      "hi": "हरी मिर्च",
+      "ko": "녹색 고추"
+    }
+  },
+  {
+    "foodName": "Karnabahar",
+    "category": "Sebze",
+    "sugarContent": 1.9,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Karnabahar",
+      "en": "Cauliflower",
+      "es": "Coliflor",
+      "fr": "Chou-fleur",
+      "de": "Blumenkohl",
+      "it": "Cavolfiore",
+      "pt": "Couve-flor",
+      "ru": "Цветная Капуста",
+      "zh": "花椰菜",
+      "ja": "カリフラワー",
+      "ar": "قرنبيط",
+      "hi": "फूलगोभी",
+      "ko": "콜리플라워"
+    }
+  },
+  {
+    "foodName": "Lahana",
+    "category": "Sebze",
+    "sugarContent": 3.2,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 3,
+        "note": "Yüksek histamin içerir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Lahana",
+      "en": "Cabbage",
+      "es": "Repollo",
+      "fr": "Chou",
+      "de": "Kohl",
+      "it": "Cavolo",
+      "pt": "Repolho",
+      "ru": "Капуста",
+      "zh": "卷心菜",
+      "ja": "キャベツ",
+      "ar": "ملفوف",
+      "hi": "पत्तागोभी",
+      "ko": "양배추"
+    }
+  },
+  {
+    "foodName": "Kırmızı Lahana",
+    "category": "Sebze",
+    "sugarContent": 3.2,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 3,
+        "note": "Yüksek histamin içerir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Kırmızı Lahana",
+      "en": "Red Cabbage",
+      "es": "Repollo Rojo",
+      "fr": "Chou Rouge",
+      "de": "Rotkohl",
+      "it": "Cavolo Rosso",
+      "pt": "Repolho Roxo",
+      "ru": "Краснокачанная Капуста",
+      "zh": "紫甘蓝",
+      "ja": "赤キャベツ",
+      "ar": "ملفوف أحمر",
+      "hi": "लाल गोभी",
+      "ko": "적양배추"
+    }
+  },
+  {
+    "foodName": "Brüksel Lahanası",
+    "category": "Sebze",
+    "sugarContent": 2.2,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Brüksel Lahanası",
+      "en": "Brussels Sprout",
+      "es": "Col de Bruselas",
+      "fr": "Chou de Bruxelles",
+      "de": "Rosenkohl",
+      "it": "Cavoletti di Bruxelles",
+      "pt": "Couve de Bruxelas",
+      "ru": "Брюссельская Капуста",
+      "zh": "抱子甘蓝",
+      "ja": "芽キャベツ",
+      "ar": "كرنب بروكسل",
+      "hi": "ब्रसेल्स स्प्राउट",
+      "ko": "브뤼셀 콩나물"
+    }
+  },
+  {
+    "foodName": "Kabak",
+    "category": "Sebze",
+    "sugarContent": 2.5,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Kabak",
+      "en": "Zucchini",
+      "es": "Calabacín",
+      "fr": "Courgette",
+      "de": "Zucchini",
+      "it": "Zucchina",
+      "pt": "Abobrinha",
+      "ru": "Цуккини",
+      "zh": "西葫芦",
+      "ja": "ズッキーニ",
+      "ar": "كوسة",
+      "hi": "तोरी",
+      "ko": "주키니"
+    }
+  },
+  {
+    "foodName": "Patlıcan",
+    "category": "Sebze",
+    "sugarContent": 3.5,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 3,
+        "note": "Yüksek histamin içerir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Patlıcan",
+      "en": "Eggplant",
+      "es": "Berenjena",
+      "fr": "Aubergine",
+      "de": "Aubergine",
+      "it": "Melanzana",
+      "pt": "Beringela",
+      "ru": "Баклажан",
+      "zh": "茄子",
+      "ja": "なす",
+      "ar": "باذنجان",
+      "hi": "बैंगन",
+      "ko": "가지"
+    }
+  },
+  {
+    "foodName": "Bezelye",
+    "category": "Sebze",
+    "sugarContent": 5.7,
+    "restrictions": {
+      "lowSugar": {
+        "status": 2,
+        "note": "Orta seviye karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 3,
+        "note": "Yüksek FODMAP içerir."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Bezelye",
+      "en": "Peas",
+      "es": "Guisantes",
+      "fr": "Pois",
+      "de": "Erbsen",
+      "it": "Piselli",
+      "pt": "Ervilhas",
+      "ru": "Горох",
+      "zh": "豌豆",
+      "ja": "エンドウ豆",
+      "ar": "بازلاء",
+      "hi": "मटर",
+      "ko": "완두콩"
+    }
+  },
+  {
+    "foodName": "Fasulye",
+    "category": "Sebze",
+    "sugarContent": 2.3,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 3,
+        "note": "Yüksek FODMAP içerir."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Fasulye",
+      "en": "Bean",
+      "es": "Frijol",
+      "fr": "Haricot",
+      "de": "Bohne",
+      "it": "Fagiolo",
+      "pt": "Feijão",
+      "ru": "Фасоль",
+      "zh": "豆",
+      "ja": "豆",
+      "ar": "فول",
+      "hi": "सेम",
+      "ko": "콩"
+    }
+  },
+  {
+    "foodName": "Yeşil Fasulye",
+    "category": "Sebze",
+    "sugarContent": 3.3,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Yeşil Fasulye",
+      "en": "Yesil Fasulye",
+      "es": "Yesil Fasulye",
+      "fr": "Yesil Fasulye",
+      "de": "Yesil Fasulye",
+      "it": "Yesil Fasulye",
+      "pt": "Yesil Fasulye",
+      "ru": "Yesil Fasulye",
+      "zh": "Yesil Fasulye",
+      "ja": "Yesil Fasulye",
+      "ar": "Yesil Fasulye",
+      "hi": "Yesil Fasulye",
+      "ko": "Yesil Fasulye"
+    }
+  },
+  {
+    "foodName": "Kuşkonmaz",
+    "category": "Sebze",
+    "sugarContent": 1.9,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Kuşkonmaz",
+      "en": "Asparagus",
+      "es": "Espárrago",
+      "fr": "Asperge",
+      "de": "Spargel",
+      "it": "Asparago",
+      "pt": "Espargo",
+      "ru": "Спаржа",
+      "zh": "芦笋",
+      "ja": "アスパラガス",
+      "ar": "هليون",
+      "hi": "शतावरी",
+      "ko": "아스파라거스"
+    }
+  },
+  {
+    "foodName": "Kereviz",
+    "category": "Sebze",
+    "sugarContent": 1.8,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Kereviz",
+      "en": "Celery",
+      "es": "Apio",
+      "fr": "Céleri",
+      "de": "Sellerie",
+      "it": "Sedano",
+      "pt": "Aipo",
+      "ru": "Сельдерей",
+      "zh": "芹菜",
+      "ja": "セロリ",
+      "ar": "كرفس",
+      "hi": "अजवाइन",
+      "ko": "셀러리"
+    }
+  },
+  {
+    "foodName": "Kereviz Sapı",
+    "category": "Sebze",
+    "sugarContent": 1.3,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Kereviz Sapı",
+      "en": "Celery Stalk",
+      "es": "Tallo de Apio",
+      "fr": "Branche de Céleri",
+      "de": "Stangensellerie",
+      "it": "Costola di Sedano",
+      "pt": "Talos de Aipo",
+      "ru": "Стебель Сельдерея",
+      "zh": "芹菜茎",
+      "ja": "セロリの茎",
+      "ar": "ساق الكرفس",
+      "hi": "अजवाइन का डंठल",
+      "ko": "셀러리 줄기"
+    }
+  },
+  {
+    "foodName": "Marul",
+    "category": "Sebze",
+    "sugarContent": 0.8,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Marul",
+      "en": "Lettuce",
+      "es": "Lechuga",
+      "fr": "Laitue",
+      "de": "Kopfsalat",
+      "it": "Lattuga",
+      "pt": "Alface",
+      "ru": "Салат",
+      "zh": "生菜",
+      "ja": "レタス",
+      "ar": "خس",
+      "hi": "लेट्यूस",
+      "ko": "상추"
+    }
+  },
+  {
+    "foodName": "Roka",
+    "category": "Sebze",
+    "sugarContent": 0.7,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Roka",
+      "en": "Arugula",
+      "es": "Rúcula",
+      "fr": "Roquette",
+      "de": "Rucola",
+      "it": "Rucola",
+      "pt": "Rúcula",
+      "ru": "Руккола",
+      "zh": "芝麻菜",
+      "ja": "ルッコラ",
+      "ar": "جرجير",
+      "hi": "अरुगुला",
+      "ko": "루콜라"
+    }
+  },
+  {
+    "foodName": "Semizotu",
+    "category": "Sebze",
+    "sugarContent": 0.8,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Semizotu",
+      "en": "Purslane",
+      "es": "Verdolaga",
+      "fr": "Pourpier",
+      "de": "Portulak",
+      "it": "Portulaca",
+      "pt": "Beldroega",
+      "ru": "Портулак",
+      "zh": "马齿苋",
+      "ja": "スベリヒユ",
+      "ar": "رجلة",
+      "hi": "कोलासा",
+      "ko": "쇠비름"
+    }
+  },
+  {
+    "foodName": "Pazı",
+    "category": "Sebze",
+    "sugarContent": 1.6,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Pazı",
+      "en": "Swiss Chard",
+      "es": "Acelga",
+      "fr": "Blette",
+      "de": "Mangold",
+      "it": "Bietola",
+      "pt": "Acelga",
+      "ru": "Мангольд",
+      "zh": "甜菜",
+      "ja": "スイスチャード",
+      "ar": "سلق",
+      "hi": "स्विस चार्ड",
+      "ko": "근대"
+    }
+  },
+  {
+    "foodName": "Turp",
+    "category": "Sebze",
+    "sugarContent": 3.9,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Turp",
+      "en": "Radish",
+      "es": "Rábano",
+      "fr": "Radis",
+      "de": "Rettich",
+      "it": "Ravanello",
+      "pt": "Rabanete",
+      "ru": "Редис",
+      "zh": "萝卜",
+      "ja": "大根",
+      "ar": "فجل",
+      "hi": "मूली",
+      "ko": "무"
+    }
+  },
+  {
+    "foodName": "Beyaz Turp",
+    "category": "Sebze",
+    "sugarContent": 2.8,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Beyaz Turp",
+      "en": "White Radish",
+      "es": "Rábano Blanco",
+      "fr": "Radis Blanc",
+      "de": "Weißer Rettich",
+      "it": "Ravanello Bianco",
+      "pt": "Rabanete Branco",
+      "ru": "Белая Редька",
+      "zh": "白萝卜",
+      "ja": "白大根",
+      "ar": "فجل أبيض",
+      "hi": "सफेद मूली",
+      "ko": "흰 무"
+    }
+  },
+  {
+    "foodName": "Siyah Turp",
+    "category": "Sebze",
+    "sugarContent": 3.9,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Siyah Turp",
+      "en": "Black Radish",
+      "es": "Rábano Negro",
+      "fr": "Radis Noir",
+      "de": "Schwarzer Rettich",
+      "it": "Ravanello Nero",
+      "pt": "Rabanete Preto",
+      "ru": "Черная Редька",
+      "zh": "黑萝卜",
+      "ja": "黒大根",
+      "ar": "فجل أسود",
+      "hi": "काली मूली",
+      "ko": "검은 무"
+    }
+  },
+  {
+    "foodName": "Kırmızı Turp",
+    "category": "Sebze",
+    "sugarContent": 2.9,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Kırmızı Turp",
+      "en": "Red Radish",
+      "es": "Rábano Rojo",
+      "fr": "Radis Rouge",
+      "de": "Roter Rettich",
+      "it": "Ravanello Rosso",
+      "pt": "Rabanete Vermelho",
+      "ru": "Красная Редька",
+      "zh": "红萝卜",
+      "ja": "赤大根",
+      "ar": "فجل أحمر",
+      "hi": "लाल मूली",
+      "ko": "빨간 무"
+    }
+  },
+  {
+    "foodName": "Pancar",
+    "category": "Sebze",
+    "sugarContent": 6.8,
+    "restrictions": {
+      "lowSugar": {
+        "status": 2,
+        "note": "Orta seviye karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 3,
+        "note": "Yüksek FODMAP içerir."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Pancar",
+      "en": "Beet",
+      "es": "Remolacha",
+      "fr": "Betterave",
+      "de": "Rote Bete",
+      "it": "Barbabietola",
+      "pt": "Beterraba",
+      "ru": "Свекла",
+      "zh": "甜菜",
+      "ja": "ビート",
+      "ar": "شمندر",
+      "hi": "चुकंदर",
+      "ko": "비트"
+    }
+  },
+  {
+    "foodName": "Şalgam",
+    "category": "Sebze",
+    "sugarContent": 3.8,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Şalgam",
+      "en": "Turnip",
+      "es": "Nabo",
+      "fr": "Navet",
+      "de": "Rübe",
+      "it": "Rapa",
+      "pt": "Nabo",
+      "ru": "Репа",
+      "zh": "芜菁",
+      "ja": "カブ",
+      "ar": "لفت",
+      "hi": "शलगम",
+      "ko": "순무"
+    }
+  },
+  {
+    "foodName": "Havuç",
+    "category": "Sebze",
+    "sugarContent": 4.7,
+    "restrictions": {
+      "lowSugar": {
+        "status": 2,
+        "note": "Orta seviye karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Havuç",
+      "en": "Carrot",
+      "es": "Zanahoria",
+      "fr": "Carotte",
+      "de": "Karotte",
+      "it": "Carota",
+      "pt": "Cenoura",
+      "ru": "Морковь",
+      "zh": "胡萝卜",
+      "ja": "にんじん",
+      "ar": "جزر",
+      "hi": "गाजर",
+      "ko": "당근"
+    }
+  },
+  {
+    "foodName": "Karnabahar",
+    "category": "Sebze",
+    "sugarContent": 1.9,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Karnabahar",
+      "en": "Cauliflower",
+      "es": "Coliflor",
+      "fr": "Chou-fleur",
+      "de": "Blumenkohl",
+      "it": "Cavolfiore",
+      "pt": "Couve-flor",
+      "ru": "Цветная Капуста",
+      "zh": "花椰菜",
+      "ja": "カリフラワー",
+      "ar": "قرنبيط",
+      "hi": "फूलगोभी",
+      "ko": "콜리플라워"
+    }
+  },
+  {
+    "foodName": "Enginar",
+    "category": "Sebze",
+    "sugarContent": 0.9,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 3,
+        "note": "Yüksek FODMAP içerir."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Enginar",
+      "en": "Artichoke",
+      "es": "Alcachofa",
+      "fr": "Artichaut",
+      "de": "Artischocke",
+      "it": "Carciofo",
+      "pt": "Alcachofra",
+      "ru": "Артишок",
+      "zh": "朝鲜蓟",
+      "ja": "アーティチョーク",
+      "ar": "خرشوف",
+      "hi": "आटिचोक",
+      "ko": "아티초크"
+    }
+  },
+  {
+    "foodName": "Kıvırcık Salata",
+    "category": "Sebze",
+    "sugarContent": 0.9,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Kıvırcık Salata",
+      "en": "Kivircik Salata",
+      "es": "Kivircik Salata",
+      "fr": "Kivircik Salata",
+      "de": "Kivircik Salata",
+      "it": "Kivircik Salata",
+      "pt": "Kivircik Salata",
+      "ru": "Kivircik Salata",
+      "zh": "Kivircik Salata",
+      "ja": "Kivircik Salata",
+      "ar": "Kivircik Salata",
+      "hi": "Kivircik Salata",
+      "ko": "Kivircik Salata"
+    }
+  },
+  {
+    "foodName": "Göbek Salata",
+    "category": "Sebze",
+    "sugarContent": 1,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Göbek Salata",
+      "en": "Gobek Salata",
+      "es": "Gobek Salata",
+      "fr": "Gobek Salata",
+      "de": "Gobek Salata",
+      "it": "Gobek Salata",
+      "pt": "Gobek Salata",
+      "ru": "Gobek Salata",
+      "zh": "Gobek Salata",
+      "ja": "Gobek Salata",
+      "ar": "Gobek Salata",
+      "hi": "Gobek Salata",
+      "ko": "Gobek Salata"
+    }
+  },
+  {
+    "foodName": "Aysberg Salata",
+    "category": "Sebze",
+    "sugarContent": 2,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Aysberg Salata",
+      "en": "Iceberg Lettuce",
+      "es": "Lechuga Iceberg",
+      "fr": "Laitue Iceberg",
+      "de": "Eisbergsalat",
+      "it": "Lattuga Iceberg",
+      "pt": "Alface Americana",
+      "ru": "Айсберг",
+      "zh": "卷心生菜",
+      "ja": "アイスバーグレタス",
+      "ar": "خس آيسبرغ",
+      "hi": "आइसबर्ग लेट्यूस",
+      "ko": "아이스버그 상추"
+    }
+  },
+  {
+    "foodName": "Kırmızı Marul",
+    "category": "Sebze",
+    "sugarContent": 0.9,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Kırmızı Marul",
+      "en": "Kirmizi Marul",
+      "es": "Kirmizi Marul",
+      "fr": "Kirmizi Marul",
+      "de": "Kirmizi Marul",
+      "it": "Kirmizi Marul",
+      "pt": "Kirmizi Marul",
+      "ru": "Kirmizi Marul",
+      "zh": "Kirmizi Marul",
+      "ja": "Kirmizi Marul",
+      "ar": "Kirmizi Marul",
+      "hi": "Kirmizi Marul",
+      "ko": "Kirmizi Marul"
+    }
+  },
+  {
+    "foodName": "Karahindiba",
+    "category": "Sebze",
+    "sugarContent": 0.7,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Karahindiba",
+      "en": "Dandelion",
+      "es": "Diente de León",
+      "fr": "Pissenlit",
+      "de": "Löwenzahn",
+      "it": "Tarassaco",
+      "pt": "Dente-de-leão",
+      "ru": "Одуванчик",
+      "zh": "蒲公英",
+      "ja": "タンポポ",
+      "ar": "هندباء",
+      "hi": "सिंहपर्णी",
+      "ko": "민들레"
+    }
+  },
+  {
+    "foodName": "Rezene",
+    "category": "Sebze",
+    "sugarContent": 3.9,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Rezene",
+      "en": "Fennel",
+      "es": "Hinojo",
+      "fr": "Fenouil",
+      "de": "Fenchel",
+      "it": "Finocchio",
+      "pt": "Funcho",
+      "ru": "Фенхель",
+      "zh": "茴香",
+      "ja": "フェンネル",
+      "ar": "شمر",
+      "hi": "सौंफ",
+      "ko": "회향"
+    }
+  },
+  {
+    "foodName": "Kişniş",
+    "category": "Sebze",
+    "sugarContent": 0.9,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Kişniş",
+      "en": "Cilantro",
+      "es": "Cilantro",
+      "fr": "Coriandre",
+      "de": "Koriander",
+      "it": "Coriandolo",
+      "pt": "Coentro",
+      "ru": "Кинза",
+      "zh": "香菜",
+      "ja": "コリアンダー",
+      "ar": "كزبرة",
+      "hi": "धनिया",
+      "ko": "고수"
+    }
+  },
+  {
+    "foodName": "Maydanoz",
+    "category": "Sebze",
+    "sugarContent": 0.9,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Maydanoz",
+      "en": "Parsley",
+      "es": "Perejil",
+      "fr": "Persil",
+      "de": "Petersilie",
+      "it": "Prezzemolo",
+      "pt": "Salsinha",
+      "ru": "Петрушка",
+      "zh": "欧芹",
+      "ja": "パセリ",
+      "ar": "بقدونس",
+      "hi": "अजमोद",
+      "ko": "파슬리"
+    }
+  },
+  {
+    "foodName": "Dereotu",
+    "category": "Sebze",
+    "sugarContent": 0.4,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Dereotu",
+      "en": "Dill",
+      "es": "Eneldo",
+      "fr": "Aneth",
+      "de": "Dill",
+      "it": "Aneto",
+      "pt": "Endro",
+      "ru": "Укроп",
+      "zh": "莳萝",
+      "ja": "ディル",
+      "ar": "شبت",
+      "hi": "सोआ",
+      "ko": "딜"
+    }
+  },
+  {
+    "foodName": "Fesleğen",
+    "category": "Sebze",
+    "sugarContent": 2.7,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Fesleğen",
+      "en": "Basil",
+      "es": "Albahaca",
+      "fr": "Basilic",
+      "de": "Basilikum",
+      "it": "Basilico",
+      "pt": "Manjericão",
+      "ru": "Базилик",
+      "zh": "罗勒",
+      "ja": "バジル",
+      "ar": "ريحان",
+      "hi": "तुलसी",
+      "ko": "바질"
+    }
+  },
+  {
+    "foodName": "Nane",
+    "category": "Sebze",
+    "sugarContent": 0.2,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Nane",
+      "en": "Mint",
+      "es": "Menta",
+      "fr": "Menthe",
+      "de": "Minze",
+      "it": "Menta",
+      "pt": "Hortelã",
+      "ru": "Мята",
+      "zh": "薄荷",
+      "ja": "ミント",
+      "ar": "نعناع",
+      "hi": "पुदीना",
+      "ko": "민트"
+    }
+  },
+  {
+    "foodName": "Biberiye",
+    "category": "Sebze",
+    "sugarContent": 0,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Biberiye",
+      "en": "Rosemary",
+      "es": "Romero",
+      "fr": "Romarin",
+      "de": "Rosmarin",
+      "it": "Rosmarino",
+      "pt": "Alecrim",
+      "ru": "Розмарин",
+      "zh": "迷迭香",
+      "ja": "ローズマリー",
+      "ar": "إكليل الجبل",
+      "hi": "रोज़मैरी",
+      "ko": "로즈마리"
+    }
+  },
+  {
+    "foodName": "Kekik",
+    "category": "Sebze",
+    "sugarContent": 1.7,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Kekik",
+      "en": "Thyme",
+      "es": "Tomillo",
+      "fr": "Thym",
+      "de": "Thymian",
+      "it": "Timo",
+      "pt": "Tomilho",
+      "ru": "Тимьян",
+      "zh": "百里香",
+      "ja": "タイム",
+      "ar": "زعتر",
+      "hi": "थाइम",
+      "ko": "백리향"
+    }
+  },
+  {
+    "foodName": "Zencefil",
+    "category": "Sebze",
+    "sugarContent": 1.7,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Zencefil",
+      "en": "Ginger",
+      "es": "Jengibre",
+      "fr": "Gingembre",
+      "de": "Ingwer",
+      "it": "Zenzero",
+      "pt": "Gengibre",
+      "ru": "Имбирь",
+      "zh": "姜",
+      "ja": "生姜",
+      "ar": "زنجبيل",
+      "hi": "अदरक",
+      "ko": "생강"
+    }
+  },
+  {
+    "foodName": "Sarımsak",
+    "category": "Sebze",
+    "sugarContent": 1,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 3,
+        "note": "Yüksek FODMAP içerir."
+      },
+      "lowAcid": {
+        "status": 3,
+        "note": "Yüksek asidiktir."
+      }
+    },
+    "names": {
+      "tr": "Sarımsak",
+      "en": "Garlic",
+      "es": "Ajo",
+      "fr": "Ail",
+      "de": "Knoblauch",
+      "it": "Aglio",
+      "pt": "Alho",
+      "ru": "Чеснок",
+      "zh": "大蒜",
+      "ja": "にんにく",
+      "ar": "ثوم",
+      "hi": "लहसुन",
+      "ko": "마늘"
+    }
+  },
+  {
+    "foodName": "Arpacık Soğanı",
+    "category": "Sebze",
+    "sugarContent": 7.1,
+    "restrictions": {
+      "lowSugar": {
+        "status": 2,
+        "note": "Orta seviye karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 3,
+        "note": "Yüksek FODMAP içerir."
+      },
+      "lowAcid": {
+        "status": 3,
+        "note": "Yüksek asidiktir."
+      }
+    },
+    "names": {
+      "tr": "Arpacık Soğanı",
+      "en": "Shallot",
+      "es": "Chalote",
+      "fr": "Échalote",
+      "de": "Schalotte",
+      "it": "Scalogno",
+      "pt": "Chalota",
+      "ru": "Шалот",
+      "zh": "青葱",
+      "ja": "エシャロット",
+      "ar": "كراث صغير",
+      "hi": "छोटा प्याज",
+      "ko": "샬롯"
+    }
+  },
+  {
+    "foodName": "Yeşil Soğan",
+    "category": "Sebze",
+    "sugarContent": 4.2,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Yeşil Soğan",
+      "en": "Green Onion",
+      "es": "Cebolla Verde",
+      "fr": "Oignon Vert",
+      "de": "Frühlingszwiebel",
+      "it": "Cipollotto",
+      "pt": "Cebolinha",
+      "ru": "Зеленый Лук",
+      "zh": "大葱",
+      "ja": "ねぎ",
+      "ar": "بصل أخضر",
+      "hi": "हरा प्याज",
+      "ko": "대파"
+    }
+  },
+  {
+    "foodName": "Pırasa",
+    "category": "Sebze",
+    "sugarContent": 3.9,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 3,
+        "note": "Yüksek FODMAP içerir."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Pırasa",
+      "en": "Leek",
+      "es": "Puerro",
+      "fr": "Poireau",
+      "de": "Lauch",
+      "it": "Porro",
+      "pt": "Alho-poró",
+      "ru": "Лук-Порей",
+      "zh": "韭葱",
+      "ja": "リーキ",
+      "ar": "كراث",
+      "hi": "लीक",
+      "ko": "리크"
+    }
+  },
+  {
+    "foodName": "Bamya",
+    "category": "Sebze",
+    "sugarContent": 1.5,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Bamya",
+      "en": "Okra",
+      "es": "Quingombó",
+      "fr": "Gombo",
+      "de": "Okra",
+      "it": "Gombo",
+      "pt": "Quiabo",
+      "ru": "Бамия",
+      "zh": "秋葵",
+      "ja": "オクラ",
+      "ar": "بامية",
+      "hi": "भिंडी",
+      "ko": "오크라"
+    }
+  },
+  {
+    "foodName": "Mısır",
+    "category": "Sebze",
+    "sugarContent": 3.2,
+    "restrictions": {
+      "lowSugar": {
+        "status": 2,
+        "note": "Orta seviye karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 3,
+        "note": "Yüksek FODMAP içerir."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Mısır",
+      "en": "Corn",
+      "es": "Maíz",
+      "fr": "Maïs",
+      "de": "Mais",
+      "it": "Mais",
+      "pt": "Milho",
+      "ru": "Кукуруза",
+      "zh": "玉米",
+      "ja": "とうもろこし",
+      "ar": "ذرة",
+      "hi": "मक्का",
+      "ko": "옥수수"
+    }
+  },
+  {
+    "foodName": "Tatlı Mısır",
+    "category": "Sebze",
+    "sugarContent": 4.5,
+    "restrictions": {
+      "lowSugar": {
+        "status": 2,
+        "note": "Orta seviye karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 3,
+        "note": "Yüksek FODMAP içerir."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Tatlı Mısır",
+      "en": "Sweet Corn",
+      "es": "Maíz Dulce",
+      "fr": "Maïs Doux",
+      "de": "Süßmais",
+      "it": "Mais Dolce",
+      "pt": "Milho Doce",
+      "ru": "Сладкая Кукуруза",
+      "zh": "甜玉米",
+      "ja": "スイートコーン",
+      "ar": "ذرة حلوة",
+      "hi": "मीठी मक्का",
+      "ko": "스위트콘"
+    }
+  },
+  {
+    "foodName": "Kırmızı Pancar",
+    "category": "Sebze",
+    "sugarContent": 6.8,
+    "restrictions": {
+      "lowSugar": {
+        "status": 2,
+        "note": "Orta seviye karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 3,
+        "note": "Yüksek FODMAP içerir."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Kırmızı Pancar",
+      "en": "Red Beet",
+      "es": "Remolacha Roja",
+      "fr": "Betterave Rouge",
+      "de": "Rote Bete",
+      "it": "Barbabietola Rossa",
+      "pt": "Beterraba Vermelha",
+      "ru": "Красная Свекла",
+      "zh": "红甜菜",
+      "ja": "赤ビート",
+      "ar": "شمندر أحمر",
+      "hi": "लाल चुकंदर",
+      "ko": "적색 비트"
+    }
+  },
+  {
+    "foodName": "Kırmızı Biber",
+    "category": "Sebze",
+    "sugarContent": 2.4,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Kırmızı Biber",
+      "en": "Red Pepper",
+      "es": "Pimiento Rojo",
+      "fr": "Poivron Rouge",
+      "de": "Roter Paprika",
+      "it": "Peperone Rosso",
+      "pt": "Pimentão Vermelho",
+      "ru": "Красный Перец",
+      "zh": "红椒",
+      "ja": "赤ピーマン",
+      "ar": "فلفل أحمر",
+      "hi": "लाल मिर्च",
+      "ko": "빨간 고추"
+    }
+  },
+  {
+    "foodName": "Sarı Biber",
+    "category": "Sebze",
+    "sugarContent": 2.4,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Sarı Biber",
+      "en": "Yellow Pepper",
+      "es": "Pimiento Amarillo",
+      "fr": "Poivron Jaune",
+      "de": "Gelber Paprika",
+      "it": "Peperone Giallo",
+      "pt": "Pimentão Amarelo",
+      "ru": "Желтый Перец",
+      "zh": "黄椒",
+      "ja": "黄ピーマン",
+      "ar": "فلفل أصفر",
+      "hi": "पीली मिर्च",
+      "ko": "노란 고추"
+    }
+  },
+  {
+    "foodName": "Turuncu Biber",
+    "category": "Sebze",
+    "sugarContent": 2.4,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Turuncu Biber",
+      "en": "Orange Pepper",
+      "es": "Pimiento Naranja",
+      "fr": "Poivron Orange",
+      "de": "Oranger Paprika",
+      "it": "Peperone Arancione",
+      "pt": "Pimentão Laranja",
+      "ru": "Оранжевый Перец",
+      "zh": "橙椒",
+      "ja": "オレンジピーマン",
+      "ar": "فلفل برتقالي",
+      "hi": "नारंगी मिर्च",
+      "ko": "오렌지 고추"
+    }
+  },
+  {
+    "foodName": "Jalapeno",
+    "category": "Sebze",
+    "sugarContent": 2.6,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Jalapeno",
+      "en": "Jalapeño",
+      "es": "Jalapeño",
+      "fr": "Jalapeño",
+      "de": "Jalapeño",
+      "it": "Jalapeño",
+      "pt": "Jalapeño",
+      "ru": "Халапеньо",
+      "zh": "墨西哥胡椒",
+      "ja": "ハラペーニョ",
+      "ar": "هالبينو",
+      "hi": "जलापीनो",
+      "ko": "할라페뇨"
+    }
+  },
+  {
+    "foodName": "Habanero",
+    "category": "Sebze",
+    "sugarContent": 2.6,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Habanero",
+      "en": "Habanero",
+      "es": "Habanero",
+      "fr": "Habanero",
+      "de": "Habanero",
+      "it": "Habanero",
+      "pt": "Habanero",
+      "ru": "Хабанеро",
+      "zh": "哈瓦那椒",
+      "ja": "ハバネロ",
+      "ar": "هابانيرو",
+      "hi": "हबानेरो",
+      "ko": "하바네로"
+    }
+  },
+  {
+    "foodName": "Tatlı Biber",
+    "category": "Sebze",
+    "sugarContent": 2.4,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Tatlı Biber",
+      "en": "Tatli Biber",
+      "es": "Tatli Biber",
+      "fr": "Tatli Biber",
+      "de": "Tatli Biber",
+      "it": "Tatli Biber",
+      "pt": "Tatli Biber",
+      "ru": "Tatli Biber",
+      "zh": "Tatli Biber",
+      "ja": "Tatli Biber",
+      "ar": "Tatli Biber",
+      "hi": "Tatli Biber",
+      "ko": "Tatli Biber"
+    }
+  },
+  {
+    "foodName": "Pul Biber",
+    "category": "Sebze",
+    "sugarContent": 3,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Pul Biber",
+      "en": "Red Pepper Flakes",
+      "es": "Copos de Pimiento",
+      "fr": "Flocons de Piment",
+      "de": "Paprikaflocken",
+      "it": "Fiocchi di Peperoncino",
+      "pt": "Flocos de Pimenta",
+      "ru": "Хлопья Красного Перца",
+      "zh": "红椒片",
+      "ja": "唐辛子のフレーク",
+      "ar": "رقائق الفلفل الأحمر",
+      "hi": "लाल मिर्च के टुकड़े",
+      "ko": "고춧가루"
+    }
+  },
+  {
+    "foodName": "Kırmızı Biber Tozu",
+    "category": "Sebze",
+    "sugarContent": 2.8,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Kırmızı Biber Tozu",
+      "en": "Red Pepper Powder",
+      "es": "Polvo de Pimiento",
+      "fr": "Poudre de Piment",
+      "de": "Paprikapulver",
+      "it": "Polvere di Peperoncino",
+      "pt": "Pó de Pimenta",
+      "ru": "Порошок Красного Перца",
+      "zh": "红椒粉",
+      "ja": "唐辛子パウダー",
+      "ar": "مسحوق الفلفل الأحمر",
+      "hi": "लाल मिर्च पाउडर",
+      "ko": "고춧가루"
+    }
+  },
+  {
+    "foodName": "Bal Kabağı",
+    "category": "Sebze",
+    "sugarContent": 2.8,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Bal Kabağı",
+      "en": "Pumpkin",
+      "es": "Calabaza",
+      "fr": "Citrouille",
+      "de": "Kürbis",
+      "it": "Zucca",
+      "pt": "Abóbora",
+      "ru": "Тыква",
+      "zh": "南瓜",
+      "ja": "かぼちゃ",
+      "ar": "قرع",
+      "hi": "कद्दू",
+      "ko": "호박"
+    }
+  },
+  {
+    "foodName": "Sakız Kabağı",
+    "category": "Sebze",
+    "sugarContent": 2.5,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Sakız Kabağı",
+      "en": "Yellow Squash",
+      "es": "Calabaza Amarilla",
+      "fr": "Courge Jaune",
+      "de": "Gelber Kürbis",
+      "it": "Zucca Gialla",
+      "pt": "Abóbora Amarela",
+      "ru": "Желтая Тыква",
+      "zh": "黄南瓜",
+      "ja": "黄色いカボチャ",
+      "ar": "قرع أصفر",
+      "hi": "पीली स्क्वैश",
+      "ko": "노란 호박"
+    }
+  },
+  {
+    "foodName": "Dilim Kabak",
+    "category": "Sebze",
+    "sugarContent": 2.5,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Dilim Kabak",
+      "en": "Summer Squash",
+      "es": "Calabaza de Verano",
+      "fr": "Courge d'Été",
+      "de": "Sommerkürbis",
+      "it": "Zucca Estiva",
+      "pt": "Abóbora de Verão",
+      "ru": "Летняя Тыква",
+      "zh": "夏南瓜",
+      "ja": "夏カボチャ",
+      "ar": "قرع صيفي",
+      "hi": "गर्मी की स्क्वैश",
+      "ko": "여름 호박"
+    }
+  },
+  {
+    "foodName": "Su Kabağı",
+    "category": "Sebze",
+    "sugarContent": 2.2,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Su Kabağı",
+      "en": "Bottle Gourd",
+      "es": "Calabaza de Botella",
+      "fr": "Courge Bouteille",
+      "de": "Flaschenkürbis",
+      "it": "Zucca Bottiglia",
+      "pt": "Abóbora de Garrafa",
+      "ru": "Бутылочная Тыква",
+      "zh": "葫芦",
+      "ja": "ひょうたん",
+      "ar": "قرع زجاجة",
+      "hi": "बोतल लौकी",
+      "ko": "병박"
+    }
+  },
+  {
+    "foodName": "Balkabağı",
+    "category": "Sebze",
+    "sugarContent": 2.8,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Balkabağı",
+      "en": "Butternut Squash",
+      "es": "Calabaza Butternut",
+      "fr": "Courge Musquée",
+      "de": "Butternusskürbis",
+      "it": "Zucca Butternut",
+      "pt": "Abóbora Butternut",
+      "ru": "Ореховая Тыква",
+      "zh": "胡桃南瓜",
+      "ja": "バターナッツスクワッシュ",
+      "ar": "قرع الجوز",
+      "hi": "बटरनट स्क्वैश",
+      "ko": "버터넛 스쿼시"
+    }
+  },
+  {
+    "foodName": "Kestane",
+    "category": "Sebze",
+    "sugarContent": 44.2,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Kestane",
+      "en": "Chestnut",
+      "es": "Castaña",
+      "fr": "Châtaigne",
+      "de": "Kastanie",
+      "it": "Castagna",
+      "pt": "Castanha",
+      "ru": "Каштан",
+      "zh": "栗子",
+      "ja": "栗",
+      "ar": "كستناء",
+      "hi": "शाहबलूत",
+      "ko": "밤"
+    }
+  },
+  {
+    "foodName": "Yer Elması",
+    "category": "Sebze",
+    "sugarContent": 9.2,
+    "restrictions": {
+      "lowSugar": {
+        "status": 2,
+        "note": "Orta seviye karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Yer Elması",
+      "en": "Jerusalem Artichoke",
+      "es": "Aguaturma",
+      "fr": "Topinambour",
+      "de": "Topinambur",
+      "it": "Topinambur",
+      "pt": "Girassol",
+      "ru": "Топинамбур",
+      "zh": "洋姜",
+      "ja": "キクイモ",
+      "ar": "خرشوف قدس",
+      "hi": "जेरूसलम आटिचोक",
+      "ko": "뚱딴지"
+    }
+  },
+  {
+    "foodName": "Şalgam",
+    "category": "Sebze",
+    "sugarContent": 3.8,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Şalgam",
+      "en": "Turnip",
+      "es": "Nabo",
+      "fr": "Navet",
+      "de": "Rübe",
+      "it": "Rapa",
+      "pt": "Nabo",
+      "ru": "Репа",
+      "zh": "芜菁",
+      "ja": "カブ",
+      "ar": "لفت",
+      "hi": "शलगम",
+      "ko": "순무"
+    }
+  },
+  {
+    "foodName": "Şalgam Yaprağı",
+    "category": "Sebze",
+    "sugarContent": 0.9,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Şalgam Yaprağı",
+      "en": "Turnip Greens",
+      "es": "Hojas de Nabo",
+      "fr": "Feuilles de Navet",
+      "de": "Rübenblätter",
+      "it": "Foglie di Rapa",
+      "pt": "Folhas de Nabo",
+      "ru": "Листья Репы",
+      "zh": "芜菁叶",
+      "ja": "カブの葉",
+      "ar": "أوراق اللفت",
+      "hi": "शलगम के पत्ते",
+      "ko": "순무 잎"
+    }
+  },
+  {
+    "foodName": "Pancar Yaprağı",
+    "category": "Sebze",
+    "sugarContent": 0.8,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Pancar Yaprağı",
+      "en": "Beet Greens",
+      "es": "Hojas de Remolacha",
+      "fr": "Feuilles de Betterave",
+      "de": "Rübenblätter",
+      "it": "Foglie di Barbabietola",
+      "pt": "Folhas de Beterraba",
+      "ru": "Листья Свеклы",
+      "zh": "甜菜叶",
+      "ja": "ビートの葉",
+      "ar": "أوراق الشمندر",
+      "hi": "चुकंदर के पत्ते",
+      "ko": "비트 잎"
+    }
+  },
+  {
+    "foodName": "Kara Lahana",
+    "category": "Sebze",
+    "sugarContent": 1.5,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 3,
+        "note": "Yüksek histamin içerir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Kara Lahana",
+      "en": "Black Cabbage",
+      "es": "Col Negra",
+      "fr": "Chou Noir",
+      "de": "Schwarzer Kohl",
+      "it": "Cavolo Nero",
+      "pt": "Couve Preta",
+      "ru": "Черная Капуста",
+      "zh": "黑甘蓝",
+      "ja": "黒キャベツ",
+      "ar": "ملفوف أسود",
+      "hi": "काली गोभी",
+      "ko": "검은 양배추"
+    }
+  },
+  {
+    "foodName": "Pekin Lahanası",
+    "category": "Sebze",
+    "sugarContent": 1.5,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Pekin Lahanası",
+      "en": "Napa Cabbage",
+      "es": "Col de Pekín",
+      "fr": "Chou de Pékin",
+      "de": "Chinakohl",
+      "it": "Cavolo Cinese",
+      "pt": "Repolho Chinês",
+      "ru": "Пекинская Капуста",
+      "zh": "大白菜",
+      "ja": "白菜",
+      "ar": "ملفوف بكين",
+      "hi": "पेकिंग गोभी",
+      "ko": "배추"
+    }
+  },
+  {
+    "foodName": "Napa Lahanası",
+    "category": "Sebze",
+    "sugarContent": 1.2,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Napa Lahanası",
+      "en": "Napa Cabbage",
+      "es": "Col Napa",
+      "fr": "Chou Napa",
+      "de": "Napa-Kohl",
+      "it": "Cavolo Napa",
+      "pt": "Repolho Napa",
+      "ru": "Напа Капуста",
+      "zh": "大白菜",
+      "ja": "ナパキャベツ",
+      "ar": "ملفوف نابا",
+      "hi": "नापा गोभी",
+      "ko": "나파 양배추"
+    }
+  },
+  {
+    "foodName": "Kale",
+    "category": "Sebze",
+    "sugarContent": 0.8,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 3,
+        "note": "Yüksek histamin içerir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Kara Lahana",
+      "en": "Kale",
+      "es": "Col Rizada",
+      "fr": "Chou Frisé",
+      "de": "Grünkohl",
+      "it": "Cavolo Riccio",
+      "pt": "Couve",
+      "ru": "Капуста Кале",
+      "zh": "羽衣甘蓝",
+      "ja": "ケール",
+      "ar": "كالي",
+      "hi": "केल",
+      "ko": "케일"
+    }
+  },
+  {
+    "foodName": "Chard",
+    "category": "Sebze",
+    "sugarContent": 1.6,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Pazı",
+      "en": "Chard",
+      "es": "Acelga",
+      "fr": "Blette",
+      "de": "Mangold",
+      "it": "Bietola",
+      "pt": "Acelga",
+      "ru": "Мангольд",
+      "zh": "甜菜",
+      "ja": "スイスチャード",
+      "ar": "سلق",
+      "hi": "चार्ड",
+      "ko": "근대"
+    }
+  },
+  {
+    "foodName": "Collard Greens",
+    "category": "Sebze",
+    "sugarContent": 0.5,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Kara Lahana",
+      "en": "Collard Greens",
+      "es": "Coles",
+      "fr": "Chou Cavalier",
+      "de": "Grünkohl",
+      "it": "Cavolo Verza",
+      "pt": "Couve-Galega",
+      "ru": "Листовая Капуста",
+      "zh": "羽衣甘蓝",
+      "ja": "コラードグリーン",
+      "ar": "خضار الكرنب",
+      "hi": "कोलार्ड ग्रीन्स",
+      "ko": "콜라드 그린"
+    }
+  },
+  {
+    "foodName": "Bok Choy",
+    "category": "Sebze",
+    "sugarContent": 1.2,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Çin Lahanası",
+      "en": "Bok Choy",
+      "es": "Bok Choy",
+      "fr": "Chou Chinois",
+      "de": "Pak Choi",
+      "it": "Bok Choy",
+      "pt": "Bok Choy",
+      "ru": "Пак Чой",
+      "zh": "小白菜",
+      "ja": "青梗菜",
+      "ar": "بوك تشوي",
+      "hi": "बोक चॉय",
+      "ko": "청경채"
+    }
+  },
+  {
+    "foodName": "Mizuna",
+    "category": "Sebze",
+    "sugarContent": 1.2,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Mizuna",
+      "en": "Mizuna",
+      "es": "Mizuna",
+      "fr": "Mizuna",
+      "de": "Mizuna",
+      "it": "Mizuna",
+      "pt": "Mizuna",
+      "ru": "Мицуна",
+      "zh": "水菜",
+      "ja": "みずな",
+      "ar": "ميزونا",
+      "hi": "मिज़ुना",
+      "ko": "미즈나"
+    }
+  },
+  {
+    "foodName": "Tatsoi",
+    "category": "Sebze",
+    "sugarContent": 1,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Tatsoi",
+      "en": "Tatsoi",
+      "es": "Tatsoi",
+      "fr": "Tatsoi",
+      "de": "Tatsoi",
+      "it": "Tatsoi",
+      "pt": "Tatsoi",
+      "ru": "Татсой",
+      "zh": "塌菜",
+      "ja": "ターツォイ",
+      "ar": "تاتسوي",
+      "hi": "टाटसोई",
+      "ko": "타트소이"
+    }
+  },
+  {
+    "foodName": "Su Teresi",
+    "category": "Sebze",
+    "sugarContent": 0.8,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Su Teresi",
+      "en": "Watercress",
+      "es": "Berro",
+      "fr": "Cresson",
+      "de": "Brunnenkresse",
+      "it": "Crescione",
+      "pt": "Agrião",
+      "ru": "Кресс-Салат",
+      "zh": "水芹",
+      "ja": "クレソン",
+      "ar": "جرجير مائي",
+      "hi": "वॉटरक्रेस",
+      "ko": "물냉이"
+    }
+  },
+  {
+    "foodName": "Karahindiba Yeşilliği",
+    "category": "Sebze",
+    "sugarContent": 0.7,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Karahindiba Yeşilliği",
+      "en": "Dandelion Greens",
+      "es": "Hojas de Diente de León",
+      "fr": "Feuilles de Pissenlit",
+      "de": "Löwenzahnblätter",
+      "it": "Foglie di Tarassaco",
+      "pt": "Folhas de Dente-de-leão",
+      "ru": "Листья Одуванчика",
+      "zh": "蒲公英叶",
+      "ja": "タンポポの葉",
+      "ar": "أوراق الهندباء",
+      "hi": "सिंहपर्णी के पत्ते",
+      "ko": "민들레 잎"
+    }
+  },
+  {
+    "foodName": "Kuzu Kulağı",
+    "category": "Sebze",
+    "sugarContent": 0.9,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Kuzu Kulağı",
+      "en": "Sorrel",
+      "es": "Acedera",
+      "fr": "Oseille",
+      "de": "Sauerampfer",
+      "it": "Acetosa",
+      "pt": "Azeda",
+      "ru": "Щавель",
+      "zh": "酸模",
+      "ja": "スイバ",
+      "ar": "حميض",
+      "hi": "सॉरेल",
+      "ko": "수영"
+    }
+  },
+  {
+    "foodName": "Yaban Turpu",
+    "category": "Sebze",
+    "sugarContent": 7.9,
+    "restrictions": {
+      "lowSugar": {
+        "status": 2,
+        "note": "Orta seviye karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 3,
+        "note": "Yüksek asidiktir."
+      }
+    },
+    "names": {
+      "tr": "Yaban Turpu",
+      "en": "Horseradish",
+      "es": "Rábano Picante",
+      "fr": "Raifort",
+      "de": "Meerrettich",
+      "it": "Rafano",
+      "pt": "Rábano Picante",
+      "ru": "Хрен",
+      "zh": "辣根",
+      "ja": "ホースラディッシュ",
+      "ar": "فجل حار",
+      "hi": "हॉर्सरैडिश",
+      "ko": "양 고추 냉이"
+    }
+  },
+  {
+    "foodName": "Wasabi",
+    "category": "Sebze",
+    "sugarContent": 2.2,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 3,
+        "note": "Yüksek asidiktir."
+      }
+    },
+    "names": {
+      "tr": "Wasabi",
+      "en": "Wasabi",
+      "es": "Wasabi",
+      "fr": "Wasabi",
+      "de": "Wasabi",
+      "it": "Wasabi",
+      "pt": "Wasabi",
+      "ru": "Васаби",
+      "zh": "山葵",
+      "ja": "わさび",
+      "ar": "وسابي",
+      "hi": "वसाबी",
+      "ko": "와사비"
+    }
+  },
+  {
+    "foodName": "Zerdeçal",
+    "category": "Sebze",
+    "sugarContent": 3.2,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Zerdeçal",
+      "en": "Turmeric",
+      "es": "Cúrcuma",
+      "fr": "Curcuma",
+      "de": "Kurkuma",
+      "it": "Curcuma",
+      "pt": "Açafrão",
+      "ru": "Куркума",
+      "zh": "姜黄",
+      "ja": "ウコン",
+      "ar": "كركم",
+      "hi": "हल्दी",
+      "ko": "강황"
+    }
+  },
+  {
+    "foodName": "Galangal",
+    "category": "Sebze",
+    "sugarContent": 2.6,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Galangal",
+      "en": "Galangal",
+      "es": "Galanga",
+      "fr": "Galanga",
+      "de": "Galanga",
+      "it": "Galanga",
+      "pt": "Gengibre Azul",
+      "ru": "Галангал",
+      "zh": "高良姜",
+      "ja": "ガランガル",
+      "ar": "جلنجال",
+      "hi": "गलंगल",
+      "ko": "갈랑갈"
+    }
+  },
+  {
+    "foodName": "Mantar",
+    "category": "Sebze",
+    "sugarContent": 0.5,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 3,
+        "note": "Yüksek histamin içerir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Mantar",
+      "en": "Mushroom",
+      "es": "Champiñón",
+      "fr": "Champignon",
+      "de": "Pilz",
+      "it": "Funghi",
+      "pt": "Cogumelo",
+      "ru": "Гриб",
+      "zh": "蘑菇",
+      "ja": "きのこ",
+      "ar": "فطر",
+      "hi": "मशरूम",
+      "ko": "버섯"
+    }
+  },
+  {
+    "foodName": "Kültür Mantarı",
+    "category": "Sebze",
+    "sugarContent": 0.5,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 3,
+        "note": "Yüksek histamin içerir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Kültür Mantarı",
+      "en": "Button Mushroom",
+      "es": "Champiñón",
+      "fr": "Champignon de Paris",
+      "de": "Champignon",
+      "it": "Champignon",
+      "pt": "Cogumelo Paris",
+      "ru": "Шампиньон",
+      "zh": "白蘑菇",
+      "ja": "マッシュルーム",
+      "ar": "فطر الزر",
+      "hi": "बटन मशरूम",
+      "ko": "양송이버섯"
+    }
+  },
+  {
+    "foodName": "Kestane Mantarı",
+    "category": "Sebze",
+    "sugarContent": 0.6,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 3,
+        "note": "Yüksek histamin içerir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Kestane Mantarı",
+      "en": "Chestnut Mushroom",
+      "es": "Champiñón Castaño",
+      "fr": "Champignon Châtaigne",
+      "de": "Kastanienpilz",
+      "it": "Champignon Castagno",
+      "pt": "Cogumelo Castanha",
+      "ru": "Каштановый Гриб",
+      "zh": "栗蘑",
+      "ja": "クリタケ",
+      "ar": "فطر الكستناء",
+      "hi": "कस्तूरी मशरूम",
+      "ko": "밤버섯"
+    }
+  },
+  {
+    "foodName": "Şitake Mantarı",
+    "category": "Sebze",
+    "sugarContent": 2.4,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 3,
+        "note": "Yüksek histamin içerir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Şitake Mantarı",
+      "en": "Shiitake Mushroom",
+      "es": "Champiñón Shiitake",
+      "fr": "Champignon Shiitake",
+      "de": "Shiitake-Pilz",
+      "it": "Funghi Shiitake",
+      "pt": "Cogumelo Shiitake",
+      "ru": "Гриб Шиитаке",
+      "zh": "香菇",
+      "ja": "しいたけ",
+      "ar": "فطر شيتاكي",
+      "hi": "शिटेक मशरूम",
+      "ko": "표고버섯"
+    }
+  },
+  {
+    "foodName": "Guarana",
+    "category": "Meyve",
+    "sugarContent": 8.5,
+    "restrictions": {
+      "lowSugar": {
+        "status": 2,
+        "note": "Orta seviye karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Guarana",
+      "en": "Guarana",
+      "es": "Guaraná",
+      "fr": "Guarana",
+      "de": "Guarana",
+      "it": "Guaranà",
+      "pt": "Guaraná",
+      "ru": "Гуарана",
+      "zh": "瓜拉纳",
+      "ja": "グアラナ",
+      "ar": "غوارانا",
+      "hi": "गुआराना",
+      "ko": "구아라나"
+    }
+  },
+  {
+    "foodName": "Breadfruit",
+    "category": "Meyve",
+    "sugarContent": 11,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Ekmek Meyvesi",
+      "en": "Breadfruit",
+      "es": "Fruto del Pan",
+      "fr": "Fruit à Pain",
+      "de": "Brotfrucht",
+      "it": "Albero del Pane",
+      "pt": "Fruta-pão",
+      "ru": "Хлебное Дерево",
+      "zh": "面包果",
+      "ja": "パンノキ",
+      "ar": "ثمرة الخبز",
+      "hi": "ब्रेडफ्रूट",
+      "ko": "빵나무열매"
+    }
+  },
+  {
+    "foodName": "Jackfruit",
+    "category": "Meyve",
+    "sugarContent": 19.1,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Jak Meyvesi",
+      "en": "Jackfruit",
+      "es": "Yaca",
+      "fr": "Jacquier",
+      "de": "Jackfrucht",
+      "it": "Giaca",
+      "pt": "Jaca",
+      "ru": "Джекфрут",
+      "zh": "菠萝蜜",
+      "ja": "ジャックフルーツ",
+      "ar": "جاك فروت",
+      "hi": "कटहल",
+      "ko": "잭프루트"
+    }
+  },
+  {
+    "foodName": "Durian",
+    "category": "Meyve",
+    "sugarContent": 23.3,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 3,
+        "note": "Yüksek histamin içerir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Duryan",
+      "en": "Durian",
+      "es": "Durian",
+      "fr": "Durian",
+      "de": "Durian",
+      "it": "Durian",
+      "pt": "Durian",
+      "ru": "Дуриан",
+      "zh": "榴莲",
+      "ja": "ドリアン",
+      "ar": "دوريان",
+      "hi": "डूरियन",
+      "ko": "두리안"
+    }
+  },
+  {
+    "foodName": "Mangosteen",
+    "category": "Meyve",
+    "sugarContent": 17.9,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu sınırlayın."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Mangostan",
+      "en": "Mangosteen",
+      "es": "Mangostán",
+      "fr": "Mangoustan",
+      "de": "Mangostane",
+      "it": "Mangostano",
+      "pt": "Mangostão",
+      "ru": "Мангостан",
+      "zh": "山竹",
+      "ja": "マンゴスチン",
+      "ar": "مانجوستين",
+      "hi": "मैंगोस्टीन",
+      "ko": "망고스틴"
+    }
+  },
+  {
+    "foodName": "Ackee",
+    "category": "Meyve",
+    "sugarContent": 0.8,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Orta asit seviyesi."
+      }
+    },
+    "names": {
+      "tr": "Ackee",
+      "en": "Ackee",
+      "es": "Ackee",
+      "fr": "Ackée",
+      "de": "Ackee",
+      "it": "Ackee",
+      "pt": "Ackee",
+      "ru": "Аки",
+      "zh": "阿开木",
+      "ja": "アキー",
+      "ar": "أكي",
+      "hi": "अक्की",
+      "ko": "아키"
+    }
+  },
+  {
+    "foodName": "Rose Hip",
+    "category": "Meyve",
+    "sugarContent": 38.2,
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Kuşburnu",
+      "en": "Rose Hip",
+      "es": "Escaramujo",
+      "fr": "Cynorrhodon",
+      "de": "Hagebutte",
+      "it": "Rosa Canina",
+      "pt": "Rosa Canina",
+      "ru": "Шиповник",
+      "zh": "玫瑰果",
+      "ja": "ローズヒップ",
+      "ar": "ورد بري",
+      "hi": "गुलाब का फल",
+      "ko": "로즈힙"
+    }
+  },
+  {
+    "foodName": "Reishi Mantarı",
+    "category": "Sebze",
+    "sugarContent": 0,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Reishi Mantarı",
+      "en": "Reishi Mushroom",
+      "es": "Champiñón Reishi",
+      "fr": "Champignon Reishi",
+      "de": "Reishi-Pilz",
+      "it": "Funghi Reishi",
+      "pt": "Cogumelo Reishi",
+      "ru": "Гриб Рейши",
+      "zh": "灵芝",
+      "ja": "霊芝",
+      "ar": "فطر ريشي",
+      "hi": "रेइशी मशरूम",
+      "ko": "영지버섯"
+    }
+  },
+  {
+    "foodName": "Portobello Mantarı",
+    "category": "Sebze",
+    "sugarContent": 2.3,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 3,
+        "note": "Yüksek histamin içerir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Portobello Mantarı",
+      "en": "Portobello Mushroom",
+      "es": "Champiñón Portobello",
+      "fr": "Champignon Portobello",
+      "de": "Portobello-Pilz",
+      "it": "Funghi Portobello",
+      "pt": "Cogumelo Portobello",
+      "ru": "Гриб Портобелло",
+      "zh": "波多贝罗蘑菇",
+      "ja": "ポルトベッロ",
+      "ar": "فطر بورتابيلو",
+      "hi": "पोर्टोबेलो मशरूम",
+      "ko": "포토벨로 버섯"
+    }
+  },
+  {
+    "foodName": "Oyster Mantarı",
+    "category": "Sebze",
+    "sugarContent": 0.6,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 3,
+        "note": "Yüksek histamin içerir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Oyster Mantarı",
+      "en": "Oyster Mushroom",
+      "es": "Champiñón Ostra",
+      "fr": "Pleurote",
+      "de": "Austernpilz",
+      "it": "Pleurotus",
+      "pt": "Cogumelo Ostra",
+      "ru": "Вёшенка",
+      "zh": "平菇",
+      "ja": "ヒラタケ",
+      "ar": "فطر المحار",
+      "hi": "ऑयस्टर मशरूम",
+      "ko": "느타리버섯"
+    }
+  },
+  {
+    "foodName": "Deniz Yosunu",
+    "category": "Sebze",
+    "sugarContent": 0.5,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Deniz Yosunu",
+      "en": "Seaweed",
+      "es": "Alga Marina",
+      "fr": "Algue",
+      "de": "Alge",
+      "it": "Alga",
+      "pt": "Alga",
+      "ru": "Морская Капуста",
+      "zh": "海藻",
+      "ja": "海藻",
+      "ar": "طحالب بحرية",
+      "hi": "समुद्री शैवाल",
+      "ko": "해조류"
+    }
+  },
+  {
+    "foodName": "Nori",
+    "category": "Sebze",
+    "sugarContent": 0.5,
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "FODMAP için uygundur."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    },
+    "names": {
+      "tr": "Nori",
+      "en": "Nori",
+      "es": "Nori",
+      "fr": "Nori",
+      "de": "Nori",
+      "it": "Nori",
+      "pt": "Nori",
+      "ru": "Нори",
+      "zh": "紫菜",
+      "ja": "のり",
+      "ar": "نوري",
+      "hi": "नोरी",
+      "ko": "김"
     }
   }
 ]
-
-

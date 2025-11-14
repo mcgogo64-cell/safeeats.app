@@ -1,7 +1,18 @@
 {
-  "welcome": "SafeEats - 饮食限制过滤器",
-  "subtitle": "为您的饮食限制找到安全的水果和蔬菜",
+  "welcome": "SafeEats - 糖含量分析器",
+  "subtitle": "了解您的水果和蔬菜中含有多少糖分",
   "selectLanguage": "选择语言",
+  "searchPlaceholder": "搜索水果或蔬菜...",
+  "searchInstructions": "输入水果或蔬菜名称以查看其糖含量",
+  "sugarContent": "糖含量",
+  "noSugarData": "此项目无糖含量信息",
+  "foodNotFound": "未找到食物。请尝试其他名称。",
+  "sugarComment": {
+    "low": "低糖含量 - 不错的选择！",
+    "moderate": "中等糖含量",
+    "medium": "中高糖含量",
+    "high": "高糖含量 - 请适量食用"
+  },
   "myRestrictions": "我的限制:",
   "filters": {
     "lowSugar": "低糖 (生酮)",

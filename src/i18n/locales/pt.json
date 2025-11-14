@@ -1,7 +1,18 @@
 {
-  "welcome": "SafeEats - Filtro de Restrições Dietéticas",
-  "subtitle": "Encontre frutas e vegetais seguros para suas restrições dietéticas",
+  "welcome": "SafeEats - Analisador de Conteúdo de Açúcar",
+  "subtitle": "Descubra quanta açúcar contêm suas frutas e vegetais",
   "selectLanguage": "Selecionar Idioma",
+  "searchPlaceholder": "Pesquise uma fruta ou vegetal...",
+  "searchInstructions": "Digite o nome de uma fruta ou vegetal para ver seu conteúdo de açúcar",
+  "sugarContent": "Conteúdo de Açúcar",
+  "noSugarData": "Informações de conteúdo de açúcar não disponíveis para este item",
+  "foodNotFound": "Alimento não encontrado. Por favor, tente outro nome.",
+  "sugarComment": {
+    "low": "Baixo conteúdo de açúcar - Boa escolha!",
+    "moderate": "Conteúdo moderado de açúcar",
+    "medium": "Conteúdo médio-alto de açúcar",
+    "high": "Alto conteúdo de açúcar - Consuma com moderação"
+  },
   "myRestrictions": "Minhas Restrições:",
   "filters": {
     "lowSugar": "Baixo Açúcar (Keto)",
@@ -23,9 +34,9 @@
     "medicalDisclaimer": "As informações fornecidas são apenas para fins informativos e não constituem aconselhamento médico profissional, diagnóstico ou tratamento."
   },
   "seo": {
-    "title": "SafeEats - Filtro de Frutas e Vegetais Seguros para Restrições Dietéticas | Keto, Histamina, FODMAP, GERD",
-    "description": "Filtre frutas e vegetais seguros para suas restrições dietéticas. Encontre alimentos adequados para dietas Keto, baixas em Histamina, baixas em FODMAP (IBS) e baixas em Ácido (GERD). Ferramenta gratuita de filtro de restrições dietéticas.",
-    "keywords": "dieta frutas açúcar, frutas baixo açúcar, frutas keto, alimentos intolerância histamina, frutas baixa histamina, alimentos FODMAP, dieta IBS, alimentos dieta GERD, frutas baixo ácido, filtro restrições dietéticas, alimentos seguros alergias, filtro frutas vegetais, restrições dietéticas, vegetais keto, vegetais baixo açúcar"
+    "title": "SafeEats - Analisador de Conteúdo de Açúcar para Frutas e Vegetais",
+    "description": "Descubra quanta açúcar contêm diferentes frutas e vegetais. Analise o conteúdo de açúcar e faça escolhas alimentares informadas.",
+    "keywords": "conteúdo açúcar frutas, conteúdo açúcar vegetais, açúcar em frutas, analisador açúcar, calculadora açúcar frutas, frutas baixo açúcar, quantidade açúcar frutas"
   },
   "languages": {
     "en": "Inglês",

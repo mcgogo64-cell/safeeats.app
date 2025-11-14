@@ -1,7 +1,18 @@
 {
-  "welcome": "SafeEats - 食事制限フィルター",
-  "subtitle": "あなたの食事制限に適した安全な果物と野菜を見つける",
+  "welcome": "SafeEats - 糖分含有量アナライザー",
+  "subtitle": "果物と野菜に含まれる糖分を調べる",
   "selectLanguage": "言語を選択",
+  "searchPlaceholder": "果物や野菜を検索...",
+  "searchInstructions": "果物や野菜の名前を入力して糖分含有量を確認",
+  "sugarContent": "糖分含有量",
+  "noSugarData": "このアイテムの糖分含有量情報は利用できません",
+  "foodNotFound": "食品が見つかりません。別の名前をお試しください。",
+  "sugarComment": {
+    "low": "低糖分 - 良い選択です！",
+    "moderate": "中程度の糖分含有量",
+    "medium": "中高糖分含有量",
+    "high": "高糖分含有量 - 適度に摂取してください"
+  },
   "myRestrictions": "私の制限:",
   "filters": {
     "lowSugar": "低糖質 (ケトン)",

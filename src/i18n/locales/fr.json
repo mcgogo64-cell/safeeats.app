@@ -1,7 +1,18 @@
 {
-  "welcome": "SafeEats - Filtre de Restrictions Alimentaires",
-  "subtitle": "Trouvez des fruits et légumes sûrs pour vos restrictions alimentaires",
+  "welcome": "SafeEats - Analyseur de Teneur en Sucre",
+  "subtitle": "Découvrez la teneur en sucre de vos fruits et légumes",
   "selectLanguage": "Sélectionner la langue",
+  "searchPlaceholder": "Recherchez un fruit ou un légume...",
+  "searchInstructions": "Tapez le nom d'un fruit ou d'un légume pour voir sa teneur en sucre",
+  "sugarContent": "Teneur en Sucre",
+  "noSugarData": "Informations sur la teneur en sucre non disponibles pour cet article",
+  "foodNotFound": "Aliment introuvable. Veuillez essayer un autre nom.",
+  "sugarComment": {
+    "low": "Faible teneur en sucre - Bon choix !",
+    "moderate": "Teneur modérée en sucre",
+    "medium": "Teneur moyenne-élevée en sucre",
+    "high": "Teneur élevée en sucre - Consommez avec modération"
+  },
   "myRestrictions": "Mes Restrictions:",
   "filters": {
     "lowSugar": "Faible en Sucre (Keto)",
@@ -23,9 +34,9 @@
     "medicalDisclaimer": "Les informations fournies sont à des fins informatives uniquement et ne constituent pas des conseils médicaux professionnels, un diagnostic ou un traitement."
   },
   "seo": {
-    "title": "SafeEats - Filtre de Fruits et Légumes Sûrs pour Restrictions Alimentaires | Keto, Histamine, FODMAP, GERD",
-    "description": "Filtrez les fruits et légumes sûrs pour vos restrictions alimentaires. Trouvez des aliments adaptés aux régimes Keto, faibles en Histamine, faibles en FODMAP (IBS) et faibles en Acide (GERD). Outil gratuit de filtre de restrictions alimentaires.",
-    "keywords": "régime fruits sucre, fruits faible sucre, fruits keto, aliments intolérance histamine, fruits faible histamine, aliments FODMAP, régime IBS, aliments régime GERD, fruits faible acide, filtre restrictions alimentaires, aliments sûrs allergies, filtre fruits légumes, restrictions alimentaires, légumes keto, légumes faible sucre"
+    "title": "SafeEats - Analyseur de Teneur en Sucre pour Fruits et Légumes",
+    "description": "Découvrez la teneur en sucre de différents fruits et légumes. Analysez la teneur en sucre et faites des choix alimentaires éclairés.",
+    "keywords": "teneur en sucre des fruits, teneur en sucre des légumes, sucre dans les fruits, analyseur de sucre, calculateur de sucre des fruits, fruits faible sucre, quantité de sucre dans les fruits"
   },
   "languages": {
     "en": "Anglais",
