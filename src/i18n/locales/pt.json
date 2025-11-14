@@ -1,0 +1,47 @@
+{
+  "welcome": "SafeEats - Filtro de Restrições Dietéticas",
+  "subtitle": "Encontre frutas e vegetais seguros para suas restrições dietéticas",
+  "selectLanguage": "Selecionar Idioma",
+  "myRestrictions": "Minhas Restrições:",
+  "filters": {
+    "lowSugar": "Baixo Açúcar (Keto)",
+    "lowHistamine": "Baixa Histamina",
+    "lowFODMAP": "Baixo FODMAP (IBS)",
+    "lowAcid": "Baixo Ácido (GERD)"
+  },
+  "filter": "Filtrar",
+  "clear": "Limpar",
+  "safe": "Seguro para Comer",
+  "caution": "Comer com Cautela",
+  "avoid": "Evitar",
+  "noResults": "Nenhum alimento corresponde às suas restrições selecionadas.",
+  "selectFilters": "Por favor, selecione pelo menos um filtro de restrição.",
+  "disclaimer": {
+    "title": "AVISO IMPORTANTE DE SEGURANÇA",
+    "text": "Esta ferramenta NÃO é projetada para alergias alimentares com risco de vida (por exemplo, amendoim, trigo, frutos do mar) ou doença celíaca. Esta ferramenta NÃO rastreia riscos de contaminação cruzada. A ferramenta filtra apenas perfis conhecidos de intolerância (por exemplo, FODMAP, Histamina) de alimentos em seus estados genéricos (não processados). Se você tiver uma alergia grave, NÃO USE este aplicativo.",
+    "accept": "Entendo e Aceito",
+    "medicalDisclaimer": "As informações fornecidas são apenas para fins informativos e não constituem aconselhamento médico profissional, diagnóstico ou tratamento."
+  },
+  "seo": {
+    "title": "SafeEats - Filtro de Frutas e Vegetais Seguros para Restrições Dietéticas | Keto, Histamina, FODMAP, GERD",
+    "description": "Filtre frutas e vegetais seguros para suas restrições dietéticas. Encontre alimentos adequados para dietas Keto, baixas em Histamina, baixas em FODMAP (IBS) e baixas em Ácido (GERD). Ferramenta gratuita de filtro de restrições dietéticas.",
+    "keywords": "dieta frutas açúcar, frutas baixo açúcar, frutas keto, alimentos intolerância histamina, frutas baixa histamina, alimentos FODMAP, dieta IBS, alimentos dieta GERD, frutas baixo ácido, filtro restrições dietéticas, alimentos seguros alergias, filtro frutas vegetais, restrições dietéticas, vegetais keto, vegetais baixo açúcar"
+  },
+  "languages": {
+    "en": "Inglês",
+    "tr": "Turco",
+    "es": "Espanhol",
+    "fr": "Francês",
+    "de": "Alemão",
+    "it": "Italiano",
+    "pt": "Português",
+    "ru": "Russo",
+    "zh": "Chinês",
+    "ja": "Japonês",
+    "ar": "Árabe",
+    "hi": "Hindi",
+    "ko": "Coreano"
+  }
+}
+
+

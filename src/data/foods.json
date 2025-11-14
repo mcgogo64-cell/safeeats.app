@@ -1,0 +1,224 @@
+[
+  {
+    "foodName": "Avokado",
+    "category": "Meyve",
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Keto için uygundur."
+      },
+      "lowHistamine": {
+        "status": 3,
+        "note": "Yüksek histamin içerir."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "Porsiyonu < 30g (1/8) ile sınırlayın (Polyol)."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    }
+  },
+  {
+    "foodName": "Ahududu",
+    "category": "Meyve",
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Çok düşük net karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 2,
+        "note": "SIGHI listesinde 'riskli' veya diğer listelerde 'dışlanmış' olarak belirtilmiştir. Tolerans bireyseldir."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "Monash 'Yeşil Işık' - Standart porsiyonlarda (~75g) düşük FODMAP."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Düşük asit içerir."
+      }
+    }
+  },
+  {
+    "foodName": "Elma",
+    "category": "Meyve",
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Yüksek net karbonhidrat içerir, ketozisi bozar."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli ve salgılatıcı olmayan gıdalar."
+      },
+      "lowFODMAP": {
+        "status": 3,
+        "note": "'Kırmızı Işık': Yüksek Fruktoz veya Polyol (Sorbitol) içerirler."
+      },
+      "lowAcid": {
+        "status": 2,
+        "note": "Bazı türleri alkali olabilir."
+      }
+    }
+  },
+  {
+    "foodName": "Çilek",
+    "category": "Meyve",
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Çok düşük net karbonhidrat içerir."
+      },
+      "lowHistamine": {
+        "status": 3,
+        "note": "Güçlü histamin salgılatıcıları (liberators)."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "Monash 'Yeşil Işık' - Standart porsiyonlarda (~75g) düşük FODMAP."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Düşük asit içerir."
+      }
+    }
+  },
+  {
+    "foodName": "Muz",
+    "category": "Meyve",
+    "restrictions": {
+      "lowSugar": {
+        "status": 3,
+        "note": "Kesin bir ❌ (Kaçının) - Yüksek net karbonhidrat."
+      },
+      "lowHistamine": {
+        "status": 3,
+        "note": "DAO inhibitörü (biogenic amines)."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "(olgunlaşmamış) - Monash 'Yeşil Işık' - Standart porsiyonlarda düşük FODMAP."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali (düşük asit) gıdadır."
+      }
+    }
+  },
+  {
+    "foodName": "Salatalık",
+    "category": "Sebze",
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Nişastasız sebzeler, temel keto gıdalarıdır."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli ve salgılatıcı olmayan taze sebzeler."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "Monash 'Yeşil Işık' - Standart porsiyonlarda düşük FODMAP."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali, yüksek lifli ve yatıştırıcı gıdalar."
+      }
+    }
+  },
+  {
+    "foodName": "Domates",
+    "category": "Sebze",
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Diğer nişastasız sebzelere göre bir miktar daha yüksek şeker/karb içerirler."
+      },
+      "lowHistamine": {
+        "status": 3,
+        "note": "Yüksek histamin içeriğine sahip."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "Monash 'Yeşil Işık' - Standart porsiyonlarda düşük FODMAP."
+      },
+      "lowAcid": {
+        "status": 3,
+        "note": "Yüksek asidiktirler, yemek borusunu tahriş ederler."
+      }
+    }
+  },
+  {
+    "foodName": "Ispanak",
+    "category": "Sebze",
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Nişastasız sebzeler, temel keto gıdalarıdır."
+      },
+      "lowHistamine": {
+        "status": 3,
+        "note": "Yüksek histamin içeriğine sahip."
+      },
+      "lowFODMAP": {
+        "status": 1,
+        "note": "Monash 'Yeşil Işık' - Standart porsiyonlarda düşük FODMAP."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali gıdadır."
+      }
+    }
+  },
+  {
+    "foodName": "Brokoli",
+    "category": "Sebze",
+    "restrictions": {
+      "lowSugar": {
+        "status": 1,
+        "note": "Nişastasız sebzeler, temel keto gıdalarıdır."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli ve salgılatıcı olmayan taze sebzeler."
+      },
+      "lowFODMAP": {
+        "status": 2,
+        "note": "'Sarı Işık': Sadece başları ve az miktarda."
+      },
+      "lowAcid": {
+        "status": 1,
+        "note": "Alkali, yüksek lifli ve yatıştırıcı gıdalar."
+      }
+    }
+  },
+  {
+    "foodName": "Soğan",
+    "category": "Sebze",
+    "restrictions": {
+      "lowSugar": {
+        "status": 2,
+        "note": "Diğer nişastasız sebzelere göre bir miktar daha yüksek şeker/karb içerirler."
+      },
+      "lowHistamine": {
+        "status": 1,
+        "note": "Düşük histaminli ve salgılatıcı olmayan taze sebzeler."
+      },
+      "lowFODMAP": {
+        "status": 3,
+        "note": "'Kırmızı Işık': Yüksek Fructan içerirler."
+      },
+      "lowAcid": {
+        "status": 3,
+        "note": "LES kapağını gevşetirler."
+      }
+    }
+  }
+]
+
+

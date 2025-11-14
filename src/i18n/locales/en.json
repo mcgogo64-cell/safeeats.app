@@ -1,0 +1,46 @@
+{
+  "welcome": "SafeEats - Diet Restriction Filter",
+  "subtitle": "Find safe fruits and vegetables for your dietary restrictions",
+  "selectLanguage": "Select Language",
+  "myRestrictions": "My Restrictions:",
+  "filters": {
+    "lowSugar": "Low Sugar (Keto)",
+    "lowHistamine": "Low Histamine",
+    "lowFODMAP": "Low FODMAP (IBS)",
+    "lowAcid": "Low Acid (GERD)"
+  },
+  "filter": "Filter",
+  "clear": "Clear",
+  "safe": "Safe to Eat",
+  "caution": "Eat with Caution",
+  "avoid": "Avoid",
+  "noResults": "No foods match your selected restrictions.",
+  "selectFilters": "Please select at least one restriction filter.",
+  "disclaimer": {
+    "title": "IMPORTANT SAFETY DISCLAIMER",
+    "text": "This tool is NOT designed for life-threatening food allergies (e.g., peanuts, wheat, shellfish) or Celiac disease. This tool does NOT track cross-contact risks. The tool only filters known intolerance profiles (e.g., FODMAP, Histamine) of foods in their generic (unprocessed) states. If you have a serious allergy, DO NOT USE this app.",
+    "accept": "I Understand and Accept",
+    "medicalDisclaimer": "The information provided is for informational purposes only and does not constitute professional medical advice, diagnosis, or treatment."
+  },
+  "seo": {
+    "title": "SafeEats - Find Safe Fruits & Vegetables for Diet Restrictions | Keto, Histamine, FODMAP, GERD Filter",
+    "description": "Filter safe fruits and vegetables for your dietary restrictions. Find foods suitable for Keto, low Histamine, low FODMAP (IBS), and low Acid (GERD) diets. Free diet restriction filter tool.",
+    "keywords": "fruit sugar diet, low sugar fruits, keto fruits, histamine intolerance foods, low histamine fruits, FODMAP foods, IBS diet, GERD diet foods, low acid fruits, diet restriction filter, safe foods for allergies, fruit vegetable filter, dietary restrictions, keto vegetables, low sugar vegetables"
+  },
+  "languages": {
+    "en": "English",
+    "tr": "Turkish",
+    "es": "Spanish",
+    "fr": "French",
+    "de": "German",
+    "it": "Italian",
+    "pt": "Portuguese",
+    "ru": "Russian",
+    "zh": "Chinese",
+    "ja": "Japanese",
+    "ar": "Arabic",
+    "hi": "Hindi",
+    "ko": "Korean"
+  }
+}
+

@@ -1,0 +1,46 @@
+{
+  "welcome": "SafeEats - Diyet Kısıtlama Filtresi",
+  "subtitle": "Diyet kısıtlamalarınıza uygun güvenli meyve ve sebzeleri bulun",
+  "selectLanguage": "Dil Seçin",
+  "myRestrictions": "Kısıtlamalarım:",
+  "filters": {
+    "lowSugar": "Düşük Şeker (Keto)",
+    "lowHistamine": "Düşük Histamin",
+    "lowFODMAP": "Düşük FODMAP (IBS)",
+    "lowAcid": "Düşük Asit (GERD)"
+  },
+  "filter": "Filtrele",
+  "clear": "Temizle",
+  "safe": "Güvenle Yiyebilirsiniz",
+  "caution": "Dikkatli Yiyin",
+  "avoid": "Kaçının",
+  "noResults": "Seçtiğiniz kısıtlamalara uygun gıda bulunamadı.",
+  "selectFilters": "Lütfen en az bir kısıtlama filtresi seçin.",
+  "disclaimer": {
+    "title": "ÖNEMLİ GÜVENLİK UYARISI",
+    "text": "Bu araç, hayatı tehdit eden gıda alerjileri (örn. fıstık, buğday, kabuklu deniz ürünleri) veya Çölyak hastalığı için tasarlanmamıştır. Bu araç çapraz temas risklerini takip ETMEZ. Araç yalnızca gıdaların jenerik (işlenmemiş) hallerindeki bilinen intolerans profillerini (örn. FODMAP, Histamin) filtreler. Ciddi bir alerjiniz varsa, bu uygulamayı KULLANMAYIN.",
+    "accept": "Anladım ve Kabul Ediyorum",
+    "medicalDisclaimer": "Sağlanan bilgiler yalnızca bilgilendirme amaçlıdır ve profesyonel tıbbi tavsiye, teşhis veya tedavi yerine geçmez."
+  },
+  "seo": {
+    "title": "SafeEats - Diyet Kısıtlamaları İçin Güvenli Meyve ve Sebze Filtresi | Keto, Histamin, FODMAP, GERD",
+    "description": "Diyet kısıtlamalarınıza uygun güvenli meyve ve sebzeleri filtreleyin. Keto, düşük Histamin, düşük FODMAP (IBS) ve düşük Asit (GERD) diyetleri için uygun gıdaları bulun. Ücretsiz diyet kısıtlama filtresi.",
+    "keywords": "meyve şeker diyet, düşük şekerli meyveler, keto meyveler, histamin intoleransı gıdalar, düşük histaminli meyveler, FODMAP gıdalar, IBS diyeti, GERD diyet gıdalar, düşük asitli meyveler, diyet kısıtlama filtresi, alerji için güvenli gıdalar, meyve sebze filtresi, diyet kısıtlamaları, keto sebzeler, düşük şekerli sebzeler"
+  },
+  "languages": {
+    "en": "İngilizce",
+    "tr": "Türkçe",
+    "es": "İspanyolca",
+    "fr": "Fransızca",
+    "de": "Almanca",
+    "it": "İtalyanca",
+    "pt": "Portekizce",
+    "ru": "Rusça",
+    "zh": "Çince",
+    "ja": "Japonca",
+    "ar": "Arapça",
+    "hi": "Hintçe",
+    "ko": "Korece"
+  }
+}
+

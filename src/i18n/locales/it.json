@@ -1,0 +1,47 @@
+{
+  "welcome": "SafeEats - Filtro Restrizioni Dietetiche",
+  "subtitle": "Trova frutta e verdura sicure per le tue restrizioni dietetiche",
+  "selectLanguage": "Seleziona Lingua",
+  "myRestrictions": "Le Mie Restrizioni:",
+  "filters": {
+    "lowSugar": "Basso Zucchero (Keto)",
+    "lowHistamine": "Bassa Istamina",
+    "lowFODMAP": "Basso FODMAP (IBS)",
+    "lowAcid": "Basso Acido (GERD)"
+  },
+  "filter": "Filtra",
+  "clear": "Pulisci",
+  "safe": "Sicuro da Mangiare",
+  "caution": "Mangiare con Precauzione",
+  "avoid": "Evitare",
+  "noResults": "Nessun alimento corrisponde alle tue restrizioni selezionate.",
+  "selectFilters": "Seleziona almeno un filtro di restrizione.",
+  "disclaimer": {
+    "title": "IMPORTANTE DISCLAIMER DI SICUREZZA",
+    "text": "Questo strumento NON è progettato per allergie alimentari potenzialmente letali (ad es. arachidi, grano, crostacei) o malattia celiaca. Questo strumento NON tiene traccia dei rischi di contaminazione incrociata. Lo strumento filtra solo i profili di intolleranza noti (ad es. FODMAP, Istamina) degli alimenti nei loro stati generici (non trasformati). Se hai un'allergia grave, NON USARE questa app.",
+    "accept": "Capisco e Accetto",
+    "medicalDisclaimer": "Le informazioni fornite sono solo a scopo informativo e non costituiscono consulenza medica professionale, diagnosi o trattamento."
+  },
+  "seo": {
+    "title": "SafeEats - Filtro Frutta e Verdura Sicure per Restrizioni Dietetiche | Keto, Istamina, FODMAP, GERD",
+    "description": "Filtra frutta e verdura sicure per le tue restrizioni dietetiche. Trova alimenti adatti per diete Keto, basse Istamina, basse FODMAP (IBS) e basse Acido (GERD). Strumento gratuito di filtro restrizioni dietetiche.",
+    "keywords": "dieta frutta zucchero, frutta basso zucchero, frutta keto, alimenti intolleranza istamina, frutta bassa istamina, alimenti FODMAP, dieta IBS, alimenti dieta GERD, frutta basso acido, filtro restrizioni dietetiche, alimenti sicuri allergie, filtro frutta verdura, restrizioni dietetiche, verdura keto, verdura basso zucchero"
+  },
+  "languages": {
+    "en": "Inglese",
+    "tr": "Turco",
+    "es": "Spagnolo",
+    "fr": "Francese",
+    "de": "Tedesco",
+    "it": "Italiano",
+    "pt": "Portoghese",
+    "ru": "Russo",
+    "zh": "Cinese",
+    "ja": "Giapponese",
+    "ar": "Arabo",
+    "hi": "Hindi",
+    "ko": "Coreano"
+  }
+}
+
+

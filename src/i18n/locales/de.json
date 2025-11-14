@@ -1,0 +1,47 @@
+{
+  "welcome": "SafeEats - Diät-Einschränkungsfilter",
+  "subtitle": "Finden Sie sichere Obst- und Gemüsesorten für Ihre Diät-Einschränkungen",
+  "selectLanguage": "Sprache auswählen",
+  "myRestrictions": "Meine Einschränkungen:",
+  "filters": {
+    "lowSugar": "Niedrige Zuckermenge (Keto)",
+    "lowHistamine": "Niedrige Histaminmenge",
+    "lowFODMAP": "Niedrige FODMAP (IBS)",
+    "lowAcid": "Niedriger Säuregehalt (GERD)"
+  },
+  "filter": "Filtern",
+  "clear": "Löschen",
+  "safe": "Sicher zu Essen",
+  "caution": "Mit Vorsicht Essen",
+  "avoid": "Vermeiden",
+  "noResults": "Keine Lebensmittel entsprechen Ihren ausgewählten Einschränkungen.",
+  "selectFilters": "Bitte wählen Sie mindestens einen Einschränkungsfilter aus.",
+  "disclaimer": {
+    "title": "WICHTIGER SICHERHEITSHINWEIS",
+    "text": "Dieses Tool ist NICHT für lebensbedrohliche Lebensmittelallergien (z. B. Erdnüsse, Weizen, Schalentiere) oder Zöliakie entwickelt. Dieses Tool verfolgt KEINE Kreuzkontaminationsrisiken. Das Tool filtert nur bekannte Unverträglichkeitsprofile (z. B. FODMAP, Histamin) von Lebensmitteln in ihren generischen (unverarbeiteten) Zuständen. Wenn Sie eine schwere Allergie haben, verwenden Sie diese App NICHT.",
+    "accept": "Ich Verstehe und Akzeptiere",
+    "medicalDisclaimer": "Die bereitgestellten Informationen dienen nur zu Informationszwecken und stellen keine professionelle medizinische Beratung, Diagnose oder Behandlung dar."
+  },
+  "seo": {
+    "title": "SafeEats - Filter für sichere Obst- und Gemüsesorten bei Diät-Einschränkungen | Keto, Histamin, FODMAP, GERD",
+    "description": "Filtern Sie sichere Obst- und Gemüsesorten für Ihre Diät-Einschränkungen. Finden Sie Lebensmittel für Keto-, niedrige Histamin-, niedrige FODMAP- (IBS) und niedrige Säure- (GERD) Diäten. Kostenloses Diät-Einschränkungsfilter-Tool.",
+    "keywords": "Obst Zucker Diät, niedrige Zucker Früchte, Keto Früchte, Histaminunverträglichkeit Lebensmittel, niedrige Histamin Früchte, FODMAP Lebensmittel, IBS Diät, GERD Diät Lebensmittel, niedrige Säure Früchte, Diät Einschränkung Filter, sichere Lebensmittel Allergien, Obst Gemüse Filter, Diät Einschränkungen, Keto Gemüse, niedrige Zucker Gemüse"
+  },
+  "languages": {
+    "en": "Englisch",
+    "tr": "Türkisch",
+    "es": "Spanisch",
+    "fr": "Französisch",
+    "de": "Deutsch",
+    "it": "Italienisch",
+    "pt": "Portugiesisch",
+    "ru": "Russisch",
+    "zh": "Chinesisch",
+    "ja": "Japanisch",
+    "ar": "Arabisch",
+    "hi": "Hindi",
+    "ko": "Koreanisch"
+  }
+}
+
+

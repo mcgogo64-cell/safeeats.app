@@ -1,0 +1,59 @@
+.language-selector {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.language-selector label {
+  font-size: 0.9em;
+  color: #aaa;
+}
+
+.language-dropdown {
+  padding: 8px 12px;
+  border-radius: 6px;
+  border: 1px solid #444;
+  background-color: #1a1a1a;
+  color: white;
+  font-size: 0.9em;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.language-dropdown:hover {
+  border-color: #61dafb;
+  background-color: #2a2a2a;
+}
+
+.language-dropdown:focus {
+  outline: none;
+  border-color: #61dafb;
+  box-shadow: 0 0 0 2px rgba(97, 218, 251, 0.2);
+}
+
+.language-dropdown option {
+  background-color: #1a1a1a;
+  color: white;
+}
+
+@media (max-width: 768px) {
+  .language-selector-container {
+    position: static;
+    margin-bottom: 20px;
+  }
+
+  .language-selector {
+    justify-content: center;
+  }
+}
+
+/* RTL support for Arabic */
+[dir="rtl"] .language-selector {
+  direction: rtl;
+}
+
+[dir="rtl"] .App-header {
+  direction: rtl;
+}
+
+

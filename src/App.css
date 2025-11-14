@@ -1,0 +1,126 @@
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 20px;
+  font-size: calc(10px + 2vmin);
+}
+
+.App-header {
+  width: 100%;
+  max-width: 1200px;
+  background-color: #282c34;
+  padding: 30px;
+  color: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  position: relative;
+  margin-top: 20px;
+}
+
+.language-selector-container {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+h1 {
+  margin-bottom: 10px;
+  color: #61dafb;
+  text-align: center;
+  font-size: 2em;
+}
+
+.subtitle {
+  text-align: center;
+  color: #aaa;
+  margin-bottom: 30px;
+  font-size: 1em;
+}
+
+.action-buttons {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.filter-btn,
+.clear-btn {
+  font-size: 1em;
+  padding: 12px 24px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  transition: all 0.3s ease;
+  min-width: 120px;
+}
+
+.filter-btn {
+  background-color: #61dafb;
+  color: #282c34;
+}
+
+.filter-btn:hover:not(:disabled) {
+  background-color: #4fa8c5;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(97, 218, 251, 0.3);
+}
+
+.clear-btn {
+  background-color: #666;
+  color: white;
+}
+
+.clear-btn:hover:not(:disabled) {
+  background-color: #777;
+  transform: translateY(-2px);
+}
+
+.filter-btn:disabled,
+.clear-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.info {
+  margin-top: 20px;
+  font-size: 0.9em;
+  color: #888;
+  text-align: center;
+  padding: 15px;
+  background-color: #1a1a1a;
+  border-radius: 6px;
+}
+
+@media (max-width: 768px) {
+  .App-header {
+    padding: 20px;
+  }
+
+  .language-selector-container {
+    position: static;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+  }
+
+  h1 {
+    font-size: 1.5em;
+  }
+
+  .action-buttons {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .filter-btn,
+  .clear-btn {
+    width: 100%;
+  }
+}
+

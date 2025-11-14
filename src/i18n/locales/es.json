@@ -1,0 +1,47 @@
+{
+  "welcome": "SafeEats - Filtro de Restricciones Dietéticas",
+  "subtitle": "Encuentra frutas y verduras seguras para tus restricciones dietéticas",
+  "selectLanguage": "Seleccionar Idioma",
+  "myRestrictions": "Mis Restricciones:",
+  "filters": {
+    "lowSugar": "Bajo en Azúcar (Keto)",
+    "lowHistamine": "Bajo en Histamina",
+    "lowFODMAP": "Bajo en FODMAP (IBS)",
+    "lowAcid": "Bajo en Ácido (GERD)"
+  },
+  "filter": "Filtrar",
+  "clear": "Limpiar",
+  "safe": "Seguro para Comer",
+  "caution": "Comer con Precaución",
+  "avoid": "Evitar",
+  "noResults": "No hay alimentos que coincidan con tus restricciones seleccionadas.",
+  "selectFilters": "Por favor selecciona al menos un filtro de restricción.",
+  "disclaimer": {
+    "title": "DESCARGO DE RESPONSABILIDAD DE SEGURIDAD IMPORTANTE",
+    "text": "Esta herramienta NO está diseñada para alergias alimentarias que amenazan la vida (p. ej., cacahuetes, trigo, mariscos) o enfermedad celíaca. Esta herramienta NO rastrea los riesgos de contaminación cruzada. La herramienta solo filtra perfiles conocidos de intolerancia (p. ej., FODMAP, Histamina) de alimentos en sus estados genéricos (no procesados). Si tienes una alergia grave, NO USES esta aplicación.",
+    "accept": "Entiendo y Acepto",
+    "medicalDisclaimer": "La información proporcionada es solo para fines informativos y no constituye asesoramiento médico profesional, diagnóstico o tratamiento."
+  },
+  "seo": {
+    "title": "SafeEats - Filtro de Frutas y Verduras Seguras para Restricciones Dietéticas | Keto, Histamina, FODMAP, GERD",
+    "description": "Filtra frutas y verduras seguras para tus restricciones dietéticas. Encuentra alimentos adecuados para dietas Keto, bajas en Histamina, bajas en FODMAP (IBS) y bajas en Ácido (GERD). Herramienta gratuita de filtro de restricciones dietéticas.",
+    "keywords": "dieta frutas azúcar, frutas bajas en azúcar, frutas keto, alimentos intolerancia histamina, frutas bajas en histamina, alimentos FODMAP, dieta IBS, alimentos dieta GERD, frutas bajas en ácido, filtro restricciones dietéticas, alimentos seguros alergias, filtro frutas verduras, restricciones dietéticas, verduras keto, verduras bajas en azúcar"
+  },
+  "languages": {
+    "en": "Inglés",
+    "tr": "Turco",
+    "es": "Español",
+    "fr": "Francés",
+    "de": "Alemán",
+    "it": "Italiano",
+    "pt": "Portugués",
+    "ru": "Ruso",
+    "zh": "Chino",
+    "ja": "Japonés",
+    "ar": "Árabe",
+    "hi": "Hindi",
+    "ko": "Coreano"
+  }
+}
+
+
