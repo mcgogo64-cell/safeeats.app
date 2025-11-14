@@ -5,45 +5,60 @@
 }
 
 .language-selector label {
-  font-size: 0.9em;
-  color: #aaa;
+  font-size: 14px;
+  color: #718096;
+  font-weight: 300;
 }
 
 .language-dropdown {
-  padding: 8px 12px;
-  border-radius: 6px;
-  border: 1px solid #444;
-  background-color: #1a1a1a;
-  color: white;
-  font-size: 0.9em;
+  padding: 8px 16px;
+  border-radius: 8px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  background-color: rgba(255, 255, 255, 0.9);
+  color: #2d3748;
+  font-size: 14px;
+  font-weight: 300;
   cursor: pointer;
   transition: all 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
 }
 
 .language-dropdown:hover {
-  border-color: #61dafb;
-  background-color: #2a2a2a;
+  border-color: #26a69a;
+  background-color: #ffffff;
+  box-shadow: 0 4px 8px rgba(38, 166, 154, 0.1);
 }
 
 .language-dropdown:focus {
   outline: none;
-  border-color: #61dafb;
-  box-shadow: 0 0 0 2px rgba(97, 218, 251, 0.2);
+  border-color: #26a69a;
+  box-shadow: 0 0 0 3px rgba(38, 166, 154, 0.15);
+  background-color: #ffffff;
 }
 
 .language-dropdown option {
-  background-color: #1a1a1a;
-  color: white;
+  background-color: #ffffff;
+  color: #2d3748;
+  padding: 8px;
 }
 
 @media (max-width: 768px) {
   .language-selector-container {
     position: static;
-    margin-bottom: 20px;
+    margin-bottom: 0;
   }
 
   .language-selector {
-    justify-content: center;
+    justify-content: flex-end;
+  }
+
+  .language-selector label {
+    font-size: 13px;
+  }
+
+  .language-dropdown {
+    font-size: 13px;
+    padding: 6px 12px;
   }
 }
 
@@ -52,8 +67,6 @@
   direction: rtl;
 }
 
-[dir="rtl"] .App-header {
+[dir="rtl"] .navbar-content {
   direction: rtl;
 }
-
-
