@@ -306,7 +306,6 @@
 .favorite-btn {
   background: none;
   border: none;
-  font-size: 24px;
   cursor: pointer;
   padding: 8px;
   border-radius: 50%;
@@ -325,6 +324,23 @@
 
 .favorite-btn.active {
   animation: heartBeat 0.5s ease;
+}
+
+.favorite-icon {
+  stroke-width: 2;
+  transition: all 0.2s ease;
+}
+
+.favorite-btn:not(.active) .favorite-icon {
+  color: #718096;
+}
+
+.favorite-btn:hover .favorite-icon {
+  color: #e53e3e;
+}
+
+.favorite-btn.active .favorite-icon {
+  color: #e53e3e;
 }
 
 @keyframes heartBeat {
@@ -424,9 +440,23 @@
   color: #c62828;
 }
 
+.diet-advice-icon-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
 .diet-advice-icon {
-  font-size: 20px;
-  font-weight: bold;
+  stroke-width: 2.5;
+}
+
+.diet-advice.suitable .diet-advice-icon {
+  color: #2e7d32;
+}
+
+.diet-advice.not-suitable .diet-advice-icon {
+  color: #c62828;
 }
 
 .diet-advice-text {
@@ -535,12 +565,24 @@
 .info-block-header {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 12px;
   margin-bottom: 12px;
 }
 
+.info-icon-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
+  background-color: rgba(15, 118, 110, 0.08);
+  flex-shrink: 0;
+}
+
 .info-icon {
-  font-size: 22px;
+  color: #0f766e;
+  stroke-width: 2;
 }
 
 .info-block-title {

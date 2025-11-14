@@ -1,5 +1,6 @@
 import { useState, useEffect, useRef } from 'react';
 import { useTranslation } from 'react-i18next';
+import { UtensilsCrossed, Clock, AlertTriangle, BarChart3, Heart, HeartOff, Check, AlertCircle } from 'lucide-react';
 import LanguageSelector from './components/LanguageSelector';
 import SEOHead from './components/SEOHead';
 import foodsData from './data/foods.json';
@@ -373,7 +374,11 @@ function App() {
                     onClick={() => toggleFavorite(searchResults)}
                     title={isFavorite(searchResults) ? t('removeFavorite') : t('addFavorite')}
                   >
-                    {isFavorite(searchResults) ? '❤️' : '🤍'}
+                    {isFavorite(searchResults) ? (
+                      <Heart className="favorite-icon" size={20} fill="#e53e3e" stroke="#e53e3e" />
+                    ) : (
+                      <HeartOff className="favorite-icon" size={20} />
+                    )}
                   </button>
                 </div>
 
@@ -423,7 +428,13 @@ function App() {
                     {/* Diet Advice */}
                     {dietAdvice && (
                       <div className={`diet-advice ${dietAdvice.suitable ? 'suitable' : 'not-suitable'}`}>
-                        <span className="diet-advice-icon">{dietAdvice.suitable ? '✓' : '⚠'}</span>
+                        <div className="diet-advice-icon-wrapper">
+                          {dietAdvice.suitable ? (
+                            <Check className="diet-advice-icon" size={20} />
+                          ) : (
+                            <AlertCircle className="diet-advice-icon" size={20} />
+                          )}
+                        </div>
                         <span className="diet-advice-text">{dietAdvice.message}</span>
                       </div>
                     )}
@@ -444,7 +455,9 @@ function App() {
                         {searchResults.comments.dietRecommendations && searchResults.comments.dietRecommendations[currentLang] && searchResults.comments.dietRecommendations[currentLang].length > 0 && (
                           <div className="info-block">
                             <div className="info-block-header">
-                              <span className="info-icon">🥗</span>
+                              <div className="info-icon-wrapper">
+                                <UtensilsCrossed className="info-icon" size={22} />
+                              </div>
                               <h4 className="info-block-title">{t('dietRecommendations')}</h4>
                             </div>
                             <ul className="info-list">
@@ -459,7 +472,9 @@ function App() {
                         {searchResults.comments.consumptionTiming && searchResults.comments.consumptionTiming[currentLang] && (
                           <div className="info-block">
                             <div className="info-block-header">
-                              <span className="info-icon">⏰</span>
+                              <div className="info-icon-wrapper">
+                                <Clock className="info-icon" size={22} />
+                              </div>
                               <h4 className="info-block-title">{t('consumptionTiming')}</h4>
                             </div>
                             <p className="info-text">{searchResults.comments.consumptionTiming[currentLang]}</p>
@@ -470,7 +485,9 @@ function App() {
                         {searchResults.comments.allergyInfo && searchResults.comments.allergyInfo[currentLang] && (
                           <div className="info-block">
                             <div className="info-block-header">
-                              <span className="info-icon">⚠️</span>
+                              <div className="info-icon-wrapper">
+                                <AlertTriangle className="info-icon" size={22} />
+                              </div>
                               <h4 className="info-block-title">{t('allergyInfo')}</h4>
                             </div>
                             <p className="info-text">{searchResults.comments.allergyInfo[currentLang]}</p>
@@ -481,7 +498,9 @@ function App() {
                         {searchResults.comments.dailyIntake && searchResults.comments.dailyIntake[currentLang] && (
                           <div className="info-block">
                             <div className="info-block-header">
-                              <span className="info-icon">📊</span>
+                              <div className="info-icon-wrapper">
+                                <BarChart3 className="info-icon" size={22} />
+                              </div>
                               <h4 className="info-block-title">{t('dailyIntake')}</h4>
                             </div>
                             <p className="info-text daily-intake-text">{searchResults.comments.dailyIntake[currentLang]}</p>
