@@ -203,7 +203,7 @@ function App() {
       <SEOHead />
       <nav className="navbar">
         <div className="navbar-content">
-          <div className="navbar-logo">🍎 SafeEats</div>
+              <div className="navbar-logo">🍎 FoodLens</div>
           <div className="language-selector-container">
             <LanguageSelector />
           </div>
@@ -412,7 +412,7 @@ function App() {
                     <div className="sugar-info">
                       <div className="sugar-amount">
                         <span className="sugar-value">{calculatedSugar}</span>
-                        <span className="sugar-unit">g / {portion}g</span>
+                        <span className="sugar-unit">{t('sugar')} / {portion}g</span>
                       </div>
                       <div className="sugar-bar">
                         <div 

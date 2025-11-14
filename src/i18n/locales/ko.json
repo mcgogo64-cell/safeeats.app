@@ -1,9 +1,9 @@
 {
-  "welcome": "SafeEats - 당 함량 분석기",
-  "subtitle": "과일과 채소의 당 함량 알아보기",
+  "welcome": "FoodLens Complete Nutrition Analyzer",
+  "subtitle": "모든 식품에 대한 완전한 영양 정보 - 당, 단백질, 지방 및 탄수화물",
   "selectLanguage": "언어 선택",
-  "searchPlaceholder": "과일 또는 채소 검색...",
-  "searchInstructions": "과일 또는 채소 이름을 입력하여 당 함량 확인",
+  "searchPlaceholder": "모든 식품 검색...",
+  "searchInstructions": "모든 식품의 이름을 입력하여 완전한 영양 정보 확인",
   "sugarContent": "당 함량",
   "noSugarData": "이 항목에 대한 당 함량 정보를 사용할 수 없습니다",
   "foodNotFound": "음식을 찾을 수 없습니다. 다른 이름을 시도해 보세요.",
@@ -34,9 +34,9 @@
     "medicalDisclaimer": "제공된 정보는 정보 제공 목적으로만 제공되며 전문 의학적 조언, 진단 또는 치료를 구성하지 않습니다."
   },
   "seo": {
-    "title": "SafeEats - 식이 제한을 위한 안전한 과일과 채소 필터 | 케토, 히스타민, FODMAP, 위식도 역류질환",
-    "description": "식이 제한에 맞는 안전한 과일과 채소를 필터링하세요. 케토, 저 히스타민, 저 FODMAP(과민성 대장 증후군), 저산성(위식도 역류질환) 다이어트에 적합한 음식을 찾으세요. 무료 식이 제한 필터 도구.",
-    "keywords": "과일 설탕 다이어트, 저당 과일, 케토 과일, 히스타민 불내성 음식, 저 히스타민 과일, FODMAP 음식, 과민성 대장 증후군 다이어트, 위식도 역류질환 다이어트 음식, 저산성 과일, 식이 제한 필터, 알레르기 안전 음식, 과일 채소 필터, 식이 제한, 케토 채소, 저당 채소"
+    "title": "FoodLens - 모든 식품의 완전한 영양 분석기",
+    "description": "모든 식품에 대한 완전한 영양 정보 - 당, 단백질, 지방 및 탄수화물 분석. FoodLens로 정보에 기반한 식이 선택을 하세요.",
+    "keywords": "영양 분석기, 식품 영양, 단백질 지방 탄수화물, 완전 영양, 식품 분석기, 영양 정보, 다량 영양소, 식단 분석"
   },
   "languages": {
     "en": "영어",
@@ -62,5 +62,6 @@
   "protein": "단백질",
   "fat": "지방",
   "carbs": "탄수화물",
-  "per100g": "100g당"
+  "per100g": "100g당",
+  "sugar": "g 설탕"
 }

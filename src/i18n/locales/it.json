@@ -1,9 +1,9 @@
 {
-  "welcome": "SafeEats - Analizzatore di Contenuto di Zucchero",
-  "subtitle": "Scopri quanta zucchero contengono i tuoi frutti e verdure",
+  "welcome": "FoodLens Complete Nutrition Analyzer",
+  "subtitle": "Informazioni nutrizionali complete per tutti gli alimenti - zuccheri, proteine, grassi e carboidrati",
   "selectLanguage": "Seleziona Lingua",
-  "searchPlaceholder": "Cerca un frutto o una verdura...",
-  "searchInstructions": "Digita il nome di un frutto o verdura per vedere il contenuto di zucchero",
+  "searchPlaceholder": "Cerca un alimento...",
+  "searchInstructions": "Digita il nome di qualsiasi alimento per vedere le sue informazioni nutrizionali complete",
   "sugarContent": "Contenuto di Zucchero",
   "noSugarData": "Informazioni sul contenuto di zucchero non disponibili per questo articolo",
   "foodNotFound": "Alimento non trovato. Prova con un altro nome.",
@@ -34,9 +34,9 @@
     "medicalDisclaimer": "Le informazioni fornite sono solo a scopo informativo e non costituiscono consulenza medica professionale, diagnosi o trattamento."
   },
   "seo": {
-    "title": "SafeEats - Analizzatore di Contenuto di Zucchero per Frutti e Verdure",
-    "description": "Scopri quanta zucchero contengono diversi frutti e verdure. Analizza il contenuto di zucchero e fai scelte alimentari informate.",
-    "keywords": "contenuto zucchero frutta, contenuto zucchero verdura, zucchero nei frutti, analizzatore zucchero, calcolatore zucchero frutta, frutta basso zucchero, quantità zucchero frutta"
+    "title": "FoodLens - Analizzatore Nutrizionale Completo per Tutti gli Alimenti",
+    "description": "Informazioni nutrizionali complete per tutti gli alimenti - analizza zuccheri, proteine, grassi e carboidrati. Prendi decisioni dietetiche informate con FoodLens.",
+    "keywords": "analizzatore nutrizionale, nutrizione alimentare, proteine grassi carboidrati, nutrizione completa, analizzatore alimentare, informazioni nutrizionali, macronutrienti, analisi della dieta"
   },
   "languages": {
     "en": "Inglese",
@@ -62,5 +62,6 @@
   "protein": "Proteine",
   "fat": "Grassi",
   "carbs": "Carboidrati",
-  "per100g": "per 100g"
+  "per100g": "per 100g",
+  "sugar": "g Zucchero"
 }

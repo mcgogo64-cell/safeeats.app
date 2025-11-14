@@ -1,9 +1,9 @@
 {
-  "welcome": "SafeEats - Şeker İçeriği Analizcisi",
-  "subtitle": "Meyve ve sebzelerinizde ne kadar şeker olduğunu öğrenin",
+  "welcome": "FoodLens Complete Nutrition Analyzer",
+  "subtitle": "Tüm gıdalar için kapsamlı besin bilgisi - şeker, protein, yağ ve karbonhidrat",
   "selectLanguage": "Dil Seçin",
-  "searchPlaceholder": "Bir meyve veya sebze arayın...",
-  "searchInstructions": "Şeker içeriğini görmek için bir meyve veya sebze adı yazın",
+  "searchPlaceholder": "Herhangi bir gıda ara...",
+  "searchInstructions": "Herhangi bir gıdanın adını yazarak kapsamlı besin bilgilerini görün",
   "sugarContent": "Şeker İçeriği",
   "noSugarData": "Bu ürün için şeker içeriği bilgisi mevcut değil",
   "foodNotFound": "Gıda bulunamadı. Lütfen başka bir isim deneyin.",
@@ -43,9 +43,9 @@
   "portion": "Porsiyon Boyutu",
   "clear": "Temizle",
   "seo": {
-    "title": "SafeEats - Meyve ve Sebzeler için Şeker İçeriği Analizcisi",
-    "description": "Farklı meyve ve sebzelerde ne kadar şeker olduğunu öğrenin. Şeker içeriğini analiz edin ve bilinçli beslenme tercihleri yapın.",
-    "keywords": "meyve şeker içeriği, sebze şeker içeriği, meyvelerde şeker, şeker analizcisi, meyve şeker hesaplayıcı, düşük şekerli meyveler, meyvelerde şeker miktarı"
+    "title": "FoodLens - Tüm Gıdalar için Kapsamlı Besin Analizcisi",
+    "description": "Tüm gıdalar için kapsamlı besin bilgisi - şeker, protein, yağ ve karbonhidrat analizi. FoodLens ile bilinçli beslenme tercihleri yapın.",
+    "keywords": "besin analizcisi, gıda beslenmesi, protein yağ karbonhidrat, kapsamlı beslenme, gıda analizcisi, besin bilgisi, makro besinler, diyet analizi"
   },
   "languages": {
     "en": "İngilizce",
@@ -71,5 +71,6 @@
   "protein": "Protein",
   "fat": "Yağ",
   "carbs": "Karbonhidrat",
-  "per100g": "100g başına"
+  "per100g": "100g başına",
+  "sugar": "g Şeker"
 }

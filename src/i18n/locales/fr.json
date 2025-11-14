@@ -1,9 +1,9 @@
 {
-  "welcome": "SafeEats - Analyseur de Teneur en Sucre",
-  "subtitle": "Découvrez la teneur en sucre de vos fruits et légumes",
+  "welcome": "FoodLens Complete Nutrition Analyzer",
+  "subtitle": "Informations nutritionnelles complètes pour tous les aliments - sucres, protéines, lipides et glucides",
   "selectLanguage": "Sélectionner la langue",
-  "searchPlaceholder": "Recherchez un fruit ou un légume...",
-  "searchInstructions": "Tapez le nom d'un fruit ou d'un légume pour voir sa teneur en sucre",
+  "searchPlaceholder": "Rechercher un aliment...",
+  "searchInstructions": "Tapez le nom de n'importe quel aliment pour voir ses informations nutritionnelles complètes",
   "sugarContent": "Teneur en Sucre",
   "noSugarData": "Informations sur la teneur en sucre non disponibles pour cet article",
   "foodNotFound": "Aliment introuvable. Veuillez essayer un autre nom.",
@@ -34,9 +34,9 @@
     "medicalDisclaimer": "Les informations fournies sont à des fins informatives uniquement et ne constituent pas des conseils médicaux professionnels, un diagnostic ou un traitement."
   },
   "seo": {
-    "title": "SafeEats - Analyseur de Teneur en Sucre pour Fruits et Légumes",
-    "description": "Découvrez la teneur en sucre de différents fruits et légumes. Analysez la teneur en sucre et faites des choix alimentaires éclairés.",
-    "keywords": "teneur en sucre des fruits, teneur en sucre des légumes, sucre dans les fruits, analyseur de sucre, calculateur de sucre des fruits, fruits faible sucre, quantité de sucre dans les fruits"
+    "title": "FoodLens - Analyseur de Nutrition Complet pour Tous les Aliments",
+    "description": "Informations nutritionnelles complètes pour tous les aliments - analysez les sucres, protéines, lipides et glucides. Prenez des décisions diététiques éclairées avec FoodLens.",
+    "keywords": "analyseur nutritionnel, nutrition alimentaire, protéines lipides glucides, nutrition complète, analyseur d'aliments, informations nutritionnelles, macronutriments, analyse de régime"
   },
   "languages": {
     "en": "Anglais",
@@ -62,5 +62,6 @@
   "protein": "Protéines",
   "fat": "Lipides",
   "carbs": "Glucides",
-  "per100g": "pour 100g"
+  "per100g": "pour 100g",
+  "sugar": "g Sucre"
 }

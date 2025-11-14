@@ -1,10 +1,11 @@
 {
-  "welcome": "SafeEats - Sugar Content Analyzer",
-  "subtitle": "Find out how much sugar is in your fruits and vegetables",
+  "welcome": "FoodLens Complete Nutrition Analyzer",
+  "subtitle": "Complete nutritional information for all foods - sugars, proteins, fats, and carbs",
   "selectLanguage": "Select Language",
-  "searchPlaceholder": "Search for a fruit or vegetable...",
-  "searchInstructions": "Type the name of a fruit or vegetable to see its sugar content",
+  "searchPlaceholder": "Search for any food...",
+  "searchInstructions": "Type the name of any food to see its complete nutritional information",
   "sugarContent": "Sugar Content",
+  "sugar": "g Sugar",
   "noSugarData": "Sugar content information not available for this item",
   "foodNotFound": "Food not found. Please try another name.",
   "sugarComment": {
@@ -53,9 +54,9 @@
   "carbs": "Carbs",
   "per100g": "per 100g",
   "seo": {
-    "title": "SafeEats - Sugar Content Analyzer for Fruits & Vegetables",
-    "description": "Find out how much sugar is in different fruits and vegetables. Analyze sugar content and make informed dietary choices.",
-    "keywords": "fruit sugar content, vegetable sugar content, sugar in fruits, sugar analyzer, fruit sugar calculator, low sugar fruits, sugar amount in fruits"
+    "title": "FoodLens - Complete Nutrition Analyzer for All Foods",
+    "description": "Complete nutritional information for all foods - analyze sugars, proteins, fats, and carbs. Make informed dietary choices with FoodLens.",
+    "keywords": "nutrition analyzer, food nutrition, protein fat carbs, complete nutrition, food analyzer, nutritional information, macro nutrients, diet analysis"
   },
   "languages": {
     "en": "English",

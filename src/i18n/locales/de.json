@@ -1,9 +1,9 @@
 {
-  "welcome": "SafeEats - Zuckergehalts-Analysator",
-  "subtitle": "Finden Sie heraus, wie viel Zucker in Ihrem Obst und Gemüse enthalten ist",
+  "welcome": "FoodLens Complete Nutrition Analyzer",
+  "subtitle": "Vollständige Nährwertinformationen für alle Lebensmittel - Zucker, Proteine, Fette und Kohlenhydrate",
   "selectLanguage": "Sprache auswählen",
-  "searchPlaceholder": "Suchen Sie nach einer Frucht oder einem Gemüse...",
-  "searchInstructions": "Geben Sie den Namen einer Frucht oder eines Gemüses ein, um den Zuckergehalt zu sehen",
+  "searchPlaceholder": "Nach einem Lebensmittel suchen...",
+  "searchInstructions": "Geben Sie den Namen eines Lebensmittels ein, um vollständige Nährwertinformationen zu sehen",
   "sugarContent": "Zuckergehalt",
   "noSugarData": "Zuckergehaltsinformationen für diesen Artikel nicht verfügbar",
   "foodNotFound": "Lebensmittel nicht gefunden. Bitte versuchen Sie einen anderen Namen.",
@@ -34,9 +34,9 @@
     "medicalDisclaimer": "Die bereitgestellten Informationen dienen nur zu Informationszwecken und stellen keine professionelle medizinische Beratung, Diagnose oder Behandlung dar."
   },
   "seo": {
-    "title": "SafeEats - Zuckergehalts-Analysator für Obst und Gemüse",
-    "description": "Finden Sie heraus, wie viel Zucker in verschiedenen Obst- und Gemüsesorten enthalten ist. Analysieren Sie den Zuckergehalt und treffen Sie fundierte Ernährungsentscheidungen.",
-    "keywords": "Zuckergehalt Obst, Zuckergehalt Gemüse, Zucker in Früchten, Zuckergehalts-Analysator, Fruchtzucker-Rechner, niedrige Zucker Früchte, Zuckermenge in Früchten"
+    "title": "FoodLens - Vollständiger Nährwertanalysator für Alle Lebensmittel",
+    "description": "Vollständige Nährwertinformationen für alle Lebensmittel - analysieren Sie Zucker, Proteine, Fette und Kohlenhydrate. Treffen Sie fundierte Ernährungsentscheidungen mit FoodLens.",
+    "keywords": "Nährwertanalysator, Lebensmittelnahrung, Protein Fett Kohlenhydrate, vollständige Ernährung, Lebensmittelanalysator, Nährwertinformationen, Makronährstoffe, Diätanalyse"
   },
   "languages": {
     "en": "Englisch",
@@ -62,5 +62,6 @@
   "protein": "Protein",
   "fat": "Fett",
   "carbs": "Kohlenhydrate",
-  "per100g": "pro 100g"
+  "per100g": "pro 100g",
+  "sugar": "g Zucker"
 }

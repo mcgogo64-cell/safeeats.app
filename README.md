@@ -1,4 +1,4 @@
-# SafeEats App
+# FoodLens - Complete Nutrition Analyzer
 
 Modern çok dilli web uygulaması - React + Vite + i18next
 

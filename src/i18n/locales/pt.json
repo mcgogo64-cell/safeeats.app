@@ -1,9 +1,9 @@
 {
-  "welcome": "SafeEats - Analisador de Conteúdo de Açúcar",
-  "subtitle": "Descubra quanta açúcar contêm suas frutas e vegetais",
+  "welcome": "FoodLens Complete Nutrition Analyzer",
+  "subtitle": "Informação nutricional completa para todos os alimentos - açúcares, proteínas, gorduras e carboidratos",
   "selectLanguage": "Selecionar Idioma",
-  "searchPlaceholder": "Pesquise uma fruta ou vegetal...",
-  "searchInstructions": "Digite o nome de uma fruta ou vegetal para ver seu conteúdo de açúcar",
+  "searchPlaceholder": "Pesquisar qualquer alimento...",
+  "searchInstructions": "Digite o nome de qualquer alimento para ver suas informações nutricionais completas",
   "sugarContent": "Conteúdo de Açúcar",
   "noSugarData": "Informações de conteúdo de açúcar não disponíveis para este item",
   "foodNotFound": "Alimento não encontrado. Por favor, tente outro nome.",
@@ -34,9 +34,9 @@
     "medicalDisclaimer": "As informações fornecidas são apenas para fins informativos e não constituem aconselhamento médico profissional, diagnóstico ou tratamento."
   },
   "seo": {
-    "title": "SafeEats - Analisador de Conteúdo de Açúcar para Frutas e Vegetais",
-    "description": "Descubra quanta açúcar contêm diferentes frutas e vegetais. Analise o conteúdo de açúcar e faça escolhas alimentares informadas.",
-    "keywords": "conteúdo açúcar frutas, conteúdo açúcar vegetais, açúcar em frutas, analisador açúcar, calculadora açúcar frutas, frutas baixo açúcar, quantidade açúcar frutas"
+    "title": "FoodLens - Analisador de Nutrição Completo para Todos os Alimentos",
+    "description": "Informação nutricional completa para todos os alimentos - analise açúcares, proteínas, gorduras e carboidratos. Tome decisões dietéticas informadas com FoodLens.",
+    "keywords": "analisador de nutrição, nutrição alimentar, proteína gordura carboidratos, nutrição completa, analisador de alimentos, informações nutricionais, macronutrientes, análise de dieta"
   },
   "languages": {
     "en": "Inglês",
@@ -62,5 +62,6 @@
   "protein": "Proteína",
   "fat": "Gordura",
   "carbs": "Carboidratos",
-  "per100g": "por 100g"
+  "per100g": "por 100g",
+  "sugar": "g Açúcar"
 }

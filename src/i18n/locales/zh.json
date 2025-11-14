@@ -1,9 +1,9 @@
 {
-  "welcome": "SafeEats - 糖含量分析器",
-  "subtitle": "了解您的水果和蔬菜中含有多少糖分",
+  "welcome": "FoodLens Complete Nutrition Analyzer",
+  "subtitle": "所有食物的完整营养信息 - 糖、蛋白质、脂肪和碳水化合物",
   "selectLanguage": "选择语言",
-  "searchPlaceholder": "搜索水果或蔬菜...",
-  "searchInstructions": "输入水果或蔬菜名称以查看其糖含量",
+  "searchPlaceholder": "搜索任何食物...",
+  "searchInstructions": "输入任何食物的名称以查看其完整的营养信息",
   "sugarContent": "糖含量",
   "noSugarData": "此项目无糖含量信息",
   "foodNotFound": "未找到食物。请尝试其他名称。",
@@ -34,9 +34,9 @@
     "medicalDisclaimer": "提供的信息仅供信息参考，不构成专业医疗建议、诊断或治疗。"
   },
   "seo": {
-    "title": "SafeEats - 饮食限制安全水果蔬菜过滤器 | 生酮、组胺、FODMAP、胃食管反流病",
-    "description": "为您的饮食限制过滤安全的水果和蔬菜。找到适合生酮、低组胺、低FODMAP（肠易激综合征）和低酸（胃食管反流病）饮食的食物。免费饮食限制过滤工具。",
-    "keywords": "水果糖饮食, 低糖水果, 生酮水果, 组胺不耐受食物, 低组胺水果, FODMAP食物, 肠易激综合征饮食, 胃食管反流病饮食食物, 低酸水果, 饮食限制过滤器, 过敏安全食物, 水果蔬菜过滤器, 饮食限制, 生酮蔬菜, 低糖蔬菜"
+    "title": "FoodLens - 所有食物的完整营养分析器",
+    "description": "所有食物的完整营养信息 - 分析糖、蛋白质、脂肪和碳水化合物。使用FoodLens做出明智的饮食选择。",
+    "keywords": "营养分析器, 食物营养, 蛋白质脂肪碳水化合物, 完整营养, 食物分析器, 营养信息, 宏量营养素, 饮食分析"
   },
   "languages": {
     "en": "英语",
@@ -62,5 +62,6 @@
   "protein": "蛋白质",
   "fat": "脂肪",
   "carbs": "碳水化合物",
-  "per100g": "每100克"
+  "per100g": "每100克",
+  "sugar": "克糖"
 }
