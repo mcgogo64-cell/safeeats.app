@@ -203,7 +203,7 @@ function App() {
       <SEOHead />
       <nav className="navbar">
         <div className="navbar-content">
-              <div className="navbar-logo">🍎 FoodLens</div>
+              <div className="navbar-logo">🍎 ClearPlate</div>
           <div className="language-selector-container">
             <LanguageSelector />
           </div>

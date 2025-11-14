@@ -1,5 +1,5 @@
 {
-  "welcome": "FoodLens Complete Nutrition Analyzer",
+  "welcome": "ClearPlate Complete Nutrition Analyzer",
   "subtitle": "Complete nutritional information for all foods - sugars, proteins, fats, and carbs",
   "selectLanguage": "Select Language",
   "searchPlaceholder": "Search for any food...",
@@ -54,9 +54,14 @@
   "carbs": "Carbs",
   "per100g": "per 100g",
   "seo": {
-    "title": "FoodLens - Complete Nutrition Analyzer for All Foods",
-    "description": "Complete nutritional information for all foods - analyze sugars, proteins, fats, and carbs. Make informed dietary choices with FoodLens.",
-    "keywords": "nutrition analyzer, food nutrition, protein fat carbs, complete nutrition, food analyzer, nutritional information, macro nutrients, diet analysis"
+    "title": "ClearPlate - Complete Nutrition Analyzer | Food Database & Macro Calculator",
+    "description": "ClearPlate is your complete nutrition analyzer. Get detailed nutritional information for 286+ foods including sugars, proteins, fats, and carbs. Perfect for keto, diabetes, and weight loss diets. Free, multilingual, and easy to use.",
+    "keywords": "nutrition analyzer, food nutrition database, macro calculator, protein fat carbs, keto diet tracker, diabetes nutrition, food analyzer, nutritional information, macro nutrients, diet analysis, calorie counter, sugar content analyzer, complete nutrition guide, healthy eating, meal planner",
+    "author": "ClearPlate",
+    "feature1": "Complete nutritional information for 286+ foods",
+    "feature2": "Multi-language support (13 languages)",
+    "feature3": "Keto, diabetes, and diet filtering",
+    "feature4": "Portion size calculator with macro breakdown"
   },
   "languages": {
     "en": "English",

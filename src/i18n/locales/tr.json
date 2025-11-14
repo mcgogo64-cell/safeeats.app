@@ -1,5 +1,5 @@
 {
-  "welcome": "FoodLens Complete Nutrition Analyzer",
+  "welcome": "ClearPlate Complete Nutrition Analyzer",
   "subtitle": "Tüm gıdalar için kapsamlı besin bilgisi - şeker, protein, yağ ve karbonhidrat",
   "selectLanguage": "Dil Seçin",
   "searchPlaceholder": "Herhangi bir gıda ara...",
@@ -43,9 +43,14 @@
   "portion": "Porsiyon Boyutu",
   "clear": "Temizle",
   "seo": {
-    "title": "FoodLens - Tüm Gıdalar için Kapsamlı Besin Analizcisi",
-    "description": "Tüm gıdalar için kapsamlı besin bilgisi - şeker, protein, yağ ve karbonhidrat analizi. FoodLens ile bilinçli beslenme tercihleri yapın.",
-    "keywords": "besin analizcisi, gıda beslenmesi, protein yağ karbonhidrat, kapsamlı beslenme, gıda analizcisi, besin bilgisi, makro besinler, diyet analizi"
+    "title": "ClearPlate - Kapsamlı Besin Analizcisi | Gıda Veritabanı ve Makro Hesaplayıcı",
+    "description": "ClearPlate tam besin analizcisi. 286+ gıda için şeker, protein, yağ ve karbonhidrat dahil detaylı besin bilgisi alın. Keto, diyabet ve kilo verme diyetleri için mükemmel. Ücretsiz, çok dilli ve kullanımı kolay.",
+    "keywords": "besin analizcisi, gıda beslenme veritabanı, makro hesaplayıcı, protein yağ karbonhidrat, keto diyet takipçisi, diyabet beslenme, gıda analizcisi, besin bilgisi, makro besinler, diyet analizi, kalori sayacı, şeker içeriği analizcisi, kapsamlı beslenme rehberi, sağlıklı beslenme, yemek planlayıcı",
+    "author": "ClearPlate",
+    "feature1": "286+ gıda için kapsamlı besin bilgisi",
+    "feature2": "Çok dilli destek (13 dil)",
+    "feature3": "Keto, diyabet ve diyet filtreleme",
+    "feature4": "Makro detaylı porsiyon boyutu hesaplayıcı"
   },
   "languages": {
     "en": "İngilizce",

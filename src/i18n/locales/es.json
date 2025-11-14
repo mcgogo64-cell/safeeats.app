@@ -1,5 +1,5 @@
 {
-  "welcome": "FoodLens Complete Nutrition Analyzer",
+  "welcome": "ClearPlate Complete Nutrition Analyzer",
   "subtitle": "Información nutricional completa para todos los alimentos - azúcares, proteínas, grasas y carbohidratos",
   "selectLanguage": "Seleccionar Idioma",
   "searchPlaceholder": "Buscar cualquier alimento...",
@@ -34,9 +34,14 @@
     "medicalDisclaimer": "La información proporcionada es solo para fines informativos y no constituye asesoramiento médico profesional, diagnóstico o tratamiento."
   },
   "seo": {
-    "title": "FoodLens - Analizador de Nutrición Completo para Todos los Alimentos",
-    "description": "Información nutricional completa para todos los alimentos - analice azúcares, proteínas, grasas y carbohidratos. Tome decisiones dietéticas informadas con FoodLens.",
-    "keywords": "analizador de nutrición, nutrición alimentaria, proteína grasa carbohidratos, nutrición completa, analizador de alimentos, información nutricional, macronutrientes, análisis de dieta"
+    "title": "ClearPlate - Analizador de Nutrición Completo | Base de Datos de Alimentos y Calculadora de Macros",
+    "description": "ClearPlate es tu analizador de nutrición completo. Obtén información nutricional detallada de más de 286 alimentos, incluyendo azúcares, proteínas, grasas y carbohidratos. Perfecto para dietas keto, diabetes y pérdida de peso. Gratis, multilingüe y fácil de usar.",
+    "keywords": "analizador de nutrición, base de datos nutricional de alimentos, calculadora de macros, proteína grasa carbohidratos, rastreador de dieta keto, nutrición para diabetes, analizador de alimentos, información nutricional, macronutrientes, análisis de dieta, contador de calorías, analizador de contenido de azúcar, guía nutricional completa, alimentación saludable, planificador de comidas",
+    "author": "ClearPlate",
+    "feature1": "Información nutricional completa de más de 286 alimentos",
+    "feature2": "Soporte multilingüe (13 idiomas)",
+    "feature3": "Filtrado por dieta keto, diabetes y otras",
+    "feature4": "Calculadora de tamaño de porción con desglose de macros"
   },
   "languages": {
     "en": "Inglés",

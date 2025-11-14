@@ -1,5 +1,5 @@
 {
-  "welcome": "FoodLens Complete Nutrition Analyzer",
+  "welcome": "ClearPlate Complete Nutrition Analyzer",
   "subtitle": "Informazioni nutrizionali complete per tutti gli alimenti - zuccheri, proteine, grassi e carboidrati",
   "selectLanguage": "Seleziona Lingua",
   "searchPlaceholder": "Cerca un alimento...",
@@ -34,9 +34,14 @@
     "medicalDisclaimer": "Le informazioni fornite sono solo a scopo informativo e non costituiscono consulenza medica professionale, diagnosi o trattamento."
   },
   "seo": {
-    "title": "FoodLens - Analizzatore Nutrizionale Completo per Tutti gli Alimenti",
-    "description": "Informazioni nutrizionali complete per tutti gli alimenti - analizza zuccheri, proteine, grassi e carboidrati. Prendi decisioni dietetiche informate con FoodLens.",
-    "keywords": "analizzatore nutrizionale, nutrizione alimentare, proteine grassi carboidrati, nutrizione completa, analizzatore alimentare, informazioni nutrizionali, macronutrienti, analisi della dieta"
+    "title": "ClearPlate - Analizzatore Nutrizionale Completo | Database Alimentare e Calcolatore di Macros",
+    "description": "ClearPlate è il tuo analizzatore nutrizionale completo. Ottieni informazioni nutrizionali dettagliate per oltre 286 alimenti, inclusi zuccheri, proteine, grassi e carboidrati. Perfetto per diete keto, diabete e perdita di peso. Gratuito, multilingue e facile da usare.",
+    "keywords": "analizzatore nutrizionale, database nutrizionale alimentare, calcolatore di macros, proteine grassi carboidrati, tracker dieta keto, nutrizione diabete, analizzatore alimentare, informazioni nutrizionali, macronutrienti, analisi dieta, contatore calorie, analizzatore contenuto zucchero, guida nutrizionale completa, alimentazione sana, pianificatore pasti",
+    "author": "ClearPlate",
+    "feature1": "Informazioni nutrizionali complete per oltre 286 alimenti",
+    "feature2": "Supporto multilingue (13 lingue)",
+    "feature3": "Filtraggio per dieta keto, diabete e altre",
+    "feature4": "Calcolatore dimensione porzione con scomposizione macros"
   },
   "languages": {
     "en": "Inglese",

@@ -28981,7 +28981,7 @@
     "restrictions": {
       "lowSugar": {
         "status": 1,
-        "note": ""
+        "note": "Keto diyet için uygun"
       },
       "lowHistamine": {
         "status": 1,
@@ -29123,7 +29123,7 @@
     "restrictions": {
       "lowSugar": {
         "status": 1,
-        "note": ""
+        "note": "Keto diyet için uygun"
       },
       "lowHistamine": {
         "status": 1,
@@ -29252,7 +29252,7 @@
     "restrictions": {
       "lowSugar": {
         "status": 1,
-        "note": ""
+        "note": "Keto diyet için uygun"
       },
       "lowHistamine": {
         "status": 1,
@@ -29394,7 +29394,7 @@
     "restrictions": {
       "lowSugar": {
         "status": 1,
-        "note": ""
+        "note": "Keto diyet için uygun"
       },
       "lowHistamine": {
         "status": 1,
@@ -29523,7 +29523,7 @@
     "restrictions": {
       "lowSugar": {
         "status": 1,
-        "note": ""
+        "note": "Keto diyet için uygun"
       },
       "lowHistamine": {
         "status": 1,
@@ -29652,7 +29652,7 @@
     "restrictions": {
       "lowSugar": {
         "status": 1,
-        "note": ""
+        "note": "Keto diyet için uygun"
       },
       "lowHistamine": {
         "status": 1,
@@ -29781,7 +29781,7 @@
     "restrictions": {
       "lowSugar": {
         "status": 1,
-        "note": ""
+        "note": "Keto diyet için uygun"
       },
       "lowHistamine": {
         "status": 1,
@@ -29910,7 +29910,7 @@
     "restrictions": {
       "lowSugar": {
         "status": 1,
-        "note": ""
+        "note": "Keto diyet için uygun"
       },
       "lowHistamine": {
         "status": 1,
@@ -30038,8 +30038,8 @@
     "carbs": 8,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 2,
+        "note": "İşlenmiş et ürünü - Porsiyonu sınırlayın"
       },
       "lowHistamine": {
         "status": 1,
@@ -30167,8 +30167,8 @@
     "carbs": 2,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 2,
+        "note": "İşlenmiş et ürünü - Porsiyonu sınırlayın"
       },
       "lowHistamine": {
         "status": 1,
@@ -30297,7 +30297,7 @@
     "restrictions": {
       "lowSugar": {
         "status": 1,
-        "note": ""
+        "note": "Keto diyet için uygun"
       },
       "lowHistamine": {
         "status": 1,
@@ -30426,7 +30426,7 @@
     "restrictions": {
       "lowSugar": {
         "status": 1,
-        "note": ""
+        "note": "İşlenmiş ama genelde keto uygun"
       },
       "lowHistamine": {
         "status": 1,
@@ -30555,7 +30555,7 @@
     "restrictions": {
       "lowSugar": {
         "status": 1,
-        "note": ""
+        "note": "Keto diyet için uygun"
       },
       "lowHistamine": {
         "status": 1,
@@ -30684,7 +30684,7 @@
     "restrictions": {
       "lowSugar": {
         "status": 1,
-        "note": ""
+        "note": "İşlenmiş ama genelde keto uygun - Yüksek yağ"
       },
       "lowHistamine": {
         "status": 1,
@@ -30812,8 +30812,8 @@
     "carbs": 4,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 2,
+        "note": "İşlenmiş et ürünü - Porsiyonu sınırlayın"
       },
       "lowHistamine": {
         "status": 1,
@@ -30941,8 +30941,8 @@
     "carbs": 4.8,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 3,
+        "note": "Laktoz içerir - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -31070,8 +31070,8 @@
     "carbs": 4.8,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 3,
+        "note": "Laktoz/şeker içerir - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -31199,8 +31199,8 @@
     "carbs": 5,
     "restrictions": {
       "lowSugar": {
-        "status": 2,
-        "note": ""
+        "status": 3,
+        "note": "Laktoz içerir - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -31302,8 +31302,8 @@
     "carbs": 4.7,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 3,
+        "note": "Laktoz ve şeker içerir - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -31431,8 +31431,8 @@
     "carbs": 4.7,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 3,
+        "note": "Laktoz/şeker içerir - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -31560,8 +31560,8 @@
     "carbs": 3.6,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 3,
+        "note": "Contains lactose - Not suitable for Keto"
       },
       "lowHistamine": {
         "status": 1,
@@ -31689,8 +31689,8 @@
     "carbs": 1,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 2,
+        "note": "Keto için dikkatli tüketin - Porsiyonu sınırlayın"
       },
       "lowHistamine": {
         "status": 1,
@@ -31831,8 +31831,8 @@
     "carbs": 2,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 2,
+        "note": "Keto için dikkatli tüketin - Porsiyonu sınırlayın"
       },
       "lowHistamine": {
         "status": 1,
@@ -31974,7 +31974,7 @@
     "restrictions": {
       "lowSugar": {
         "status": 1,
-        "note": ""
+        "note": "Keto diyet için uygun"
       },
       "lowHistamine": {
         "status": 1,
@@ -32116,7 +32116,7 @@
     "restrictions": {
       "lowSugar": {
         "status": 1,
-        "note": ""
+        "note": "Keto diyet için uygun"
       },
       "lowHistamine": {
         "status": 1,
@@ -32257,8 +32257,8 @@
     "carbs": 1,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 2,
+        "note": "Keto için dikkatli tüketin - Porsiyonu sınırlayın"
       },
       "lowHistamine": {
         "status": 1,
@@ -32399,8 +32399,8 @@
     "carbs": 3,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 2,
+        "note": "Keto için dikkatli tüketin - Porsiyonu sınırlayın"
       },
       "lowHistamine": {
         "status": 1,
@@ -32542,7 +32542,7 @@
     "restrictions": {
       "lowSugar": {
         "status": 1,
-        "note": ""
+        "note": "Keto diyet için uygun"
       },
       "lowHistamine": {
         "status": 1,
@@ -32671,7 +32671,7 @@
     "restrictions": {
       "lowSugar": {
         "status": 1,
-        "note": ""
+        "note": "Keto diyet için mükemmel - Yağ kaynağı"
       },
       "lowHistamine": {
         "status": 1,
@@ -32799,8 +32799,8 @@
     "carbs": 3,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 2,
+        "note": "Keto için dikkatli tüketin - Porsiyonu sınırlayın"
       },
       "lowHistamine": {
         "status": 1,
@@ -32928,8 +32928,8 @@
     "carbs": 3,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 3,
+        "note": "Laktoz içerir - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -33057,8 +33057,8 @@
     "carbs": 4.5,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 3,
+        "note": "Contains lactose - Not suitable for Keto"
       },
       "lowHistamine": {
         "status": 1,
@@ -33187,7 +33187,7 @@
     "restrictions": {
       "lowSugar": {
         "status": 3,
-        "note": ""
+        "note": "Yüksek şeker - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -33289,8 +33289,8 @@
     "carbs": 28,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 3,
+        "note": "Yüksek karbonhidrat - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -33431,8 +33431,8 @@
     "carbs": 28,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 3,
+        "note": "Yüksek karbonhidrat - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -33573,8 +33573,8 @@
     "carbs": 23,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 3,
+        "note": "Yüksek karbonhidrat - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -33715,8 +33715,8 @@
     "carbs": 19,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 3,
+        "note": "Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -33844,8 +33844,8 @@
     "carbs": 25,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 3,
+        "note": "Yüksek karbonhidrat - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -33986,8 +33986,8 @@
     "carbs": 23,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 3,
+        "note": "Yüksek karbonhidrat - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -34128,8 +34128,8 @@
     "carbs": 25,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 3,
+        "note": "Yüksek karbonhidrat - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -34270,8 +34270,8 @@
     "carbs": 49,
     "restrictions": {
       "lowSugar": {
-        "status": 2,
-        "note": ""
+        "status": 3,
+        "note": "Yüksek karbonhidrat - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -34412,8 +34412,8 @@
     "carbs": 41,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 3,
+        "note": "Yüksek karbonhidrat - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -34554,8 +34554,8 @@
     "carbs": 48,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 3,
+        "note": "Yüksek karbonhidrat - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -34696,8 +34696,8 @@
     "carbs": 66,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 3,
+        "note": "Yüksek karbonhidrat - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -34838,8 +34838,8 @@
     "carbs": 12,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 3,
+        "note": "Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -34967,8 +34967,8 @@
     "carbs": 71,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 3,
+        "note": "Yüksek karbonhidrat - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -35109,8 +35109,8 @@
     "carbs": 73,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 3,
+        "note": "Yüksek karbonhidrat - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -35251,8 +35251,8 @@
     "carbs": 22,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 3,
+        "note": "Yüksek karbonhidrat - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -35393,8 +35393,8 @@
     "carbs": 20,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 3,
+        "note": "Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -35522,8 +35522,8 @@
     "carbs": 79,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 3,
+        "note": "Yüksek karbonhidrat - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -35664,8 +35664,8 @@
     "carbs": 23,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 3,
+        "note": "Yüksek karbonhidrat - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -35806,8 +35806,8 @@
     "carbs": 22,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 2,
+        "note": "Keto için dikkatli tüketin - Porsiyonu sınırlayın"
       },
       "lowHistamine": {
         "status": 1,
@@ -35948,8 +35948,8 @@
     "carbs": 14,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 2,
+        "note": "Keto için dikkatli tüketin - Porsiyonu sınırlayın"
       },
       "lowHistamine": {
         "status": 1,
@@ -36077,8 +36077,8 @@
     "carbs": 17,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 2,
+        "note": "Keto için dikkatli tüketin - Porsiyonu sınırlayın"
       },
       "lowHistamine": {
         "status": 1,
@@ -36206,8 +36206,8 @@
     "carbs": 16,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 3,
+        "note": "Yüksek karbonhidrat - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -36348,8 +36348,8 @@
     "carbs": 30,
     "restrictions": {
       "lowSugar": {
-        "status": 2,
-        "note": ""
+        "status": 3,
+        "note": "Yüksek karbonhidrat - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -36490,8 +36490,8 @@
     "carbs": 28,
     "restrictions": {
       "lowSugar": {
-        "status": 2,
-        "note": ""
+        "status": 3,
+        "note": "Yüksek karbonhidrat - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -36632,8 +36632,8 @@
     "carbs": 16,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 3,
+        "note": "Yüksek karbonhidrat - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -36774,8 +36774,8 @@
     "carbs": 20,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 2,
+        "note": "Keto için dikkatli tüketin - Porsiyonu sınırlayın"
       },
       "lowHistamine": {
         "status": 1,
@@ -36916,8 +36916,8 @@
     "carbs": 11,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 2,
+        "note": "Keto için dikkatli tüketin - Porsiyonu sınırlayın"
       },
       "lowHistamine": {
         "status": 1,
@@ -37059,7 +37059,7 @@
     "restrictions": {
       "lowSugar": {
         "status": 3,
-        "note": ""
+        "note": "Yüksek karbonhidrat - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -37162,7 +37162,7 @@
     "restrictions": {
       "lowSugar": {
         "status": 3,
-        "note": ""
+        "note": "Yüksek karbonhidrat - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -37265,7 +37265,7 @@
     "restrictions": {
       "lowSugar": {
         "status": 3,
-        "note": ""
+        "note": "Yüksek karbonhidrat - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -37368,7 +37368,7 @@
     "restrictions": {
       "lowSugar": {
         "status": 3,
-        "note": ""
+        "note": "Yüksek karbonhidrat - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -37470,8 +37470,8 @@
     "carbs": 46,
     "restrictions": {
       "lowSugar": {
-        "status": 3,
-        "note": ""
+        "status": 1,
+        "note": "%85+ kakao - Keto uygun, porsiyona dikkat"
       },
       "lowHistamine": {
         "status": 1,
@@ -37613,7 +37613,7 @@
     "restrictions": {
       "lowSugar": {
         "status": 3,
-        "note": ""
+        "note": "Yüksek karbonhidrat/şeker - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -37755,7 +37755,7 @@
     "restrictions": {
       "lowSugar": {
         "status": 3,
-        "note": ""
+        "note": "Yüksek karbonhidrat/şeker - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -37897,7 +37897,7 @@
     "restrictions": {
       "lowSugar": {
         "status": 3,
-        "note": ""
+        "note": "Yüksek karbonhidrat/şeker - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -38039,7 +38039,7 @@
     "restrictions": {
       "lowSugar": {
         "status": 3,
-        "note": ""
+        "note": "Yüksek karbonhidrat/şeker - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -38181,7 +38181,7 @@
     "restrictions": {
       "lowSugar": {
         "status": 3,
-        "note": ""
+        "note": "Yüksek karbonhidrat/şeker - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -38323,7 +38323,7 @@
     "restrictions": {
       "lowSugar": {
         "status": 3,
-        "note": ""
+        "note": "Yüksek karbonhidrat/şeker - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -38465,7 +38465,7 @@
     "restrictions": {
       "lowSugar": {
         "status": 3,
-        "note": ""
+        "note": "Yüksek karbonhidrat/şeker - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -38607,7 +38607,7 @@
     "restrictions": {
       "lowSugar": {
         "status": 3,
-        "note": ""
+        "note": "Yüksek karbonhidrat/şeker - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -38749,7 +38749,7 @@
     "restrictions": {
       "lowSugar": {
         "status": 3,
-        "note": ""
+        "note": "Yüksek karbonhidrat/şeker - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -38891,7 +38891,7 @@
     "restrictions": {
       "lowSugar": {
         "status": 3,
-        "note": ""
+        "note": "Yüksek karbonhidrat/şeker - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -39033,7 +39033,7 @@
     "restrictions": {
       "lowSugar": {
         "status": 3,
-        "note": ""
+        "note": "Yüksek karbonhidrat/şeker - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -39174,8 +39174,8 @@
     "carbs": 78,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 3,
+        "note": "Yüksek karbonhidrat/şeker - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -39303,8 +39303,8 @@
     "carbs": 53,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 3,
+        "note": "Yüksek karbonhidrat/şeker - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -39432,8 +39432,8 @@
     "carbs": 70,
     "restrictions": {
       "lowSugar": {
-        "status": 2,
-        "note": ""
+        "status": 3,
+        "note": "Yüksek karbonhidrat/şeker - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -39561,8 +39561,8 @@
     "carbs": 49,
     "restrictions": {
       "lowSugar": {
-        "status": 2,
-        "note": ""
+        "status": 3,
+        "note": "Yüksek karbonhidrat/şeker - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -39691,7 +39691,7 @@
     "restrictions": {
       "lowSugar": {
         "status": 3,
-        "note": ""
+        "note": "Yüksek karbonhidrat/şeker - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -39820,7 +39820,7 @@
     "restrictions": {
       "lowSugar": {
         "status": 3,
-        "note": ""
+        "note": "Yüksek karbonhidrat/şeker - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -39961,8 +39961,8 @@
     "carbs": 33,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 3,
+        "note": "Yüksek karbonhidrat/şeker - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -40090,8 +40090,8 @@
     "carbs": 25,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 3,
+        "note": "Yüksek karbonhidrat/şeker - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -40219,8 +40219,8 @@
     "carbs": 41,
     "restrictions": {
       "lowSugar": {
-        "status": 1,
-        "note": ""
+        "status": 3,
+        "note": "Yüksek karbonhidrat/şeker - Keto için uygun değil"
       },
       "lowHistamine": {
         "status": 1,
@@ -40349,7 +40349,7 @@
     "restrictions": {
       "lowSugar": {
         "status": 2,
-        "note": ""
+        "note": "Keto için dikkatli tüketin - Porsiyonu sınırlayın"
       },
       "lowHistamine": {
         "status": 1,

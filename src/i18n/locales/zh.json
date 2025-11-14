@@ -1,5 +1,5 @@
 {
-  "welcome": "FoodLens Complete Nutrition Analyzer",
+  "welcome": "ClearPlate Complete Nutrition Analyzer",
   "subtitle": "所有食物的完整营养信息 - 糖、蛋白质、脂肪和碳水化合物",
   "selectLanguage": "选择语言",
   "searchPlaceholder": "搜索任何食物...",
@@ -34,9 +34,14 @@
     "medicalDisclaimer": "提供的信息仅供信息参考，不构成专业医疗建议、诊断或治疗。"
   },
   "seo": {
-    "title": "FoodLens - 所有食物的完整营养分析器",
-    "description": "所有食物的完整营养信息 - 分析糖、蛋白质、脂肪和碳水化合物。使用FoodLens做出明智的饮食选择。",
-    "keywords": "营养分析器, 食物营养, 蛋白质脂肪碳水化合物, 完整营养, 食物分析器, 营养信息, 宏量营养素, 饮食分析"
+    "title": "ClearPlate - 完整营养分析器 | 食物数据库和宏量营养素计算器",
+    "description": "ClearPlate是您的完整营养分析器。获取286+种食物的详细营养信息，包括糖、蛋白质、脂肪和碳水化合物。非常适合生酮饮食、糖尿病和减肥饮食。免费、多语言、易于使用。",
+    "keywords": "营养分析器, 食物营养数据库, 宏量营养素计算器, 蛋白质脂肪碳水化合物, 生酮饮食追踪器, 糖尿病营养, 食物分析器, 营养信息, 宏量营养素, 饮食分析, 卡路里计数器, 糖含量分析器, 完整营养指南, 健康饮食, 膳食计划器",
+    "author": "ClearPlate",
+    "feature1": "286+种食物的完整营养信息",
+    "feature2": "多语言支持（13种语言）",
+    "feature3": "生酮、糖尿病和饮食过滤",
+    "feature4": "带宏量营养素分解的份量计算器"
   },
   "languages": {
     "en": "英语",

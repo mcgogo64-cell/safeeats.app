@@ -1,5 +1,5 @@
 {
-  "welcome": "FoodLens Complete Nutrition Analyzer",
+  "welcome": "ClearPlate Complete Nutrition Analyzer",
   "subtitle": "모든 식품에 대한 완전한 영양 정보 - 당, 단백질, 지방 및 탄수화물",
   "selectLanguage": "언어 선택",
   "searchPlaceholder": "모든 식품 검색...",
@@ -34,9 +34,14 @@
     "medicalDisclaimer": "제공된 정보는 정보 제공 목적으로만 제공되며 전문 의학적 조언, 진단 또는 치료를 구성하지 않습니다."
   },
   "seo": {
-    "title": "FoodLens - 모든 식품의 완전한 영양 분석기",
-    "description": "모든 식품에 대한 완전한 영양 정보 - 당, 단백질, 지방 및 탄수화물 분석. FoodLens로 정보에 기반한 식이 선택을 하세요.",
-    "keywords": "영양 분석기, 식품 영양, 단백질 지방 탄수화물, 완전 영양, 식품 분석기, 영양 정보, 다량 영양소, 식단 분석"
+    "title": "ClearPlate - 완전한 영양 분석기 | 식품 데이터베이스 및 매크로 계산기",
+    "description": "ClearPlate는 완전한 영양 분석기입니다. 286개 이상의 식품에 대한 당, 단백질, 지방 및 탄수화물을 포함한 상세한 영양 정보를 얻으세요. 케토, 당뇨병 및 체중 감량 다이어트에 완벽합니다. 무료, 다국어 지원 및 사용하기 쉬움.",
+    "keywords": "영양 분석기, 식품 영양 데이터베이스, 매크로 계산기, 단백질 지방 탄수화물, 케토 다이어트 추적기, 당뇨병 영양, 식품 분석기, 영양 정보, 다량 영양소, 식단 분석, 칼로리 카운터, 당 함량 분석기, 완전한 영양 가이드, 건강한 식사, 식사 계획자",
+    "author": "ClearPlate",
+    "feature1": "286개 이상의 식품에 대한 완전한 영양 정보",
+    "feature2": "다국어 지원 (13개 언어)",
+    "feature3": "케토, 당뇨병 및 식단 필터링",
+    "feature4": "매크로 분석이 포함된 포션 크기 계산기"
   },
   "languages": {
     "en": "영어",

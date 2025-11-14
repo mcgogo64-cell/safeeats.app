@@ -1,4 +1,4 @@
-# FoodLens - Complete Nutrition Analyzer
+# ClearPlate - Complete Nutrition Analyzer
 
 Modern çok dilli web uygulaması - React + Vite + i18next
 

@@ -1,5 +1,5 @@
 {
-  "welcome": "FoodLens Complete Nutrition Analyzer",
+  "welcome": "ClearPlate Complete Nutrition Analyzer",
   "subtitle": "Vollständige Nährwertinformationen für alle Lebensmittel - Zucker, Proteine, Fette und Kohlenhydrate",
   "selectLanguage": "Sprache auswählen",
   "searchPlaceholder": "Nach einem Lebensmittel suchen...",
@@ -34,9 +34,14 @@
     "medicalDisclaimer": "Die bereitgestellten Informationen dienen nur zu Informationszwecken und stellen keine professionelle medizinische Beratung, Diagnose oder Behandlung dar."
   },
   "seo": {
-    "title": "FoodLens - Vollständiger Nährwertanalysator für Alle Lebensmittel",
-    "description": "Vollständige Nährwertinformationen für alle Lebensmittel - analysieren Sie Zucker, Proteine, Fette und Kohlenhydrate. Treffen Sie fundierte Ernährungsentscheidungen mit FoodLens.",
-    "keywords": "Nährwertanalysator, Lebensmittelnahrung, Protein Fett Kohlenhydrate, vollständige Ernährung, Lebensmittelanalysator, Nährwertinformationen, Makronährstoffe, Diätanalyse"
+    "title": "ClearPlate - Vollständiger Nährwertanalysator | Lebensmitteldatenbank & Makrorechner",
+    "description": "ClearPlate ist Ihr vollständiger Nährwertanalysator. Erhalten Sie detaillierte Nährwertinformationen für über 286 Lebensmittel, einschließlich Zucker, Proteine, Fette und Kohlenhydrate. Perfekt für Keto-, Diabetes- und Abnehm-Diäten. Kostenlos, mehrsprachig und einfach zu verwenden.",
+    "keywords": "Nährwertanalysator, Lebensmittelnährstoffdatenbank, Makrorechner, Protein Fett Kohlenhydrate, Keto-Diät-Tracker, Diabetes-Ernährung, Lebensmittelanalysator, Nährwertinformationen, Makronährstoffe, Diätanalyse, Kalorienzähler, Zuckergehaltsanalysator, vollständiger Ernährungsführer, gesunde Ernährung, Mahlzeitenplaner",
+    "author": "ClearPlate",
+    "feature1": "Vollständige Nährwertinformationen für über 286 Lebensmittel",
+    "feature2": "Mehrsprachige Unterstützung (13 Sprachen)",
+    "feature3": "Keto-, Diabetes- und Diätfilterung",
+    "feature4": "Portionsgrößenrechner mit Makroaufschlüsselung"
   },
   "languages": {
     "en": "Englisch",

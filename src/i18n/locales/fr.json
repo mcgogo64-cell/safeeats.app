@@ -1,5 +1,5 @@
 {
-  "welcome": "FoodLens Complete Nutrition Analyzer",
+  "welcome": "ClearPlate Complete Nutrition Analyzer",
   "subtitle": "Informations nutritionnelles complètes pour tous les aliments - sucres, protéines, lipides et glucides",
   "selectLanguage": "Sélectionner la langue",
   "searchPlaceholder": "Rechercher un aliment...",
@@ -34,9 +34,14 @@
     "medicalDisclaimer": "Les informations fournies sont à des fins informatives uniquement et ne constituent pas des conseils médicaux professionnels, un diagnostic ou un traitement."
   },
   "seo": {
-    "title": "FoodLens - Analyseur de Nutrition Complet pour Tous les Aliments",
-    "description": "Informations nutritionnelles complètes pour tous les aliments - analysez les sucres, protéines, lipides et glucides. Prenez des décisions diététiques éclairées avec FoodLens.",
-    "keywords": "analyseur nutritionnel, nutrition alimentaire, protéines lipides glucides, nutrition complète, analyseur d'aliments, informations nutritionnelles, macronutriments, analyse de régime"
+    "title": "ClearPlate - Analyseur de Nutrition Complet | Base de Données Alimentaire et Calculateur de Macros",
+    "description": "ClearPlate est votre analyseur de nutrition complet. Obtenez des informations nutritionnelles détaillées pour plus de 286 aliments, y compris sucres, protéines, lipides et glucides. Parfait pour les régimes keto, diabète et perte de poids. Gratuit, multilingue et facile à utiliser.",
+    "keywords": "analyseur de nutrition, base de données nutritionnelle alimentaire, calculateur de macros, protéines lipides glucides, suivi de régime keto, nutrition diabète, analyseur d'aliments, informations nutritionnelles, macronutriments, analyse de régime, compteur de calories, analyseur de teneur en sucre, guide nutritionnel complet, alimentation saine, planificateur de repas",
+    "author": "ClearPlate",
+    "feature1": "Informations nutritionnelles complètes pour plus de 286 aliments",
+    "feature2": "Support multilingue (13 langues)",
+    "feature3": "Filtrage par régime keto, diabète et autres",
+    "feature4": "Calculateur de taille de portion avec répartition des macros"
   },
   "languages": {
     "en": "Anglais",
