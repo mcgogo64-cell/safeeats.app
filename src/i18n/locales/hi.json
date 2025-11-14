@@ -57,5 +57,10 @@
   "dietRecommendations": "आहार सिफारिशें",
   "consumptionTiming": "सर्वोत्तम उपभोग समय",
   "allergyInfo": "एलर्जी जानकारी",
-  "dailyIntake": "दैनिक अनुशंसित सेवन"
+  "dailyIntake": "दैनिक अनुशंसित सेवन",
+  "nutritionalInfo": "पोषण जानकारी",
+  "protein": "प्रोटीन",
+  "fat": "वसा",
+  "carbs": "कार्बोहाइड्रेट",
+  "per100g": "100g प्रति"
 }

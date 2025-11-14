@@ -47,6 +47,11 @@
   "consumptionTiming": "Best Time to Consume",
   "allergyInfo": "Allergy Information",
   "dailyIntake": "Daily Recommended Intake",
+  "nutritionalInfo": "Nutritional Information",
+  "protein": "Protein",
+  "fat": "Fat",
+  "carbs": "Carbs",
+  "per100g": "per 100g",
   "seo": {
     "title": "SafeEats - Sugar Content Analyzer for Fruits & Vegetables",
     "description": "Find out how much sugar is in different fruits and vegetables. Analyze sugar content and make informed dietary choices.",

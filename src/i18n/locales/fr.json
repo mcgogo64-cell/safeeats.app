@@ -57,5 +57,10 @@
   "dietRecommendations": "Recommandations Diététiques",
   "consumptionTiming": "Meilleur Moment pour Consommer",
   "allergyInfo": "Informations sur les Allergies",
-  "dailyIntake": "Apport Journalier Recommandé"
+  "dailyIntake": "Apport Journalier Recommandé",
+  "nutritionalInfo": "Informations Nutritionnelles",
+  "protein": "Protéines",
+  "fat": "Lipides",
+  "carbs": "Glucides",
+  "per100g": "pour 100g"
 }

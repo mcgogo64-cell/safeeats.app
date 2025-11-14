@@ -66,5 +66,10 @@
   "dietRecommendations": "Diyet Önerileri",
   "consumptionTiming": "Tüketim Zamanı",
   "allergyInfo": "Alerji Bilgileri",
-  "dailyIntake": "Günlük Önerilen Tüketim"
+  "dailyIntake": "Günlük Önerilen Tüketim",
+  "nutritionalInfo": "Besin Değerleri",
+  "protein": "Protein",
+  "fat": "Yağ",
+  "carbs": "Karbonhidrat",
+  "per100g": "100g başına"
 }

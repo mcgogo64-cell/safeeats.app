@@ -425,6 +425,33 @@ function App() {
                       </div>
                     </div>
 
+                    {/* Nutritional Information - Macros */}
+                    {(searchResults.protein !== undefined || searchResults.fat !== undefined || searchResults.carbs !== undefined) && (
+                      <div className="nutritional-info">
+                        <h4 className="nutritional-title">{t('nutritionalInfo')} <span className="per100g">({t('per100g')})</span></h4>
+                        <div className="macros-grid">
+                          {searchResults.protein !== undefined && (
+                            <div className="macro-item protein">
+                              <div className="macro-label">{t('protein')}</div>
+                              <div className="macro-value">{searchResults.protein}g</div>
+                            </div>
+                          )}
+                          {searchResults.fat !== undefined && (
+                            <div className="macro-item fat">
+                              <div className="macro-label">{t('fat')}</div>
+                              <div className="macro-value">{searchResults.fat}g</div>
+                            </div>
+                          )}
+                          {searchResults.carbs !== undefined && (
+                            <div className="macro-item carbs">
+                              <div className="macro-label">{t('carbs')}</div>
+                              <div className="macro-value">{searchResults.carbs}g</div>
+                            </div>
+                          )}
+                        </div>
+                      </div>
+                    )}
+
                     {/* Diet Advice */}
                     {dietAdvice && (
                       <div className={`diet-advice ${dietAdvice.suitable ? 'suitable' : 'not-suitable'}`}>

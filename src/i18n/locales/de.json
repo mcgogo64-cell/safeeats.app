@@ -57,5 +57,10 @@
   "dietRecommendations": "Diätempfehlungen",
   "consumptionTiming": "Beste Verzehrzeit",
   "allergyInfo": "Allergieinformationen",
-  "dailyIntake": "Täglich Empfohlene Aufnahme"
+  "dailyIntake": "Täglich Empfohlene Aufnahme",
+  "nutritionalInfo": "Nährwertinformationen",
+  "protein": "Protein",
+  "fat": "Fett",
+  "carbs": "Kohlenhydrate",
+  "per100g": "pro 100g"
 }

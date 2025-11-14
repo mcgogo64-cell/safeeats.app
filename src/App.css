@@ -643,6 +643,90 @@
   border-left: 3px solid #26a69a;
 }
 
+/* Nutritional Information - Macros */
+.nutritional-info {
+  margin-top: 28px;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 14px;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.nutritional-title {
+  font-size: 16px;
+  font-weight: 400;
+  color: #2d3748;
+  margin: 0 0 16px 0;
+  letter-spacing: -0.2px;
+}
+
+.per100g {
+  font-size: 12px;
+  font-weight: 300;
+  color: #718096;
+}
+
+.macros-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+}
+
+.macro-item {
+  padding: 14px;
+  border-radius: 10px;
+  text-align: center;
+  transition: all 0.3s ease;
+}
+
+.macro-item:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08);
+}
+
+.macro-item.protein {
+  background-color: rgba(66, 153, 225, 0.1);
+  border: 1px solid rgba(66, 153, 225, 0.2);
+}
+
+.macro-item.fat {
+  background-color: rgba(237, 137, 54, 0.1);
+  border: 1px solid rgba(237, 137, 54, 0.2);
+}
+
+.macro-item.carbs {
+  background-color: rgba(72, 187, 120, 0.1);
+  border: 1px solid rgba(72, 187, 120, 0.2);
+}
+
+.macro-label {
+  font-size: 12px;
+  font-weight: 400;
+  color: #718096;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 6px;
+}
+
+.macro-value {
+  font-size: 24px;
+  font-weight: 400;
+  color: #2d3748;
+  line-height: 1;
+}
+
+.macro-item.protein .macro-value {
+  color: #4299e1;
+}
+
+.macro-item.fat .macro-value {
+  color: #ed8936;
+}
+
+.macro-item.carbs .macro-value {
+  color: #48bb78;
+}
+
 .no-sugar-data {
   margin-top: 20px;
   padding: 20px;

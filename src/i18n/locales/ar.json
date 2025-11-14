@@ -57,5 +57,10 @@
   "dietRecommendations": "توصيات النظام الغذائي",
   "consumptionTiming": "أفضل وقت للاستهلاك",
   "allergyInfo": "معلومات الحساسية",
-  "dailyIntake": "الكمية اليومية الموصى بها"
+  "dailyIntake": "الكمية اليومية الموصى بها",
+  "nutritionalInfo": "معلومات غذائية",
+  "protein": "بروتين",
+  "fat": "دهون",
+  "carbs": "كربوهيدرات",
+  "per100g": "لكل 100g"
 }

@@ -57,5 +57,10 @@
   "dietRecommendations": "食事推奨事項",
   "consumptionTiming": "最適な摂取時間",
   "allergyInfo": "アレルギー情報",
-  "dailyIntake": "1日の推奨摂取量"
+  "dailyIntake": "1日の推奨摂取量",
+  "nutritionalInfo": "栄養情報",
+  "protein": "タンパク質",
+  "fat": "脂質",
+  "carbs": "炭水化物",
+  "per100g": "100gあたり"
 }

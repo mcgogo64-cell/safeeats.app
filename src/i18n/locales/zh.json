@@ -57,5 +57,10 @@
   "dietRecommendations": "饮食建议",
   "consumptionTiming": "最佳食用时间",
   "allergyInfo": "过敏信息",
-  "dailyIntake": "每日推荐摄入量"
+  "dailyIntake": "每日推荐摄入量",
+  "nutritionalInfo": "营养信息",
+  "protein": "蛋白质",
+  "fat": "脂肪",
+  "carbs": "碳水化合物",
+  "per100g": "每100克"
 }
