@@ -16,7 +16,8 @@
   "sugarLevel": {
     "low": "Düşük",
     "medium": "Orta",
-    "high": "Yüksek"
+    "high": "Yüksek",
+    "sugar": "Şeker"
   },
   "dietFilter": {
     "general": "Genel",
@@ -77,5 +78,9 @@
   "fat": "Yağ",
   "carbs": "Karbonhidrat",
   "per100g": "100g başına",
-  "sugar": "g Şeker"
+  "sugar": "g Şeker",
+  "dietWarning": {
+    "title": "Seçilen Diyet İçin Uygun Değil",
+    "switchToGeneral": "Genel Görünüme Geç"
+  }
 }

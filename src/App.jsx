@@ -384,11 +384,30 @@ function App() {
 
                 {searchResults.sugarContent !== undefined ? (
                   <>
-                    {/* Sugar Level Indicator */}
-                    {sugarLevel && (
+                    {/* Sugar Level Indicator - Only show in General, Diabetes, or Kids mode */}
+                    {sugarLevel && (selectedDiet === 'general' || selectedDiet === 'diabetes' || selectedDiet === 'kids') && (
                       <div className="sugar-level-indicator" style={{ backgroundColor: sugarLevel.color + '20', borderColor: sugarLevel.color }}>
                         <span className="sugar-level-dot" style={{ backgroundColor: sugarLevel.color }}></span>
-                        <span className="sugar-level-label">{sugarLevel.label}</span>
+                        <span className="sugar-level-label">{sugarLevel.label} {t('sugarLevel.sugar')}</span>
+                      </div>
+                    )}
+
+                    {/* Critical Diet Warning - Show prominently if diet filter is active and food is not suitable */}
+                    {selectedDiet !== 'general' && dietAdvice && !dietAdvice.suitable && (
+                      <div className="critical-diet-warning">
+                        <div className="critical-warning-icon">
+                          <AlertCircle size={24} />
+                        </div>
+                        <div className="critical-warning-content">
+                          <h3 className="critical-warning-title">{t('dietWarning.title')}</h3>
+                          <p className="critical-warning-message">{dietAdvice.message}</p>
+                          <button 
+                            className="switch-to-general-btn"
+                            onClick={() => setSelectedDiet('general')}
+                          >
+                            {t('dietWarning.switchToGeneral')}
+                          </button>
+                        </div>
                       </div>
                     )}
 
@@ -452,8 +471,8 @@ function App() {
                       </div>
                     )}
 
-                    {/* Diet Advice */}
-                    {dietAdvice && (
+                    {/* Diet Advice - Only show when suitable, or if in General mode */}
+                    {dietAdvice && (dietAdvice.suitable || selectedDiet === 'general') && (
                       <div className={`diet-advice ${dietAdvice.suitable ? 'suitable' : 'not-suitable'}`}>
                         <div className="diet-advice-icon-wrapper">
                           {dietAdvice.suitable ? (

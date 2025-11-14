@@ -17,7 +17,12 @@
   "sugarLevel": {
     "low": "Low",
     "medium": "Medium",
-    "high": "High"
+    "high": "High",
+    "sugar": "Sugar"
+  },
+  "dietWarning": {
+    "title": "Not Suitable for Selected Diet",
+    "switchToGeneral": "Switch to General View"
   },
   "dietFilter": {
     "general": "General",

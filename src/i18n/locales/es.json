@@ -68,5 +68,12 @@
   "fat": "Grasa",
   "carbs": "Carbohidratos",
   "per100g": "por 100g",
-  "sugar": "g Azúcar"
+  "sugar": "g Azúcar",
+  "sugarLevel": {
+    "sugar": "Azúcar"
+  },
+  "dietWarning": {
+    "title": "No Adecuado para la Dieta Seleccionada",
+    "switchToGeneral": "Cambiar a Vista General"
+  }
 }

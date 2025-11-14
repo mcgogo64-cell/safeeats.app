@@ -68,5 +68,12 @@
   "fat": "脂質",
   "carbs": "炭水化物",
   "per100g": "100gあたり",
-  "sugar": "g糖質"
+  "sugar": "g糖質",
+  "sugarLevel": {
+    "sugar": "糖質"
+  },
+  "dietWarning": {
+    "title": "選択したダイエットには適していません",
+    "switchToGeneral": "一般表示に切り替え"
+  }
 }

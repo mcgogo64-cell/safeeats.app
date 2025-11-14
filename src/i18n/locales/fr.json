@@ -68,5 +68,12 @@
   "fat": "Lipides",
   "carbs": "Glucides",
   "per100g": "pour 100g",
-  "sugar": "g Sucre"
+  "sugar": "g Sucre",
+  "sugarLevel": {
+    "sugar": "Sucre"
+  },
+  "dietWarning": {
+    "title": "Non Adapté au Régime Sélectionné",
+    "switchToGeneral": "Passer à la Vue Générale"
+  }
 }

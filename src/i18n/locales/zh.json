@@ -68,5 +68,12 @@
   "fat": "脂肪",
   "carbs": "碳水化合物",
   "per100g": "每100克",
-  "sugar": "克糖"
+  "sugar": "克糖",
+  "sugarLevel": {
+    "sugar": "糖"
+  },
+  "dietWarning": {
+    "title": "不适合所选饮食",
+    "switchToGeneral": "切换到常规视图"
+  }
 }

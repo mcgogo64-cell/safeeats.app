@@ -68,5 +68,12 @@
   "fat": "지방",
   "carbs": "탄수화물",
   "per100g": "100g당",
-  "sugar": "g 설탕"
+  "sugar": "g 설탕",
+  "sugarLevel": {
+    "sugar": "당"
+  },
+  "dietWarning": {
+    "title": "선택한 식단에 적합하지 않음",
+    "switchToGeneral": "일반 보기로 전환"
+  }
 }
