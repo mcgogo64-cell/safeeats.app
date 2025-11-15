@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://clearplate.app/sitemap.xml
+Sitemap: https://clearplate.vercel.app/sitemap.xml
 
 # Disallow admin or private areas if any
 # Disallow: /admin/

@@ -1,0 +1,25 @@
+{
+  "name": "ClearPlate - Complete Nutrition Analyzer",
+  "short_name": "ClearPlate",
+  "description": "Complete nutrition analyzer for 286+ foods. Get detailed nutritional information including sugars, proteins, fats, and carbs. Perfect for keto, diabetes, and weight loss diets.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f766e",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["health", "food", "lifestyle"],
+  "screenshots": [],
+  "related_applications": [],
+  "prefer_related_applications": false
+}
+
