@@ -37,3 +37,5 @@ function MedicalDisclaimer({ onAccept }) {
 export default MedicalDisclaimer;
 
 
+
+

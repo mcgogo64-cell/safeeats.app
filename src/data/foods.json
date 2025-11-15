@@ -150,9 +150,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 0.63
+    "protein": 2,
+    "fat": 14.7,
+    "carbs": 8.5
   },
   {
     "foodName": "Ahududu",
@@ -318,9 +318,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 3.9600000000000004
+    "protein": 1.2,
+    "fat": 0.7,
+    "carbs": 11.9
   },
   {
     "foodName": "Elma",
@@ -421,9 +421,9 @@
         "ko": "일일 권장 섭취량: 80-150 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 9.360000000000001
+    "protein": 0.3,
+    "fat": 0.2,
+    "carbs": 13.8
   },
   {
     "foodName": "Çilek",
@@ -589,9 +589,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 4.41
+    "protein": 0.7,
+    "fat": 0.3,
+    "carbs": 7.7
   },
   {
     "foodName": "Muz",
@@ -718,9 +718,9 @@
         "ko": "일일 권장 섭취량: 80-150 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 10.98
+    "protein": 1.1,
+    "fat": 0.3,
+    "carbs": 22.8
   },
   {
     "foodName": "Salatalık",
@@ -886,9 +886,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 1.53
+    "protein": 0.7,
+    "fat": 0.1,
+    "carbs": 3.6
   },
   {
     "foodName": "Domates",
@@ -1054,9 +1054,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
+    "protein": 0.9,
     "fat": 0.2,
-    "carbs": 2.3400000000000003
+    "carbs": 3.9
   },
   {
     "foodName": "Ispanak",
@@ -1222,14 +1222,14 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 0.36000000000000004
+    "protein": 2.9,
+    "fat": 0.4,
+    "carbs": 3.6
   },
   {
     "foodName": "Brokoli",
     "category": "Sebze",
-    "sugarContent": 1.5,
+    "sugarContent": 1.7,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -1377,9 +1377,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 1.35
+    "protein": 2.8,
+    "fat": 0.4,
+    "carbs": 6.6
   },
   {
     "foodName": "Soğan",
@@ -1519,9 +1519,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 3.7800000000000002
+    "protein": 1.1,
+    "fat": 0.1,
+    "carbs": 9.3
   },
   {
     "foodName": "Armut",
@@ -1648,9 +1648,9 @@
         "ko": "일일 권장 섭취량: 100-200 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
+    "protein": 0.4,
     "fat": 0.1,
-    "carbs": 8.82
+    "carbs": 15.2
   },
   {
     "foodName": "Şeftali",
@@ -1777,14 +1777,14 @@
         "ko": "일일 권장 섭취량: 100-200 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 7.5600000000000005
+    "protein": 0.9,
+    "fat": 0.3,
+    "carbs": 9.5
   },
   {
     "foodName": "Kiraz",
     "category": "Meyve",
-    "sugarContent": 12.8,
+    "sugarContent": 8,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -1906,9 +1906,9 @@
         "ko": "일일 권장 섭취량: 80-150 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 11.520000000000001
+    "protein": 1,
+    "fat": 0.3,
+    "carbs": 12
   },
   {
     "foodName": "Kayısı",
@@ -2035,14 +2035,14 @@
         "ko": "일일 권장 섭취량: 100-200 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 8.28
+    "protein": 1.4,
+    "fat": 0.4,
+    "carbs": 11.1
   },
   {
     "foodName": "Üzüm",
     "category": "Meyve",
-    "sugarContent": 16.3,
+    "sugarContent": 15.5,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -2138,9 +2138,9 @@
         "ko": "일일 권장 섭취량: 50-100 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 14.670000000000002
+    "protein": 0.7,
+    "fat": 0.2,
+    "carbs": 18.1
   },
   {
     "foodName": "Portakal",
@@ -2280,9 +2280,9 @@
         "ko": "일일 권장 섭취량: 100-200 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
+    "protein": 0.9,
     "fat": 0.1,
-    "carbs": 8.46
+    "carbs": 11.8
   },
   {
     "foodName": "Limon",
@@ -2448,9 +2448,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 2.25
+    "protein": 1.1,
+    "fat": 0.3,
+    "carbs": 9.3
   },
   {
     "foodName": "Mandalina",
@@ -2577,14 +2577,14 @@
         "ko": "일일 권장 섭취량: 80-150 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 9.54
+    "protein": 0.8,
+    "fat": 0.3,
+    "carbs": 13.3
   },
   {
     "foodName": "Greyfurt",
     "category": "Meyve",
-    "sugarContent": 6.9,
+    "sugarContent": 7,
     "restrictions": {
       "lowSugar": {
         "status": 2,
@@ -2719,9 +2719,9 @@
         "ko": "일일 권장 섭취량: 100-200 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
+    "protein": 0.8,
     "fat": 0.1,
-    "carbs": 6.210000000000001
+    "carbs": 10.7
   },
   {
     "foodName": "Ananas",
@@ -2850,7 +2850,7 @@
     },
     "protein": 0.5,
     "fat": 0.1,
-    "carbs": 8.91
+    "carbs": 13.1
   },
   {
     "foodName": "Karpuz",
@@ -2977,9 +2977,9 @@
         "ko": "일일 권장 섭취량: 100-200 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 5.58
+    "protein": 0.6,
+    "fat": 0.2,
+    "carbs": 7.6
   },
   {
     "foodName": "Kavun",
@@ -3274,9 +3274,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 4.41
+    "protein": 1.4,
+    "fat": 0.5,
+    "carbs": 9.6
   },
   {
     "foodName": "Yaban Mersini",
@@ -3377,14 +3377,14 @@
         "ko": "일일 권장 섭취량: 80-150 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 9
+    "protein": 0.7,
+    "fat": 0.3,
+    "carbs": 14.5
   },
   {
     "foodName": "Bektaşi Üzümü",
     "category": "Meyve",
-    "sugarContent": 9,
+    "sugarContent": 15.5,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -3506,9 +3506,9 @@
         "ko": "일일 권장 섭취량: 100-200 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 8.1
+    "protein": 0.7,
+    "fat": 0.2,
+    "carbs": 18.1
   },
   {
     "foodName": "İncir",
@@ -3609,14 +3609,14 @@
         "ko": "일일 권장 섭취량: 50-100 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 14.670000000000002
+    "protein": 0.8,
+    "fat": 0.3,
+    "carbs": 19.2
   },
   {
     "foodName": "Hurma",
     "category": "Meyve",
-    "sugarContent": 66.5,
+    "sugarContent": 12.5,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -3712,9 +3712,9 @@
         "ko": "일일 권장 섭취량: 50-100 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 59.85
+    "protein": 0.6,
+    "fat": 0.2,
+    "carbs": 18.6
   },
   {
     "foodName": "Nar",
@@ -3815,9 +3815,9 @@
         "ko": "일일 권장 섭취량: 80-150 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 12.33
+    "protein": 1.7,
+    "fat": 1.2,
+    "carbs": 18.7
   },
   {
     "foodName": "Papaya",
@@ -4060,9 +4060,9 @@
         "ko": "일일 권장 섭취량: 80-150 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 12.33
+    "protein": 0.8,
+    "fat": 0.4,
+    "carbs": 15
   },
   {
     "foodName": "Kivi",
@@ -4202,9 +4202,9 @@
         "ko": "일일 권장 섭취량: 100-200 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 8.1
+    "protein": 1.1,
+    "fat": 0.5,
+    "carbs": 14.7
   },
   {
     "foodName": "Erik",
@@ -4331,9 +4331,9 @@
         "ko": "일일 권장 섭취량: 100-200 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 8.91
+    "protein": 0.7,
+    "fat": 0.3,
+    "carbs": 11.4
   },
   {
     "foodName": "Dut",
@@ -4641,9 +4641,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 4.41
+    "protein": 1.4,
+    "fat": 0.5,
+    "carbs": 9.6
   },
   {
     "foodName": "Limon",
@@ -4809,9 +4809,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 2.25
+    "protein": 1.1,
+    "fat": 0.3,
+    "carbs": 9.3
   },
   {
     "foodName": "Portakal",
@@ -4951,14 +4951,14 @@
         "ko": "일일 권장 섭취량: 100-200 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
+    "protein": 0.9,
     "fat": 0.1,
-    "carbs": 8.46
+    "carbs": 11.8
   },
   {
     "foodName": "Ayva",
     "category": "Meyve",
-    "sugarContent": 7.4,
+    "sugarContent": 13,
     "restrictions": {
       "lowSugar": {
         "status": 2,
@@ -5080,14 +5080,14 @@
         "ko": "일일 권장 섭취량: 100-200 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
+    "protein": 0.4,
     "fat": 0.1,
-    "carbs": 6.66
+    "carbs": 15.3
   },
   {
     "foodName": "Kırmızı Erik",
     "category": "Meyve",
-    "sugarContent": 7.5,
+    "sugarContent": 9.9,
     "restrictions": {
       "lowSugar": {
         "status": 2,
@@ -5209,14 +5209,14 @@
         "ko": "일일 권장 섭취량: 100-200 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 6.75
+    "protein": 0.7,
+    "fat": 0.3,
+    "carbs": 11.4
   },
   {
     "foodName": "Sarı Erik",
     "category": "Meyve",
-    "sugarContent": 8.5,
+    "sugarContent": 9.9,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -5338,9 +5338,9 @@
         "ko": "일일 권장 섭취량: 100-200 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 7.65
+    "protein": 0.7,
+    "fat": 0.3,
+    "carbs": 11.4
   },
   {
     "foodName": "Alıç",
@@ -6106,7 +6106,7 @@
   {
     "foodName": "Trabzon Hurması",
     "category": "Meyve",
-    "sugarContent": 18.6,
+    "sugarContent": 12.5,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -6202,14 +6202,14 @@
         "ko": "일일 권장 섭취량: 50-100 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 16.740000000000002
+    "protein": 0.6,
+    "fat": 0.2,
+    "carbs": 18.6
   },
   {
     "foodName": "Ankara Armudu",
     "category": "Meyve",
-    "sugarContent": 10.2,
+    "sugarContent": 9.8,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -6305,14 +6305,14 @@
         "ko": "일일 권장 섭취량: 80-150 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
+    "protein": 0.4,
     "fat": 0.1,
-    "carbs": 9.18
+    "carbs": 15.2
   },
   {
     "foodName": "Deveci Armudu",
     "category": "Meyve",
-    "sugarContent": 9.6,
+    "sugarContent": 9.8,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -6434,9 +6434,9 @@
         "ko": "일일 권장 섭취량: 100-200 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
+    "protein": 0.4,
     "fat": 0.1,
-    "carbs": 8.64
+    "carbs": 15.2
   },
   {
     "foodName": "İncir Kurusu",
@@ -6750,7 +6750,7 @@
   {
     "foodName": "Elma Kurusu",
     "category": "Meyve",
-    "sugarContent": 49.1,
+    "sugarContent": 10.4,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -6846,9 +6846,9 @@
         "ko": "일일 권장 섭취량: 50-100 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 44.190000000000005
+    "protein": 0.3,
+    "fat": 0.2,
+    "carbs": 13.8
   },
   {
     "foodName": "Kivi",
@@ -6988,9 +6988,9 @@
         "ko": "일일 권장 섭취량: 100-200 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 8.1
+    "protein": 1.1,
+    "fat": 0.5,
+    "carbs": 14.7
   },
   {
     "foodName": "Guava",
@@ -7601,7 +7601,7 @@
   {
     "foodName": "Dragon Fruit",
     "category": "Meyve",
-    "sugarContent": 7.7,
+    "sugarContent": 7.6,
     "restrictions": {
       "lowSugar": {
         "status": 2,
@@ -7736,9 +7736,9 @@
         "ko": "일일 권장 섭취량: 100-200 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 6.930000000000001
+    "protein": 1.2,
+    "fat": 0.6,
+    "carbs": 12.9
   },
   {
     "foodName": "Passion Fruit",
@@ -7865,9 +7865,9 @@
         "ko": "일일 권장 섭취량: 80-150 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 10.08
+    "protein": 2.2,
+    "fat": 0.7,
+    "carbs": 23.4
   },
   {
     "foodName": "Pomelo",
@@ -8265,14 +8265,14 @@
         "ko": "일일 권장 섭취량: 80-150 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 9.54
+    "protein": 0.8,
+    "fat": 0.3,
+    "carbs": 13.3
   },
   {
     "foodName": "Blood Orange",
     "category": "Meyve",
-    "sugarContent": 9.3,
+    "sugarContent": 9.4,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -8407,14 +8407,14 @@
         "ko": "일일 권장 섭취량: 100-200 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
+    "protein": 0.9,
     "fat": 0.1,
-    "carbs": 8.370000000000001
+    "carbs": 11.8
   },
   {
     "foodName": "Lime",
     "category": "Meyve",
-    "sugarContent": 1.7,
+    "sugarContent": 2.5,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -8575,9 +8575,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 1.53
+    "protein": 1.1,
+    "fat": 0.3,
+    "carbs": 9.3
   },
   {
     "foodName": "Kumquat",
@@ -8846,14 +8846,17 @@
         "ko": "일일 권장 섭취량: 100-200 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 7.11
+    "protein": 0.8,
+    "fat": 0.2,
+    "carbs": 8.2
   },
   {
     "foodName": "Honeydew",
     "category": "Meyve",
     "sugarContent": 8.1,
+    "protein": 0.5,
+    "fat": 0.1,
+    "carbs": 9.1,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -8974,10 +8977,7 @@
         "hi": "दैनिक अनुशंसित सेवन: 100-200 g (1-2 सर्विंग्स फल)",
         "ko": "일일 권장 섭취량: 100-200 g (1-2인분 과일)"
       }
-    },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 7.29
+    }
   },
   {
     "foodName": "Watermelon",
@@ -9104,9 +9104,9 @@
         "ko": "일일 권장 섭취량: 100-200 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 5.58
+    "protein": 0.6,
+    "fat": 0.2,
+    "carbs": 7.6
   },
   {
     "foodName": "Blackberry",
@@ -9272,9 +9272,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 4.41
+    "protein": 1.4,
+    "fat": 0.5,
+    "carbs": 9.6
   },
   {
     "foodName": "Cranberry",
@@ -9440,14 +9440,14 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
+    "protein": 0.4,
     "fat": 0.1,
-    "carbs": 3.6
+    "carbs": 12.2
   },
   {
     "foodName": "Gooseberry",
     "category": "Meyve",
-    "sugarContent": 10,
+    "sugarContent": 15.5,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -9543,14 +9543,14 @@
         "ko": "일일 권장 섭취량: 80-150 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 9
+    "protein": 0.7,
+    "fat": 0.2,
+    "carbs": 18.1
   },
   {
     "foodName": "Currant",
     "category": "Meyve",
-    "sugarContent": 7.4,
+    "sugarContent": 15.5,
     "restrictions": {
       "lowSugar": {
         "status": 2,
@@ -9672,9 +9672,9 @@
         "ko": "일일 권장 섭취량: 100-200 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 6.66
+    "protein": 0.7,
+    "fat": 0.2,
+    "carbs": 18.1
   },
   {
     "foodName": "Strawberry",
@@ -9840,9 +9840,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 4.41
+    "protein": 0.7,
+    "fat": 0.3,
+    "carbs": 7.7
   },
   {
     "foodName": "Raspberry",
@@ -10008,9 +10008,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 3.9600000000000004
+    "protein": 1.2,
+    "fat": 0.7,
+    "carbs": 11.9
   },
   {
     "foodName": "Elderberry",
@@ -10299,7 +10299,7 @@
   {
     "foodName": "Huckleberry",
     "category": "Meyve",
-    "sugarContent": 8.7,
+    "sugarContent": 10,
     "restrictions": {
       "lowSugar": {
         "status": 2,
@@ -10421,9 +10421,9 @@
         "ko": "일일 권장 섭취량: 100-200 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 7.829999999999999
+    "protein": 0.7,
+    "fat": 0.3,
+    "carbs": 14.5
   },
   {
     "foodName": "Boysenberry",
@@ -10764,7 +10764,7 @@
   {
     "foodName": "Lingonberry",
     "category": "Meyve",
-    "sugarContent": 5,
+    "sugarContent": 10,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -10912,9 +10912,9 @@
         "ko": "일일 권장 섭취량: 100-200 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 4.5
+    "protein": 0.7,
+    "fat": 0.3,
+    "carbs": 14.5
   },
   {
     "foodName": "Bilberry",
@@ -11015,9 +11015,9 @@
         "ko": "일일 권장 섭취량: 80-150 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 9
+    "protein": 0.7,
+    "fat": 0.3,
+    "carbs": 14.5
   },
   {
     "foodName": "Açai",
@@ -11744,7 +11744,7 @@
   {
     "foodName": "Custard Apple",
     "category": "Meyve",
-    "sugarContent": 18.5,
+    "sugarContent": 10.4,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -11840,14 +11840,14 @@
         "ko": "일일 권장 섭취량: 50-100 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 16.650000000000002
+    "protein": 0.3,
+    "fat": 0.2,
+    "carbs": 13.8
   },
   {
     "foodName": "Sugar Apple",
     "category": "Meyve",
-    "sugarContent": 18.2,
+    "sugarContent": 10.4,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -11943,9 +11943,9 @@
         "ko": "일일 권장 섭취량: 50-100 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 16.38
+    "protein": 0.3,
+    "fat": 0.2,
+    "carbs": 13.8
   },
   {
     "foodName": "Sapodilla",
@@ -12182,7 +12182,7 @@
   {
     "foodName": "Persimmon",
     "category": "Meyve",
-    "sugarContent": 18.6,
+    "sugarContent": 12.5,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -12278,9 +12278,9 @@
         "ko": "일일 권장 섭취량: 50-100 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 16.740000000000002
+    "protein": 0.6,
+    "fat": 0.2,
+    "carbs": 18.6
   },
   {
     "foodName": "Feijoa",
@@ -12530,7 +12530,7 @@
   {
     "foodName": "Date",
     "category": "Meyve",
-    "sugarContent": 66.5,
+    "sugarContent": 12.5,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -12626,9 +12626,9 @@
         "ko": "일일 권장 섭취량: 50-100 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 59.85
+    "protein": 0.6,
+    "fat": 0.2,
+    "carbs": 18.6
   },
   {
     "foodName": "Coconut",
@@ -12781,14 +12781,14 @@
         "ko": "일일 권장 섭취량: 100-200 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 5.58
+    "protein": 3.3,
+    "fat": 33.5,
+    "carbs": 15.2
   },
   {
     "foodName": "Coconut Water",
     "category": "Meyve",
-    "sugarContent": 6,
+    "sugarContent": 6.2,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -12936,9 +12936,9 @@
         "ko": "일일 권장 섭취량: 100-200 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 5.4
+    "protein": 3.3,
+    "fat": 33.5,
+    "carbs": 15.2
   },
   {
     "foodName": "Havuç",
@@ -13091,14 +13091,14 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
+    "protein": 0.9,
     "fat": 0.2,
-    "carbs": 4.23
+    "carbs": 9.6
   },
   {
     "foodName": "Patates",
     "category": "Sebze",
-    "sugarContent": 0.8,
+    "sugarContent": 0.9,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -13233,14 +13233,14 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 0.7200000000000001
+    "protein": 1.9,
+    "fat": 0.1,
+    "carbs": 20.1
   },
   {
     "foodName": "Tatlı Patates",
     "category": "Sebze",
-    "sugarContent": 4.2,
+    "sugarContent": 6.5,
     "restrictions": {
       "lowSugar": {
         "status": 2,
@@ -13376,13 +13376,13 @@
       }
     },
     "protein": 2,
-    "fat": 0.2,
-    "carbs": 3.7800000000000002
+    "fat": 0.1,
+    "carbs": 20.7
   },
   {
     "foodName": "Kırmızı Biber",
     "category": "Sebze",
-    "sugarContent": 2.4,
+    "sugarContent": 4.2,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -13543,9 +13543,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 2.16
+    "protein": 1,
+    "fat": 0.3,
+    "carbs": 6
   },
   {
     "foodName": "Yeşil Biber",
@@ -13711,9 +13711,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
+    "protein": 0.9,
     "fat": 0.2,
-    "carbs": 2.16
+    "carbs": 4.6
   },
   {
     "foodName": "Karnabahar",
@@ -13866,9 +13866,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 1.71
+    "protein": 1.9,
+    "fat": 0.3,
+    "carbs": 5
   },
   {
     "foodName": "Lahana",
@@ -14021,14 +14021,14 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 2.8800000000000003
+    "protein": 1.3,
+    "fat": 0.1,
+    "carbs": 5.8
   },
   {
     "foodName": "Kırmızı Lahana",
     "category": "Sebze",
-    "sugarContent": 3.2,
+    "sugarContent": 3.8,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -14176,9 +14176,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
+    "protein": 1.4,
     "fat": 0.2,
-    "carbs": 2.8800000000000003
+    "carbs": 7.4
   },
   {
     "foodName": "Brüksel Lahanası",
@@ -14331,9 +14331,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 1.9800000000000002
+    "protein": 3.4,
+    "fat": 0.3,
+    "carbs": 9
   },
   {
     "foodName": "Kabak",
@@ -14499,14 +14499,14 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 2.25
+    "protein": 1.2,
+    "fat": 0.3,
+    "carbs": 3.1
   },
   {
     "foodName": "Patlıcan",
     "category": "Sebze",
-    "sugarContent": 3.5,
+    "sugarContent": 3.2,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -14667,9 +14667,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
+    "protein": 0.8,
     "fat": 0.2,
-    "carbs": 3.15
+    "carbs": 8.7
   },
   {
     "foodName": "Bezelye",
@@ -14796,14 +14796,14 @@
         "ko": "일일 권장 섭취량: 100-200 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 5.13
+    "protein": 5.4,
+    "fat": 0.4,
+    "carbs": 14.5
   },
   {
     "foodName": "Fasulye",
     "category": "Sebze",
-    "sugarContent": 2.3,
+    "sugarContent": 3.3,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -14951,9 +14951,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 2.07
+    "protein": 1.8,
+    "fat": 0.1,
+    "carbs": 7
   },
   {
     "foodName": "Yeşil Fasulye",
@@ -15106,9 +15106,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 2.9699999999999998
+    "protein": 1.8,
+    "fat": 0.1,
+    "carbs": 7
   },
   {
     "foodName": "Kuşkonmaz",
@@ -15261,9 +15261,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 1.71
+    "protein": 2.2,
+    "fat": 0.1,
+    "carbs": 3.9
   },
   {
     "foodName": "Kereviz",
@@ -15416,14 +15416,14 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
+    "protein": 0.7,
     "fat": 0.2,
-    "carbs": 1.62
+    "carbs": 3
   },
   {
     "foodName": "Kereviz Sapı",
     "category": "Sebze",
-    "sugarContent": 1.3,
+    "sugarContent": 1.8,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -15571,9 +15571,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
+    "protein": 0.7,
     "fat": 0.2,
-    "carbs": 1.1700000000000002
+    "carbs": 3
   },
   {
     "foodName": "Marul",
@@ -15746,7 +15746,7 @@
   {
     "foodName": "Roka",
     "category": "Sebze",
-    "sugarContent": 0.7,
+    "sugarContent": 2.1,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -15907,9 +15907,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 0.63
+    "protein": 2.6,
+    "fat": 0.7,
+    "carbs": 3.7
   },
   {
     "foodName": "Semizotu",
@@ -16082,7 +16082,7 @@
   {
     "foodName": "Pazı",
     "category": "Sebze",
-    "sugarContent": 1.6,
+    "sugarContent": 1.1,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -16243,14 +16243,14 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
+    "protein": 1.8,
     "fat": 0.2,
-    "carbs": 1.4400000000000002
+    "carbs": 3.7
   },
   {
     "foodName": "Turp",
     "category": "Sebze",
-    "sugarContent": 3.9,
+    "sugarContent": 1.9,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -16398,14 +16398,14 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 3.51
+    "protein": 0.7,
+    "fat": 0.1,
+    "carbs": 3.4
   },
   {
     "foodName": "Beyaz Turp",
     "category": "Sebze",
-    "sugarContent": 2.8,
+    "sugarContent": 1.9,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -16553,14 +16553,14 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 2.52
+    "protein": 0.7,
+    "fat": 0.1,
+    "carbs": 3.4
   },
   {
     "foodName": "Siyah Turp",
     "category": "Sebze",
-    "sugarContent": 3.9,
+    "sugarContent": 1.9,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -16708,14 +16708,14 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 3.51
+    "protein": 0.7,
+    "fat": 0.1,
+    "carbs": 3.4
   },
   {
     "foodName": "Kırmızı Turp",
     "category": "Sebze",
-    "sugarContent": 2.9,
+    "sugarContent": 1.9,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -16863,9 +16863,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 2.61
+    "protein": 0.7,
+    "fat": 0.1,
+    "carbs": 3.4
   },
   {
     "foodName": "Pancar",
@@ -16992,9 +16992,9 @@
         "ko": "일일 권장 섭취량: 100-200 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
+    "protein": 1.6,
     "fat": 0.2,
-    "carbs": 6.12
+    "carbs": 9.6
   },
   {
     "foodName": "Şalgam",
@@ -17147,9 +17147,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 3.42
+    "protein": 0.9,
+    "fat": 0.1,
+    "carbs": 6.4
   },
   {
     "foodName": "Havuç",
@@ -17302,9 +17302,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
+    "protein": 0.9,
     "fat": 0.2,
-    "carbs": 4.23
+    "carbs": 9.6
   },
   {
     "foodName": "Karnabahar",
@@ -17457,14 +17457,14 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 1.71
+    "protein": 1.9,
+    "fat": 0.3,
+    "carbs": 5
   },
   {
     "foodName": "Enginar",
     "category": "Sebze",
-    "sugarContent": 0.9,
+    "sugarContent": 1,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -17612,9 +17612,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
+    "protein": 3.3,
     "fat": 0.2,
-    "carbs": 0.81
+    "carbs": 10.5
   },
   {
     "foodName": "Kıvırcık Salata",
@@ -18116,9 +18116,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 1.8
+    "protein": 0.9,
+    "fat": 0.1,
+    "carbs": 3
   },
   {
     "foodName": "Kırmızı Marul",
@@ -18943,9 +18943,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 0.81
+    "protein": 3,
+    "fat": 0.8,
+    "carbs": 6.3
   },
   {
     "foodName": "Dereotu",
@@ -19951,9 +19951,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 1.53
+    "protein": 1.8,
+    "fat": 0.8,
+    "carbs": 17.8
   },
   {
     "foodName": "Sarımsak",
@@ -20106,14 +20106,14 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 0.9
+    "protein": 6.4,
+    "fat": 0.5,
+    "carbs": 33.1
   },
   {
     "foodName": "Arpacık Soğanı",
     "category": "Sebze",
-    "sugarContent": 7.1,
+    "sugarContent": 4.2,
     "restrictions": {
       "lowSugar": {
         "status": 2,
@@ -20235,14 +20235,14 @@
         "ko": "일일 권장 섭취량: 100-200 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 6.39
+    "protein": 1.1,
+    "fat": 0.1,
+    "carbs": 9.3
   },
   {
     "foodName": "Yeşil Soğan",
     "category": "Sebze",
-    "sugarContent": 4.2,
+    "sugarContent": 2.3,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -20390,9 +20390,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
+    "protein": 1.8,
     "fat": 0.2,
-    "carbs": 3.7800000000000002
+    "carbs": 7.3
   },
   {
     "foodName": "Pırasa",
@@ -20545,9 +20545,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 3.51
+    "protein": 1.5,
+    "fat": 0.3,
+    "carbs": 14.2
   },
   {
     "foodName": "Bamya",
@@ -20713,9 +20713,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
+    "protein": 1.9,
     "fat": 0.2,
-    "carbs": 1.35
+    "carbs": 7.5
   },
   {
     "foodName": "Mısır",
@@ -20855,14 +20855,14 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 2.8800000000000003
+    "protein": 3.2,
+    "fat": 1.2,
+    "carbs": 19
   },
   {
     "foodName": "Tatlı Mısır",
     "category": "Sebze",
-    "sugarContent": 4.5,
+    "sugarContent": 3.2,
     "restrictions": {
       "lowSugar": {
         "status": 2,
@@ -20997,9 +20997,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 4.05
+    "protein": 3.2,
+    "fat": 1.2,
+    "carbs": 19
   },
   {
     "foodName": "Kırmızı Pancar",
@@ -21126,14 +21126,14 @@
         "ko": "일일 권장 섭취량: 100-200 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
+    "protein": 1.6,
     "fat": 0.2,
-    "carbs": 6.12
+    "carbs": 9.6
   },
   {
     "foodName": "Kırmızı Biber",
     "category": "Sebze",
-    "sugarContent": 2.4,
+    "sugarContent": 4.2,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -21294,9 +21294,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 2.16
+    "protein": 1,
+    "fat": 0.3,
+    "carbs": 6
   },
   {
     "foodName": "Sarı Biber",
@@ -21637,7 +21637,7 @@
   {
     "foodName": "Jalapeno",
     "category": "Sebze",
-    "sugarContent": 2.6,
+    "sugarContent": 4.1,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -21798,9 +21798,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 2.3400000000000003
+    "protein": 0.9,
+    "fat": 0.4,
+    "carbs": 6.5
   },
   {
     "foodName": "Habanero",
@@ -22141,7 +22141,7 @@
   {
     "foodName": "Pul Biber",
     "category": "Sebze",
-    "sugarContent": 3,
+    "sugarContent": 4.2,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -22302,14 +22302,14 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 2.7
+    "protein": 1,
+    "fat": 0.3,
+    "carbs": 6
   },
   {
     "foodName": "Kırmızı Biber Tozu",
     "category": "Sebze",
-    "sugarContent": 2.8,
+    "sugarContent": 4.2,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -22470,14 +22470,17 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 2.52
+    "protein": 1,
+    "fat": 0.3,
+    "carbs": 6
   },
   {
     "foodName": "Bal Kabağı",
     "category": "Sebze",
     "sugarContent": 2.8,
+    "protein": 1,
+    "fat": 0.1,
+    "carbs": 6.5,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -22637,10 +22640,7 @@
         "hi": "दैनिक अनुशंसित सेवन: 150-300 g (1-2 सर्विंग्स सब्जियां)",
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
-    },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 2.52
+    }
   },
   {
     "foodName": "Sakız Kabağı",
@@ -22974,9 +22974,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 2.25
+    "protein": 1.2,
+    "fat": 0.3,
+    "carbs": 3.1
   },
   {
     "foodName": "Su Kabağı",
@@ -23149,7 +23149,7 @@
   {
     "foodName": "Balkabağı",
     "category": "Sebze",
-    "sugarContent": 2.8,
+    "sugarContent": 2.2,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -23310,14 +23310,14 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 2.52
+    "protein": 1,
+    "fat": 0.1,
+    "carbs": 11.7
   },
   {
     "foodName": "Kestane",
     "category": "Sebze",
-    "sugarContent": 44.2,
+    "sugarContent": 5.9,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -23413,14 +23413,14 @@
         "ko": "일일 권장 섭취량: 50-100 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 39.78
+    "protein": 1.4,
+    "fat": 1.4,
+    "carbs": 28
   },
   {
     "foodName": "Yer Elması",
     "category": "Sebze",
-    "sugarContent": 9.2,
+    "sugarContent": 1,
     "restrictions": {
       "lowSugar": {
         "status": 2,
@@ -23542,9 +23542,9 @@
         "ko": "일일 권장 섭취량: 100-200 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
+    "protein": 3.3,
     "fat": 0.2,
-    "carbs": 8.28
+    "carbs": 10.5
   },
   {
     "foodName": "Şalgam",
@@ -23697,14 +23697,14 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 3.42
+    "protein": 0.9,
+    "fat": 0.1,
+    "carbs": 6.4
   },
   {
     "foodName": "Şalgam Yaprağı",
     "category": "Sebze",
-    "sugarContent": 0.9,
+    "sugarContent": 3.8,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -23852,14 +23852,14 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 0.81
+    "protein": 0.9,
+    "fat": 0.1,
+    "carbs": 6.4
   },
   {
     "foodName": "Pancar Yaprağı",
     "category": "Sebze",
-    "sugarContent": 0.8,
+    "sugarContent": 6.8,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -24007,14 +24007,14 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
+    "protein": 1.6,
     "fat": 0.2,
-    "carbs": 0.7200000000000001
+    "carbs": 9.6
   },
   {
     "foodName": "Kara Lahana",
     "category": "Sebze",
-    "sugarContent": 1.5,
+    "sugarContent": 3.2,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -24162,14 +24162,14 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 1.35
+    "protein": 1.3,
+    "fat": 0.1,
+    "carbs": 5.8
   },
   {
     "foodName": "Pekin Lahanası",
     "category": "Sebze",
-    "sugarContent": 1.5,
+    "sugarContent": 3.2,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -24317,14 +24317,14 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 1.35
+    "protein": 1.3,
+    "fat": 0.1,
+    "carbs": 5.8
   },
   {
     "foodName": "Napa Lahanası",
     "category": "Sebze",
-    "sugarContent": 1.2,
+    "sugarContent": 3.2,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -24472,14 +24472,14 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 1.08
+    "protein": 1.3,
+    "fat": 0.1,
+    "carbs": 5.8
   },
   {
     "foodName": "Kale",
     "category": "Sebze",
-    "sugarContent": 0.8,
+    "sugarContent": 2.3,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -24640,14 +24640,14 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 0.7200000000000001
+    "protein": 4.3,
+    "fat": 0.9,
+    "carbs": 8.8
   },
   {
     "foodName": "Chard",
     "category": "Sebze",
-    "sugarContent": 1.6,
+    "sugarContent": 1.1,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -24808,14 +24808,14 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
+    "protein": 1.8,
     "fat": 0.2,
-    "carbs": 1.4400000000000002
+    "carbs": 3.7
   },
   {
     "foodName": "Collard Greens",
     "category": "Sebze",
-    "sugarContent": 0.5,
+    "sugarContent": 2.3,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -24976,14 +24976,14 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 0.45
+    "protein": 4.3,
+    "fat": 0.9,
+    "carbs": 8.8
   },
   {
     "foodName": "Bok Choy",
     "category": "Sebze",
-    "sugarContent": 1.2,
+    "sugarContent": 3.2,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -25144,9 +25144,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 1.08
+    "protein": 1.3,
+    "fat": 0.1,
+    "carbs": 5.8
   },
   {
     "foodName": "Mizuna",
@@ -25991,7 +25991,7 @@
   {
     "foodName": "Yaban Turpu",
     "category": "Sebze",
-    "sugarContent": 7.9,
+    "sugarContent": 1.9,
     "restrictions": {
       "lowSugar": {
         "status": 2,
@@ -26113,9 +26113,9 @@
         "ko": "일일 권장 섭취량: 100-200 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 7.11
+    "protein": 0.7,
+    "fat": 0.1,
+    "carbs": 3.4
   },
   {
     "foodName": "Wasabi",
@@ -26792,7 +26792,7 @@
   {
     "foodName": "Kültür Mantarı",
     "category": "Sebze",
-    "sugarContent": 0.5,
+    "sugarContent": 2,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -26953,14 +26953,14 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 0.45
+    "protein": 3.1,
+    "fat": 0.3,
+    "carbs": 3.3
   },
   {
     "foodName": "Kestane Mantarı",
     "category": "Sebze",
-    "sugarContent": 0.6,
+    "sugarContent": 5.9,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -27121,14 +27121,14 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 0.54
+    "protein": 1.4,
+    "fat": 1.4,
+    "carbs": 28
   },
   {
     "foodName": "Şitake Mantarı",
     "category": "Sebze",
-    "sugarContent": 2.4,
+    "sugarContent": 3.8,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -27289,9 +27289,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
+    "protein": 1,
     "fat": 0.2,
-    "carbs": 2.16
+    "carbs": 14.4
   },
   {
     "foodName": "Guarana",
@@ -27734,7 +27734,7 @@
   {
     "foodName": "Mangosteen",
     "category": "Meyve",
-    "sugarContent": 17.9,
+    "sugarContent": 13.7,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -27830,9 +27830,9 @@
         "ko": "일일 권장 섭취량: 50-100 g (1-2인분 과일)"
       }
     },
-    "protein": 0.5,
-    "fat": 0.1,
-    "carbs": 16.11
+    "protein": 0.8,
+    "fat": 0.4,
+    "carbs": 15
   },
   {
     "foodName": "Ackee",
@@ -28302,7 +28302,7 @@
   {
     "foodName": "Portobello Mantarı",
     "category": "Sebze",
-    "sugarContent": 2.3,
+    "sugarContent": 2,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -28463,9 +28463,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 2.07
+    "protein": 3.1,
+    "fat": 0.3,
+    "carbs": 3.3
   },
   {
     "foodName": "Oyster Mantarı",
@@ -28638,7 +28638,7 @@
   {
     "foodName": "Deniz Yosunu",
     "category": "Sebze",
-    "sugarContent": 0.5,
+    "sugarContent": 0.7,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -28799,9 +28799,9 @@
         "ko": "일일 권장 섭취량: 150-300 g (1-2인분 채소)"
       }
     },
-    "protein": 2,
-    "fat": 0.2,
-    "carbs": 0.45
+    "protein": 3,
+    "fat": 0.6,
+    "carbs": 9.1
   },
   {
     "foodName": "Nori",
@@ -29118,7 +29118,7 @@
     "category": "Et",
     "sugarContent": 0,
     "protein": 26,
-    "fat": 10.2,
+    "fat": 10.9,
     "carbs": 0,
     "restrictions": {
       "lowSugar": {
@@ -29247,7 +29247,7 @@
     "category": "Et",
     "sugarContent": 0,
     "protein": 30,
-    "fat": 1,
+    "fat": 1.8,
     "carbs": 0,
     "restrictions": {
       "lowSugar": {
@@ -29388,8 +29388,8 @@
     "foodName": "Dana Eti",
     "category": "Et",
     "sugarContent": 0,
-    "protein": 26,
-    "fat": 15,
+    "protein": 29,
+    "fat": 8.8,
     "carbs": 0,
     "restrictions": {
       "lowSugar": {
@@ -29518,7 +29518,7 @@
     "category": "Et",
     "sugarContent": 0,
     "protein": 25,
-    "fat": 21,
+    "fat": 16,
     "carbs": 0,
     "restrictions": {
       "lowSugar": {
@@ -29647,7 +29647,7 @@
     "category": "Et",
     "sugarContent": 0,
     "protein": 26,
-    "fat": 20,
+    "fat": 15,
     "carbs": 0,
     "restrictions": {
       "lowSugar": {
@@ -29775,8 +29775,8 @@
     "foodName": "Tavuk Kanadı",
     "category": "Et",
     "sugarContent": 0,
-    "protein": 30,
-    "fat": 19.5,
+    "protein": 27,
+    "fat": 20,
     "carbs": 0,
     "restrictions": {
       "lowSugar": {
@@ -29904,8 +29904,8 @@
     "foodName": "Biftek",
     "category": "Et",
     "sugarContent": 0,
-    "protein": 25,
-    "fat": 16,
+    "protein": 29,
+    "fat": 8.8,
     "carbs": 0,
     "restrictions": {
       "lowSugar": {
@@ -30031,11 +30031,11 @@
   },
   {
     "foodName": "Köfte",
-    "category": "Et",
-    "sugarContent": 1,
-    "protein": 18,
-    "fat": 12,
-    "carbs": 8,
+    "category": "İşlenmiş",
+    "sugarContent": 0.5,
+    "protein": 24,
+    "fat": 15,
+    "carbs": 3,
     "restrictions": {
       "lowSugar": {
         "status": 2,
@@ -30160,11 +30160,11 @@
   },
   {
     "foodName": "Sucuk",
-    "category": "Et",
+    "category": "İşlenmiş",
     "sugarContent": 0.5,
-    "protein": 12,
-    "fat": 25,
-    "carbs": 2,
+    "protein": 14.5,
+    "fat": 30,
+    "carbs": 2.5,
     "restrictions": {
       "lowSugar": {
         "status": 2,
@@ -30289,11 +30289,11 @@
   },
   {
     "foodName": "Salam",
-    "category": "Et",
-    "sugarContent": 0.5,
+    "category": "İşlenmiş",
+    "sugarContent": 0.6,
     "protein": 22,
-    "fat": 28,
-    "carbs": 2,
+    "fat": 36,
+    "carbs": 2.5,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -30418,11 +30418,11 @@
   },
   {
     "foodName": "Pastırma",
-    "category": "Et",
+    "category": "İşlenmiş",
     "sugarContent": 1,
-    "protein": 21,
-    "fat": 25,
-    "carbs": 2,
+    "protein": 22,
+    "fat": 5.5,
+    "carbs": 1.5,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -30547,11 +30547,11 @@
   },
   {
     "foodName": "Jambon",
-    "category": "Et",
+    "category": "İşlenmiş",
     "sugarContent": 1,
-    "protein": 16,
-    "fat": 5,
-    "carbs": 2,
+    "protein": 21,
+    "fat": 6,
+    "carbs": 1.5,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -30676,11 +30676,11 @@
   },
   {
     "foodName": "Bacon",
-    "category": "Et",
+    "category": "İşlenmiş",
     "sugarContent": 0,
-    "protein": 12,
+    "protein": 37,
     "fat": 42,
-    "carbs": 1,
+    "carbs": 1.4,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -30805,11 +30805,11 @@
   },
   {
     "foodName": "Sosis",
-    "category": "Et",
-    "sugarContent": 1.5,
-    "protein": 10,
-    "fat": 15,
-    "carbs": 4,
+    "category": "İşlenmiş",
+    "sugarContent": 1,
+    "protein": 12,
+    "fat": 27,
+    "carbs": 2.5,
     "restrictions": {
       "lowSugar": {
         "status": 2,
@@ -30935,10 +30935,10 @@
   {
     "foodName": "Tam Yağlı Süt",
     "category": "Süt Ürünleri",
-    "sugarContent": 4.8,
-    "protein": 3.2,
-    "fat": 3.3,
-    "carbs": 4.8,
+    "sugarContent": 4.7,
+    "protein": 3.3,
+    "fat": 3.5,
+    "carbs": 4.7,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -31064,10 +31064,10 @@
   {
     "foodName": "Yarım Yağlı Süt",
     "category": "Süt Ürünleri",
-    "sugarContent": 4.8,
-    "protein": 3.3,
+    "sugarContent": 4.9,
+    "protein": 3.4,
     "fat": 1.5,
-    "carbs": 4.8,
+    "carbs": 4.9,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -31297,8 +31297,8 @@
     "foodName": "Yoğurt",
     "category": "Süt Ürünleri",
     "sugarContent": 4.7,
-    "protein": 10,
-    "fat": 0.4,
+    "protein": 3.5,
+    "fat": 3.3,
     "carbs": 4.7,
     "restrictions": {
       "lowSugar": {
@@ -31426,8 +31426,8 @@
     "foodName": "Tam Yağlı Yoğurt",
     "category": "Süt Ürünleri",
     "sugarContent": 4.7,
-    "protein": 3.5,
-    "fat": 3.3,
+    "protein": 3.3,
+    "fat": 3.5,
     "carbs": 4.7,
     "restrictions": {
       "lowSugar": {
@@ -31554,10 +31554,10 @@
   {
     "foodName": "Yunan Yoğurdu",
     "category": "Süt Ürünleri",
-    "sugarContent": 3.6,
-    "protein": 10,
-    "fat": 0.4,
-    "carbs": 3.6,
+    "sugarContent": 3.5,
+    "protein": 9,
+    "fat": 2,
+    "carbs": 3.9,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -31825,10 +31825,10 @@
   {
     "foodName": "Beyaz Peynir",
     "category": "Süt Ürünleri",
-    "sugarContent": 1,
-    "protein": 18,
-    "fat": 20,
-    "carbs": 2,
+    "sugarContent": 4.1,
+    "protein": 14.2,
+    "fat": 21.3,
+    "carbs": 4.1,
     "restrictions": {
       "lowSugar": {
         "status": 2,
@@ -31970,7 +31970,7 @@
     "sugarContent": 0.5,
     "protein": 25,
     "fat": 33,
-    "carbs": 1,
+    "carbs": 1.3,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -32112,7 +32112,7 @@
     "sugarContent": 1,
     "protein": 22,
     "fat": 22,
-    "carbs": 2,
+    "carbs": 2.2,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -32393,10 +32393,10 @@
   {
     "foodName": "Lor Peyniri",
     "category": "Süt Ürünleri",
-    "sugarContent": 3,
-    "protein": 11,
-    "fat": 4,
-    "carbs": 3,
+    "sugarContent": 2.7,
+    "protein": 11.1,
+    "fat": 4.3,
+    "carbs": 3.4,
     "restrictions": {
       "lowSugar": {
         "status": 2,
@@ -32535,10 +32535,10 @@
   {
     "foodName": "Krem Peynir",
     "category": "Süt Ürünleri",
-    "sugarContent": 3,
+    "sugarContent": 3.2,
     "protein": 6,
-    "fat": 35,
-    "carbs": 3,
+    "fat": 34,
+    "carbs": 4,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -32793,10 +32793,10 @@
   {
     "foodName": "Kaymak",
     "category": "Süt Ürünleri",
-    "sugarContent": 3,
-    "protein": 2,
-    "fat": 60,
-    "carbs": 3,
+    "sugarContent": 1.9,
+    "protein": 1.6,
+    "fat": 64,
+    "carbs": 1.9,
     "restrictions": {
       "lowSugar": {
         "status": 2,
@@ -32923,8 +32923,8 @@
     "foodName": "Ayran",
     "category": "Süt Ürünleri",
     "sugarContent": 3,
-    "protein": 1.5,
-    "fat": 1,
+    "protein": 2,
+    "fat": 2,
     "carbs": 3,
     "restrictions": {
       "lowSugar": {
@@ -33054,7 +33054,7 @@
     "sugarContent": 4.5,
     "protein": 3.3,
     "fat": 3.5,
-    "carbs": 4.5,
+    "carbs": 4.8,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -33179,7 +33179,7 @@
   },
   {
     "foodName": "Dondurma",
-    "category": "Süt Ürünleri",
+    "category": "İşlenmiş",
     "sugarContent": 21,
     "protein": 3.5,
     "fat": 11,
@@ -33286,7 +33286,7 @@
     "sugarContent": 0.1,
     "protein": 2.7,
     "fat": 0.3,
-    "carbs": 28,
+    "carbs": 28.2,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -33428,7 +33428,7 @@
     "sugarContent": 0.1,
     "protein": 2.7,
     "fat": 0.3,
-    "carbs": 28,
+    "carbs": 28.2,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -33568,7 +33568,7 @@
     "foodName": "Esmer Pirinç",
     "category": "Tahıl",
     "sugarContent": 0.4,
-    "protein": 2.9,
+    "protein": 2.6,
     "fat": 0.9,
     "carbs": 23,
     "restrictions": {
@@ -33709,10 +33709,10 @@
   {
     "foodName": "Bulgur",
     "category": "Tahıl",
-    "sugarContent": 0.2,
+    "sugarContent": 0.1,
     "protein": 3.1,
     "fat": 0.2,
-    "carbs": 19,
+    "carbs": 18.6,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -33840,7 +33840,7 @@
     "category": "Tahıl",
     "sugarContent": 0.6,
     "protein": 5,
-    "fat": 1,
+    "fat": 1.1,
     "carbs": 25,
     "restrictions": {
       "lowSugar": {
@@ -33980,10 +33980,10 @@
   {
     "foodName": "Kepekli Makarna",
     "category": "Tahıl",
-    "sugarContent": 0.5,
-    "protein": 5,
-    "fat": 1.5,
-    "carbs": 23,
+    "sugarContent": 0.8,
+    "protein": 5.3,
+    "fat": 0.8,
+    "carbs": 26.5,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -34124,7 +34124,7 @@
     "category": "Tahıl",
     "sugarContent": 0.5,
     "protein": 4.5,
-    "fat": 1,
+    "fat": 2.1,
     "carbs": 25,
     "restrictions": {
       "lowSugar": {
@@ -34265,8 +34265,8 @@
     "foodName": "Beyaz Ekmek",
     "category": "Tahıl",
     "sugarContent": 5,
-    "protein": 9,
-    "fat": 3,
+    "protein": 9.1,
+    "fat": 3.2,
     "carbs": 49,
     "restrictions": {
       "lowSugar": {
@@ -34406,9 +34406,9 @@
   {
     "foodName": "Tam Buğday Ekmeği",
     "category": "Tahıl",
-    "sugarContent": 4,
+    "sugarContent": 6,
     "protein": 13,
-    "fat": 4,
+    "fat": 3.4,
     "carbs": 41,
     "restrictions": {
       "lowSugar": {
@@ -34548,9 +34548,9 @@
   {
     "foodName": "Çavdar Ekmeği",
     "category": "Tahıl",
-    "sugarContent": 3,
-    "protein": 8,
-    "fat": 3,
+    "sugarContent": 3.9,
+    "protein": 8.5,
+    "fat": 3.3,
     "carbs": 48,
     "restrictions": {
       "lowSugar": {
@@ -34690,10 +34690,10 @@
   {
     "foodName": "Yulaf",
     "category": "Tahıl",
-    "sugarContent": 0.8,
-    "protein": 17,
-    "fat": 7,
-    "carbs": 66,
+    "sugarContent": 1,
+    "protein": 13.5,
+    "fat": 6.5,
+    "carbs": 67.7,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -34832,10 +34832,10 @@
   {
     "foodName": "Yulaf Ezmesi",
     "category": "Tahıl",
-    "sugarContent": 0.3,
-    "protein": 2.4,
-    "fat": 1.4,
-    "carbs": 12,
+    "sugarContent": 1,
+    "protein": 13.5,
+    "fat": 6.5,
+    "carbs": 67.7,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -35103,10 +35103,10 @@
   {
     "foodName": "Arpa",
     "category": "Tahıl",
-    "sugarContent": 0.8,
-    "protein": 12,
-    "fat": 2,
-    "carbs": 73,
+    "sugarContent": 0.1,
+    "protein": 2.3,
+    "fat": 0.4,
+    "carbs": 28.2,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -35248,7 +35248,7 @@
     "sugarContent": 0.9,
     "protein": 4.4,
     "fat": 1.9,
-    "carbs": 22,
+    "carbs": 21.3,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -35387,9 +35387,9 @@
   {
     "foodName": "Karabuğday",
     "category": "Tahıl",
-    "sugarContent": 0.2,
+    "sugarContent": 0.9,
     "protein": 3.4,
-    "fat": 1,
+    "fat": 0.6,
     "carbs": 20,
     "restrictions": {
       "lowSugar": {
@@ -35517,9 +35517,9 @@
     "foodName": "Mısır Unu",
     "category": "Tahıl",
     "sugarContent": 0.6,
-    "protein": 7,
-    "fat": 1.8,
-    "carbs": 79,
+    "protein": 9.4,
+    "fat": 3.9,
+    "carbs": 74,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -35661,7 +35661,7 @@
     "sugarContent": 0.1,
     "protein": 3.8,
     "fat": 0.2,
-    "carbs": 23,
+    "carbs": 23.2,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -35800,10 +35800,10 @@
   {
     "foodName": "Badem",
     "category": "Atıştırmalık",
-    "sugarContent": 4.4,
-    "protein": 21,
-    "fat": 50,
-    "carbs": 22,
+    "sugarContent": 4.35,
+    "protein": 21.15,
+    "fat": 49.93,
+    "carbs": 21.55,
     "restrictions": {
       "lowSugar": {
         "status": 2,
@@ -35942,10 +35942,10 @@
   {
     "foodName": "Ceviz",
     "category": "Atıştırmalık",
-    "sugarContent": 2.6,
-    "protein": 15,
-    "fat": 65,
-    "carbs": 14,
+    "sugarContent": 2.61,
+    "protein": 15.23,
+    "fat": 65.21,
+    "carbs": 13.71,
     "restrictions": {
       "lowSugar": {
         "status": 2,
@@ -36071,10 +36071,10 @@
   {
     "foodName": "Fındık",
     "category": "Atıştırmalık",
-    "sugarContent": 4.3,
-    "protein": 15,
-    "fat": 61,
-    "carbs": 17,
+    "sugarContent": 4.34,
+    "protein": 14.95,
+    "fat": 60.75,
+    "carbs": 16.7,
     "restrictions": {
       "lowSugar": {
         "status": 2,
@@ -36200,10 +36200,10 @@
   {
     "foodName": "Fıstık",
     "category": "Atıştırmalık",
-    "sugarContent": 4.7,
-    "protein": 26,
-    "fat": 49,
-    "carbs": 16,
+    "sugarContent": 4.72,
+    "protein": 25.8,
+    "fat": 49.24,
+    "carbs": 16.13,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -36342,10 +36342,10 @@
   {
     "foodName": "Kaju",
     "category": "Atıştırmalık",
-    "sugarContent": 5.9,
-    "protein": 18,
-    "fat": 44,
-    "carbs": 30,
+    "sugarContent": 5.91,
+    "protein": 18.22,
+    "fat": 43.85,
+    "carbs": 30.19,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -36484,10 +36484,10 @@
   {
     "foodName": "Antep Fıstığı",
     "category": "Atıştırmalık",
-    "sugarContent": 7.7,
-    "protein": 20,
-    "fat": 45,
-    "carbs": 28,
+    "sugarContent": 7.66,
+    "protein": 20.16,
+    "fat": 45.32,
+    "carbs": 27.17,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -36626,10 +36626,10 @@
   {
     "foodName": "Yer Fıstığı",
     "category": "Atıştırmalık",
-    "sugarContent": 4.7,
-    "protein": 26,
-    "fat": 49,
-    "carbs": 16,
+    "sugarContent": 4.72,
+    "protein": 25.8,
+    "fat": 49.24,
+    "carbs": 16.13,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -36768,9 +36768,9 @@
   {
     "foodName": "Çekirdek",
     "category": "Atıştırmalık",
-    "sugarContent": 2.6,
-    "protein": 21,
-    "fat": 51,
+    "sugarContent": 2.62,
+    "protein": 20.78,
+    "fat": 51.46,
     "carbs": 20,
     "restrictions": {
       "lowSugar": {
@@ -36911,9 +36911,9 @@
     "foodName": "Kabak Çekirdeği",
     "category": "Atıştırmalık",
     "sugarContent": 1.4,
-    "protein": 30,
-    "fat": 49,
-    "carbs": 11,
+    "protein": 30.23,
+    "fat": 49.05,
+    "carbs": 10.71,
     "restrictions": {
       "lowSugar": {
         "status": 2,
@@ -37052,10 +37052,10 @@
   {
     "foodName": "Kuru Üzüm",
     "category": "Atıştırmalık",
-    "sugarContent": 59,
-    "protein": 3,
-    "fat": 0.5,
-    "carbs": 79,
+    "sugarContent": 59.19,
+    "protein": 3.07,
+    "fat": 0.46,
+    "carbs": 79.18,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -37155,10 +37155,10 @@
   {
     "foodName": "Kuru Kayısı",
     "category": "Atıştırmalık",
-    "sugarContent": 53,
-    "protein": 3.4,
-    "fat": 0.5,
-    "carbs": 63,
+    "sugarContent": 53.44,
+    "protein": 3.39,
+    "fat": 0.51,
+    "carbs": 62.64,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -37258,10 +37258,10 @@
   {
     "foodName": "Hurma",
     "category": "Atıştırmalık",
-    "sugarContent": 63,
-    "protein": 2.5,
-    "fat": 0.4,
-    "carbs": 75,
+    "sugarContent": 66.47,
+    "protein": 1.81,
+    "fat": 0.15,
+    "carbs": 74.97,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -37361,10 +37361,10 @@
   {
     "foodName": "Kuru İncir",
     "category": "Atıştırmalık",
-    "sugarContent": 48,
+    "sugarContent": 47.92,
     "protein": 3.3,
-    "fat": 0.9,
-    "carbs": 64,
+    "fat": 0.93,
+    "carbs": 63.87,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -37465,9 +37465,9 @@
     "foodName": "Bitter Çikolata",
     "category": "İşlenmiş",
     "sugarContent": 24,
-    "protein": 7,
-    "fat": 31,
-    "carbs": 46,
+    "protein": 7.8,
+    "fat": 42.6,
+    "carbs": 45.9,
     "restrictions": {
       "lowSugar": {
         "status": 1,
@@ -37606,10 +37606,10 @@
   {
     "foodName": "Sütlü Çikolata",
     "category": "İşlenmiş",
-    "sugarContent": 54,
-    "protein": 7.6,
-    "fat": 32,
-    "carbs": 57,
+    "sugarContent": 52,
+    "protein": 7.7,
+    "fat": 30,
+    "carbs": 59,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -38032,10 +38032,10 @@
   {
     "foodName": "Bisküvi",
     "category": "İşlenmiş",
-    "sugarContent": 36,
-    "protein": 6,
-    "fat": 20,
-    "carbs": 68,
+    "sugarContent": 35,
+    "protein": 5.5,
+    "fat": 25,
+    "carbs": 64,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -38174,10 +38174,10 @@
   {
     "foodName": "Kek",
     "category": "İşlenmiş",
-    "sugarContent": 38,
-    "protein": 3.7,
+    "sugarContent": 30,
+    "protein": 6,
     "fat": 15,
-    "carbs": 53,
+    "carbs": 49,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -38316,9 +38316,9 @@
   {
     "foodName": "Brownie",
     "category": "İşlenmiş",
-    "sugarContent": 43,
-    "protein": 4.6,
-    "fat": 18,
+    "sugarContent": 40,
+    "protein": 5,
+    "fat": 25,
     "carbs": 50,
     "restrictions": {
       "lowSugar": {
@@ -38458,10 +38458,10 @@
   {
     "foodName": "Donut",
     "category": "İşlenmiş",
-    "sugarContent": 19,
-    "protein": 4,
-    "fat": 25,
-    "carbs": 49,
+    "sugarContent": 27,
+    "protein": 5,
+    "fat": 23,
+    "carbs": 51,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -38600,10 +38600,10 @@
   {
     "foodName": "Mısır Gevreği",
     "category": "İşlenmiş",
-    "sugarContent": 30,
-    "protein": 7,
-    "fat": 1.5,
-    "carbs": 85,
+    "sugarContent": 9,
+    "protein": 7.5,
+    "fat": 0.4,
+    "carbs": 84,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -38742,10 +38742,10 @@
   {
     "foodName": "Yulaf Gevreği",
     "category": "İşlenmiş",
-    "sugarContent": 20,
-    "protein": 10,
-    "fat": 7,
-    "carbs": 67,
+    "sugarContent": 9,
+    "protein": 7.5,
+    "fat": 0.4,
+    "carbs": 84,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -38884,9 +38884,9 @@
   {
     "foodName": "Müsli",
     "category": "İşlenmiş",
-    "sugarContent": 26,
-    "protein": 9.7,
-    "fat": 5.9,
+    "sugarContent": 25,
+    "protein": 11,
+    "fat": 10,
     "carbs": 66,
     "restrictions": {
       "lowSugar": {
@@ -39026,7 +39026,7 @@
   {
     "foodName": "Granola",
     "category": "İşlenmiş",
-    "sugarContent": 24,
+    "sugarContent": 25,
     "protein": 10,
     "fat": 20,
     "carbs": 64,
@@ -39168,10 +39168,10 @@
   {
     "foodName": "Patlamış Mısır",
     "category": "İşlenmiş",
-    "sugarContent": 0.9,
-    "protein": 12,
-    "fat": 4.5,
-    "carbs": 78,
+    "sugarContent": 0.5,
+    "protein": 9,
+    "fat": 25,
+    "carbs": 62,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -39297,7 +39297,7 @@
   {
     "foodName": "Cips",
     "category": "İşlenmiş",
-    "sugarContent": 0.3,
+    "sugarContent": 0.4,
     "protein": 7,
     "fat": 35,
     "carbs": 53,
@@ -39426,10 +39426,10 @@
   {
     "foodName": "Kraker",
     "category": "İşlenmiş",
-    "sugarContent": 9,
-    "protein": 9,
-    "fat": 11,
-    "carbs": 70,
+    "sugarContent": 6,
+    "protein": 10,
+    "fat": 9,
+    "carbs": 74,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -39556,8 +39556,8 @@
     "foodName": "Simit",
     "category": "İşlenmiş",
     "sugarContent": 6,
-    "protein": 11,
-    "fat": 1.7,
+    "protein": 10,
+    "fat": 1.5,
     "carbs": 49,
     "restrictions": {
       "lowSugar": {
@@ -39685,7 +39685,7 @@
     "foodName": "Croissant",
     "category": "İşlenmiş",
     "sugarContent": 11,
-    "protein": 7,
+    "protein": 8,
     "fat": 21,
     "carbs": 46,
     "restrictions": {
@@ -39955,10 +39955,10 @@
   {
     "foodName": "Pizza",
     "category": "İşlenmiş",
-    "sugarContent": 3.6,
+    "sugarContent": 4,
     "protein": 12,
-    "fat": 10,
-    "carbs": 33,
+    "fat": 12,
+    "carbs": 32,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -40084,10 +40084,10 @@
   {
     "foodName": "Hamburger",
     "category": "İşlenmiş",
-    "sugarContent": 4,
-    "protein": 17,
-    "fat": 14,
-    "carbs": 25,
+    "sugarContent": 5,
+    "protein": 12,
+    "fat": 9,
+    "carbs": 30,
     "restrictions": {
       "lowSugar": {
         "status": 3,
@@ -40215,7 +40215,7 @@
     "category": "İşlenmiş",
     "sugarContent": 0.3,
     "protein": 3.4,
-    "fat": 17,
+    "fat": 15,
     "carbs": 41,
     "restrictions": {
       "lowSugar": {
@@ -40342,10 +40342,10 @@
   {
     "foodName": "Çikolatalı Süt",
     "category": "İşlenmiş",
-    "sugarContent": 9.5,
-    "protein": 3.2,
-    "fat": 3.4,
-    "carbs": 10,
+    "sugarContent": 11,
+    "protein": 3.3,
+    "fat": 2.5,
+    "carbs": 12,
     "restrictions": {
       "lowSugar": {
         "status": 2,

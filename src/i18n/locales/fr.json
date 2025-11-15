@@ -70,10 +70,36 @@
   "per100g": "pour 100g",
   "sugar": "g Sucre",
   "sugarLevel": {
-    "sugar": "Sucre"
+    "sugar": "Sucre",
+    "low": "Faible",
+    "medium": "Moyen",
+    "high": "Élevé"
   },
   "dietWarning": {
     "title": "Non Adapté au Régime Sélectionné",
     "switchToGeneral": "Passer à la Vue Générale"
-  }
+  },
+  "dietFilter": {
+    "general": "Général",
+    "diabetes": "Diabète",
+    "keto": "Kéto",
+    "lowcarb": "Faible en Glucides",
+    "kids": "Enfants"
+  },
+  "dietAdvice": {
+    "ketoSuitable": "Adapté au régime kéto",
+    "ketoNotSuitable": "Non adapté au régime kéto - Riche en glucides",
+    "diabetesCaution": "Adapté avec précaution pour le diabète",
+    "diabetesNotSuitable": "Non recommandé pour le diabète - Riche en sucre",
+    "lowcarbSuitable": "Adapté au régime faible en glucides",
+    "lowcarbNotSuitable": "Non adapté au régime faible en glucides",
+    "kidsSuitable": "Adapté aux enfants",
+    "kidsModerate": "Consommation modérée recommandée pour les enfants"
+  },
+  "popularFoods": "Aliments Populaires",
+  "recentSearches": "Recherches Récentes",
+  "favorites": "Favoris",
+  "addFavorite": "Ajouter aux Favoris",
+  "removeFavorite": "Retirer des Favoris",
+  "portion": "Taille de Portion"
 }

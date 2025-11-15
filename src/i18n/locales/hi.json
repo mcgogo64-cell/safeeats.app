@@ -70,10 +70,36 @@
   "per100g": "100g प्रति",
   "sugar": "ग्राम चीनी",
   "sugarLevel": {
-    "sugar": "चीनी"
+    "sugar": "चीनी",
+    "low": "कम",
+    "medium": "मध्यम",
+    "high": "उच्च"
   },
   "dietWarning": {
     "title": "चयनित आहार के लिए उपयुक्त नहीं",
     "switchToGeneral": "सामान्य दृश्य पर स्विच करें"
-  }
+  },
+  "dietFilter": {
+    "general": "सामान्य",
+    "diabetes": "मधुमेह",
+    "keto": "कीटो",
+    "lowcarb": "कम कार्बोहाइड्रेट",
+    "kids": "बच्चे"
+  },
+  "dietAdvice": {
+    "ketoSuitable": "कीटो आहार के लिए उपयुक्त",
+    "ketoNotSuitable": "कीटो आहार के लिए उपयुक्त नहीं - उच्च कार्बोहाइड्रेट",
+    "diabetesCaution": "मधुमेह के लिए सावधानी के साथ उपयुक्त",
+    "diabetesNotSuitable": "मधुमेह के लिए अनुशंसित नहीं - उच्च चीनी",
+    "lowcarbSuitable": "कम कार्बोहाइड्रेट आहार के लिए उपयुक्त",
+    "lowcarbNotSuitable": "कम कार्बोहाइड्रेट आहार के लिए उपयुक्त नहीं",
+    "kidsSuitable": "बच्चों के लिए उपयुक्त",
+    "kidsModerate": "बच्चों के लिए मध्यम खपत की सिफारिश की जाती है"
+  },
+  "popularFoods": "लोकप्रिय खाद्य पदार्थ",
+  "recentSearches": "हाल की खोजें",
+  "favorites": "पसंदीदा",
+  "addFavorite": "पसंदीदा में जोड़ें",
+  "removeFavorite": "पसंदीदा से हटाएं",
+  "portion": "भाग का आकार"
 }

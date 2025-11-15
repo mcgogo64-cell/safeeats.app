@@ -70,10 +70,36 @@
   "per100g": "لكل 100g",
   "sugar": "جم سكر",
   "sugarLevel": {
-    "sugar": "السكر"
+    "sugar": "السكر",
+    "low": "منخفض",
+    "medium": "متوسط",
+    "high": "عالٍ"
   },
   "dietWarning": {
     "title": "غير مناسب للنظام الغذائي المحدد",
     "switchToGeneral": "التبديل إلى العرض العام"
-  }
+  },
+  "dietFilter": {
+    "general": "عام",
+    "diabetes": "السكري",
+    "keto": "الكيتو",
+    "lowcarb": "قليل الكربوهيدرات",
+    "kids": "الأطفال"
+  },
+  "dietAdvice": {
+    "ketoSuitable": "مناسب لنظام الكيتو الغذائي",
+    "ketoNotSuitable": "غير مناسب لنظام الكيتو الغذائي - عالي الكربوهيدرات",
+    "diabetesCaution": "مناسب بحذر لمرضى السكري",
+    "diabetesNotSuitable": "غير موصى به لمرضى السكري - عالي السكر",
+    "lowcarbSuitable": "مناسب لنظام غذائي منخفض الكربوهيدرات",
+    "lowcarbNotSuitable": "غير مناسب لنظام غذائي منخفض الكربوهيدرات",
+    "kidsSuitable": "مناسب للأطفال",
+    "kidsModerate": "يُنصح باستهلاك معتدل للأطفال"
+  },
+  "popularFoods": "الأطعمة الشائعة",
+  "recentSearches": "البحوث الأخيرة",
+  "favorites": "المفضلة",
+  "addFavorite": "إضافة إلى المفضلة",
+  "removeFavorite": "إزالة من المفضلة",
+  "portion": "حجم الحصة"
 }

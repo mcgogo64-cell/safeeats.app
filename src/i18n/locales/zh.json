@@ -70,10 +70,36 @@
   "per100g": "每100克",
   "sugar": "克糖",
   "sugarLevel": {
-    "sugar": "糖"
+    "sugar": "糖",
+    "low": "低",
+    "medium": "中",
+    "high": "高"
   },
   "dietWarning": {
     "title": "不适合所选饮食",
     "switchToGeneral": "切换到常规视图"
-  }
+  },
+  "dietFilter": {
+    "general": "通用",
+    "diabetes": "糖尿病",
+    "keto": "生酮",
+    "lowcarb": "低碳水",
+    "kids": "儿童"
+  },
+  "dietAdvice": {
+    "ketoSuitable": "适合生酮饮食",
+    "ketoNotSuitable": "不适合生酮饮食 - 高碳水",
+    "diabetesCaution": "糖尿病患者需谨慎食用",
+    "diabetesNotSuitable": "不建议糖尿病患者食用 - 高糖",
+    "lowcarbSuitable": "适合低碳水饮食",
+    "lowcarbNotSuitable": "不适合低碳水饮食",
+    "kidsSuitable": "适合儿童",
+    "kidsModerate": "建议儿童适量食用"
+  },
+  "popularFoods": "热门食物",
+  "recentSearches": "最近搜索",
+  "favorites": "收藏",
+  "addFavorite": "添加到收藏",
+  "removeFavorite": "从收藏中移除",
+  "portion": "份量"
 }

@@ -70,10 +70,36 @@
   "per100g": "100gあたり",
   "sugar": "g糖質",
   "sugarLevel": {
-    "sugar": "糖質"
+    "sugar": "糖質",
+    "low": "低",
+    "medium": "中",
+    "high": "高"
   },
   "dietWarning": {
     "title": "選択したダイエットには適していません",
     "switchToGeneral": "一般表示に切り替え"
-  }
+  },
+  "dietFilter": {
+    "general": "一般",
+    "diabetes": "糖尿病",
+    "keto": "ケト",
+    "lowcarb": "低炭水化物",
+    "kids": "子供"
+  },
+  "dietAdvice": {
+    "ketoSuitable": "ケトジェニックダイエットに適しています",
+    "ketoNotSuitable": "ケトジェニックダイエットに適していません - 高炭水化物",
+    "diabetesCaution": "糖尿病患者は注意して摂取できます",
+    "diabetesNotSuitable": "糖尿病患者には推奨されません - 高糖質",
+    "lowcarbSuitable": "低炭水化物ダイエットに適しています",
+    "lowcarbNotSuitable": "低炭水化物ダイエットに適していません",
+    "kidsSuitable": "子供に適しています",
+    "kidsModerate": "子供には適度な摂取が推奨されます"
+  },
+  "popularFoods": "人気の食べ物",
+  "recentSearches": "最近の検索",
+  "favorites": "お気に入り",
+  "addFavorite": "お気に入りに追加",
+  "removeFavorite": "お気に入りから削除",
+  "portion": "分量"
 }
